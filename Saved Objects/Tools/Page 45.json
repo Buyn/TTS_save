@@ -1,0 +1,100 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -25.9995823,
+        "posY": 2.15756226,
+        "posZ": -17.99958,
+        "rotX": 359.974182,
+        "rotY": 150.001,
+        "rotZ": -0.00421965728,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992168367,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Battle For Souls>BattleForSoulsDialOutsideNumbers",
+        "DiffuseURL": "<Battle For Souls>BattleForSoulsHeavenDialNumbers.png",
+        "NormalURL": "",
+        "ColliderURL": "<Battle For Souls>BattleForSoulsDialOutsideNumbersCollider",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointHinge": {
+        "UseLimits": false,
+        "Limits": {
+          "minBounce": 0.0,
+          "maxBounce": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "bounciness": 0.0,
+          "bounceMinVelocity": 0.0,
+          "contactDistance": 0.0
+        },
+        "UseMotor": false,
+        "Motor": {
+          "targetVelocity": 0.0,
+          "force": 0.0,
+          "freeSpin": false
+        },
+        "UseSpring": false,
+        "Spring": {
+          "spring": 0.0,
+          "damper": 0.0,
+          "targetPosition": 0.0
+        },
+        "ConnectedBodyGUID": "e2db6d",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -2.44207131E-05,
+          "y": 0.00591087341,
+          "z": 3.35639852E-05
+        },
+        "BreakForce": 1E+10,
+        "BreakTorgue": 1E+10
+      },
+      "GUID": "15de9c"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

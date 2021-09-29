@@ -1,0 +1,61 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -30.70175,
+        "posY": 2.81793284,
+        "posZ": 15.8863745,
+        "rotX": 8.554926E-06,
+        "rotY": 299.963226,
+        "rotZ": 1.2737961E-06,
+        "scaleX": 1.19999981,
+        "scaleY": 1.19999981,
+        "scaleZ": 1.19999981
+      },
+      "Nickname": "Crystal Ball",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.7941176,
+        "g": 0.3587921,
+        "b": 0.122610532
+      },
+      "Locked": true,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/910157549223304149/0303FBCB4DB1B4F26A4BBB95392A9F64DCBA461B/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "674f9b"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

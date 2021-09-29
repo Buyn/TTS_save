@@ -1,0 +1,1049 @@
+{
+  "SaveName": "Adjustable Skysphere",
+  "GameMode": "Adjustable Skysphere",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "5/3/2021 12:45:39 AM",
+  "Table": "Table_Glass",
+  "Sky": "Sky_Tunnel",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
+  "LuaScript": "--[[ Lua code. See documentation: https://api.tabletopsimulator.com/ --]]\n\n--[[ The onLoad event is called after the game save finishes loading. --]]\nfunction onLoad()\n    --[[ print('onLoad!') --]]\nend\n\n--[[ The onUpdate event is called once per frame. --]]\nfunction onUpdate()\n    --[[ print('onUpdate loop!') --]]\nend",
+  "LuaScriptState": "",
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "Opacity": 0.75,
+    "ThickLines": false,
+    "Snapping": false,
+    "Offset": false,
+    "BothSnapping": false,
+    "xSize": 2.0,
+    "ySize": 2.0,
+    "PosOffset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    }
+  },
+  "Lighting": {
+    "LightIntensity": 0.54,
+    "LightColor": {
+      "r": 1.0,
+      "g": 0.9804,
+      "b": 0.8902
+    },
+    "AmbientIntensity": 1.3,
+    "AmbientType": 0,
+    "AmbientSkyColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientEquatorColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientGroundColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "ReflectionIntensity": 1.0,
+    "LutIndex": 0,
+    "LutContribution": 1.0
+  },
+  "Hands": {
+    "Enable": true,
+    "DisableUnused": true,
+    "Hiding": 0,
+    "HandTransforms": [
+      {
+        "Color": "Red",
+        "Transform": {
+          "posX": -17.73776,
+          "posY": 3.59109759,
+          "posZ": -17.39597,
+          "rotX": 0.0,
+          "rotY": 45.0000038,
+          "rotZ": 0.0,
+          "scaleX": 11.655426,
+          "scaleY": 9.176066,
+          "scaleZ": 4.871237
+        }
+      },
+      {
+        "Color": "Yellow",
+        "Transform": {
+          "posX": -17.3967724,
+          "posY": 3.591108,
+          "posZ": 17.5957546,
+          "rotX": 0.0,
+          "rotY": 135.000015,
+          "rotZ": 0.0,
+          "scaleX": 11.6639462,
+          "scaleY": 9.176066,
+          "scaleZ": 4.875141
+        }
+      },
+      {
+        "Color": "Purple",
+        "Transform": {
+          "posX": 24.9180279,
+          "posY": 3.59109569,
+          "posZ": 0.05930519,
+          "rotX": 0.0,
+          "rotY": 270.0,
+          "rotZ": 0.0,
+          "scaleX": 11.6672277,
+          "scaleY": 9.176066,
+          "scaleZ": 4.87668467
+        }
+      },
+      {
+        "Color": "Blue",
+        "Transform": {
+          "posX": 17.6923714,
+          "posY": 3.59109569,
+          "posZ": 17.4496384,
+          "rotX": 0.0,
+          "rotY": 224.999985,
+          "rotZ": 0.0,
+          "scaleX": 11.6567993,
+          "scaleY": 9.176066,
+          "scaleZ": 4.871862
+        }
+      },
+      {
+        "Color": "White",
+        "Transform": {
+          "posX": -0.00646400452,
+          "posY": 3.59109759,
+          "posZ": -24.7677689,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0,
+          "scaleX": 11.6554279,
+          "scaleY": 9.176067,
+          "scaleZ": 4.87125063
+        }
+      },
+      {
+        "Color": "Green",
+        "Transform": {
+          "posX": -0.00646400452,
+          "posY": 3.59109187,
+          "posZ": 24.8376617,
+          "rotX": 0.0,
+          "rotY": 180.0,
+          "rotZ": 0.0,
+          "scaleX": 11.6554279,
+          "scaleY": 9.176066,
+          "scaleZ": 4.871582
+        }
+      },
+      {
+        "Color": "Pink",
+        "Transform": {
+          "posX": 17.6436539,
+          "posY": 3.591132,
+          "posZ": -17.59082,
+          "rotX": 0.0,
+          "rotY": 315.0,
+          "rotZ": 0.0,
+          "scaleX": 11.6560974,
+          "scaleY": 9.176066,
+          "scaleZ": 4.87134457
+        }
+      },
+      {
+        "Color": "Orange",
+        "Transform": {
+          "posX": -24.8173,
+          "posY": 3.59110427,
+          "posZ": 0.0105934143,
+          "rotX": 0.0,
+          "rotY": 90.0,
+          "rotZ": 0.0,
+          "scaleX": 11.66628,
+          "scaleY": 9.176066,
+          "scaleZ": 4.876741
+        }
+      }
+    ]
+  },
+  "Turns": {
+    "Enable": false,
+    "Type": 0,
+    "TurnOrder": [],
+    "Reverse": false,
+    "SkipEmpty": false,
+    "DisableInteractions": false,
+    "PassTurns": true
+  },
+  "ObjectStates": [
+    {
+      "Name": "Die_6_Rounded",
+      "Transform": {
+        "posX": 4.287785,
+        "posY": 1.29249978,
+        "posZ": -5.365184,
+        "rotX": 1.19528313E-05,
+        "rotY": 158.0852,
+        "rotZ": 90.0,
+        "scaleX": 0.950000942,
+        "scaleY": 0.950000942,
+        "scaleZ": 0.950000942
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0588639081,
+        "g": 0.0541051775,
+        "b": 0.0541051775
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": 0,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "d39555",
+      "RotationValues": [
+        {
+          "Value": 1,
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Value": 2,
+          "Rotation": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Value": 3,
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 90.0
+          }
+        },
+        {
+          "Value": 4,
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -90.0
+          }
+        },
+        {
+          "Value": 5,
+          "Rotation": {
+            "x": -90.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Value": 6,
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -180.0
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Notecard",
+      "Transform": {
+        "posX": -8.69061,
+        "posY": 0.994999647,
+        "posZ": 6.64382744,
+        "rotX": -8.751563E-06,
+        "rotY": 30.0020714,
+        "rotZ": -5.7522044E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Hi",
+      "Description": "Hi from Emacs",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.191999853,
+        "g": 0.701,
+        "b": 0.167999834
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5e793b"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 11.8030653,
+        "posY": 1.03656065,
+        "posZ": 11.5005255,
+        "rotX": 359.822052,
+        "rotY": 240.000549,
+        "rotZ": 3.05492335E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 200,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://wallpapercave.com/download/inside-spaceship-wallpaper-wp3245247?nocache=1",
+          "BackURL": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4343f1"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 12.7078762,
+        "posY": 0.9599992,
+        "posZ": -2.32916737,
+        "rotX": 3.1460072E-06,
+        "rotY": 240.016373,
+        "rotZ": 1.504841E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "cbc027"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 14.20244,
+        "posY": 0.959999561,
+        "posZ": -1.35348928,
+        "rotX": -6.271207E-06,
+        "rotY": 60.4834175,
+        "rotZ": 6.17295427E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://images.alphacoders.com/123/123861.jpg",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "a50434"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -2.24974179,
+        "posY": 1.03171349,
+        "posZ": 8.915658,
+        "rotX": 9.52580649E-06,
+        "rotY": 269.947144,
+        "rotZ": 3.69183363E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 100,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNzc3ODAxODUyMjY0/top-magic-the-gathering-cards-of-all-time.jpg",
+          "BackURL": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "3a804e"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 3.46977568,
+        "posY": 1.03858984,
+        "posZ": 12.8535748,
+        "rotX": 8.020411E-06,
+        "rotY": 239.999435,
+        "rotZ": 1.43570765E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        201,
+        101
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://wallpapercave.com/download/inside-spaceship-wallpaper-wp3245247?nocache=1",
+          "BackURL": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        },
+        "1": {
+          "FaceURL": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNzc3ODAxODUyMjY0/top-magic-the-gathering-cards-of-all-time.jpg",
+          "BackURL": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.46977544,
+            "posY": 1.03171039,
+            "posZ": 12.8535719,
+            "rotX": 0.000312982273,
+            "rotY": 239.999451,
+            "rotZ": -9.462207E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 201,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "https://wallpapercave.com/download/inside-spaceship-wallpaper-wp3245247?nocache=1",
+              "BackURL": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "acf089"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.351831,
+            "posY": 1.18051851,
+            "posZ": 12.868268,
+            "rotX": -0.00028048415,
+            "rotY": 239.99855,
+            "rotZ": 6.70389854E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 101,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNzc3ODAxODUyMjY0/top-magic-the-gathering-cards-of-all-time.jpg",
+              "BackURL": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "903142"
+        }
+      ],
+      "GUID": "a1d80b"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 16.56046,
+        "posY": 0.959996462,
+        "posZ": -5.41108561,
+        "rotX": 0.000221203227,
+        "rotY": 240.028687,
+        "rotZ": 3.32505042E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "F:\\My Documents\\TTS_ponorams360\\ice_Planet_spaceship_port_05h.jpg",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "efd10f"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 14.0255642,
+        "posY": 0.9628341,
+        "posZ": -6.28935051,
+        "rotX": 0.2812937,
+        "rotY": 239.987213,
+        "rotZ": 359.915436,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "F:\\My Documents\\TTS_ponorams360\\CyberStreet_redcar_03.jpg",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "880a78"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 16.2859421,
+        "posY": 0.9631694,
+        "posZ": -12.180604,
+        "rotX": 0.314572662,
+        "rotY": 240.017853,
+        "rotZ": 0.07266088,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "file:///D:/Tools.mod/TTS/Texturs/panorams/Batcave.png",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "96dfe2"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 12.2043781,
+        "posY": 0.96526736,
+        "posZ": -7.11196947,
+        "rotX": 0.338549227,
+        "rotY": 240.008057,
+        "rotZ": 0.120729707,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "D:\\Tools.mod\\TTS\\Texturs\\panorams\\Batcave01.jpg",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "a6e7c5"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 16.3202343,
+        "posY": 1.25998449,
+        "posZ": -5.571934,
+        "rotX": 0.00263717072,
+        "rotY": 209.975861,
+        "rotZ": -0.00147213088,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "efd10f",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785255018856207780/2924C40C6065EBA38F71DBBB53D6FDBEDF4D468C/",
+        "DiffuseURL": "F:\\My Documents\\TTS_ponorams360\\ice_Planet_spaceship_port_05h.jpg",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785255018856208069/7B85AB17D788A12A07A55150D15FC8E7BD7EEC7D/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 4,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "print(\"last_GUID\", last_GUID)\n-- * System function  :\n-- ** onSave : \nfunction onSave()\n  saved_data = JSON.encode(last_GUID)\n  return saved_data\n\tend\n\n-- ** function onload :\n-- *** ----------------------------------------------\nfunction onload(saved_data)\n-- *** ----------------------------------------------\n-- *** Loads_data : \n    --Loads the tracking for if the game has started yet\n    if Loads_data ~= \"\" then\n        last_GUID = JSON.decode(saved_data)\n    else\n        last_GUID = 1\n    end\n\tlast_GUID = self.getDescription()\n\t-- test_fun(\"Hello test\")\n-- *** return : \n\n-- (setq company-require-match nil) \n-- (company-fuzzy-mode 1)\n-- (setq company-fuzzy-show-annotation t)\n\t-- return buttonsResult, inputsResult, inputIndex  \n\treturn 1 , 2\nend\n-- *** ----------------------------------------------\n-- ** function onCollisionEnter :\n-- *** ----------------------------------------------\nfunction onCollisionEnter(collision_info)\n-- *** comment\n  -- collision_info table:\n  --   collision_object    Object\n  --   contact_points      Table     {Vector, ...}\n  --   relative_velocity   Vector\n-- *** locals vars : \n\tlocal obj = collision_info.collision_object\n  -- if obj == nil then print(\"if 1\") end\n  -- -- if obj == self then print(\"if 2\") end\n  -- if obj.getGUID() == nil then print(\"if 3\") end\n  -- if obj.tag == \"Surface\" then print(\"if 4\") end\n  -- if objectLoaded then print(\"if 2\") end\n-- *** if nil cancel: \n  if obj == nil\n\t\t-- or obj == self\n\t\tor obj.getGUID() == nil\n\t\tor obj.getGUID() == last_GUID  \n\t\tor obj.tag == \"Surface\"\n\t\tor objectLoaded\n\t\t\tthen return end\n-- *** set_skybox : \n-- set_skybox_to_obj(obj.getGUID())\n\tset_skybox_to_obj(obj)\n-- (setq company-require-match nil) \n-- (company-fuzzy-mode 1)\n-- (setq company-fuzzy-show-annotation t)\n\t-- return buttonsResult, inputsResult, inputIndex  \n-- *** end : \nend\n-- *** ----------------------------------------------\n-- * test_fun(test) : \nfunction set_skybox_to_obj(taget_obj)\n\ty = taget_obj.getCustomObject()\n\ttest = y.image\n\tprint(last_GUID)\n\tlast_GUID = taget_obj.getGUID()\n\tprint(last_GUID)\n\tprint(taget_obj.getGUID())\n\tprint(test)\n\tif test == nil then return end\n\tparams = {\n\t\t\tdiffuse\t\t= test \n\t\t\t}\n\tself.setCustomObject(params)\n\tself.setDescription(last_GUID)\n\t-- self.locked = true\n\tself.reload()\n\tend",
+      "LuaScriptState": "\"efd10f\"",
+      "GUID": "cab5ba"
+    }
+  ],
+  "DecalPallet": [],
+  "TabStates": {
+    "0": {
+      "title": "Rules",
+      "body": "",
+      "color": "Grey",
+      "visibleColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "id": 0
+    },
+    "1": {
+      "title": "White",
+      "body": "",
+      "color": "White",
+      "visibleColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "id": 1
+    },
+    "2": {
+      "title": "Brown",
+      "body": "",
+      "color": "Brown",
+      "visibleColor": {
+        "r": 0.443,
+        "g": 0.231,
+        "b": 0.09
+      },
+      "id": 2
+    },
+    "3": {
+      "title": "Red",
+      "body": "",
+      "color": "Red",
+      "visibleColor": {
+        "r": 0.856,
+        "g": 0.1,
+        "b": 0.094
+      },
+      "id": 3
+    },
+    "4": {
+      "title": "Orange",
+      "body": "",
+      "color": "Orange",
+      "visibleColor": {
+        "r": 0.956,
+        "g": 0.392,
+        "b": 0.113
+      },
+      "id": 4
+    },
+    "5": {
+      "title": "Yellow",
+      "body": "",
+      "color": "Yellow",
+      "visibleColor": {
+        "r": 0.905,
+        "g": 0.898,
+        "b": 0.172
+      },
+      "id": 5
+    },
+    "6": {
+      "title": "Green",
+      "body": "",
+      "color": "Green",
+      "visibleColor": {
+        "r": 0.192,
+        "g": 0.701,
+        "b": 0.168
+      },
+      "id": 6
+    },
+    "7": {
+      "title": "Blue",
+      "body": "",
+      "color": "Blue",
+      "visibleColor": {
+        "r": 0.118,
+        "g": 0.53,
+        "b": 1.0
+      },
+      "id": 7
+    },
+    "8": {
+      "title": "Teal",
+      "body": "",
+      "color": "Teal",
+      "visibleColor": {
+        "r": 0.129,
+        "g": 0.694,
+        "b": 0.607
+      },
+      "id": 8
+    },
+    "9": {
+      "title": "Purple",
+      "body": "",
+      "color": "Purple",
+      "visibleColor": {
+        "r": 0.627,
+        "g": 0.125,
+        "b": 0.941
+      },
+      "id": 9
+    },
+    "10": {
+      "title": "Pink",
+      "body": "",
+      "color": "Pink",
+      "visibleColor": {
+        "r": 0.96,
+        "g": 0.439,
+        "b": 0.807
+      },
+      "id": 10
+    },
+    "11": {
+      "title": "Black",
+      "body": "",
+      "color": "Black",
+      "visibleColor": {
+        "r": 0.25,
+        "g": 0.25,
+        "b": 0.25
+      },
+      "id": 11
+    }
+  },
+  "VersionNumber": "v12.2"
+}

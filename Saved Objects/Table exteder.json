@@ -1,0 +1,74 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 86.4913254,
+        "posY": 7.49791,
+        "posZ": 8.924128,
+        "rotX": 1.61179268,
+        "rotY": 89.96414,
+        "rotZ": 358.83255,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0361568481
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://www.dropbox.com/s/wfj2ilfivczx3a5/CustomTableDrawer.obj?dl=1",
+        "DiffuseURL": "https://www.dropbox.com/s/jw14i3c5xrq0jvw/customtabledrawer.jpg?dl=1",
+        "NormalURL": "https://www.dropbox.com/s/jtwyke0w5jeikvj/customtabledrawer_NRM.jpg?dl=1",
+        "ColliderURL": "https://www.dropbox.com/s/y8wjbd2gsjyi1z3/Customtabledrawercollision.obj?dl=1",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.8745098,
+            "g": 0.8117647,
+            "b": 0.745098054
+          },
+          "SpecularIntensity": 0.02,
+          "SpecularSharpness": 3.0,
+          "FresnelStrength": 0.1
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "38e317"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

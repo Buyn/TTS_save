@@ -1,0 +1,67 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model_Bag",
+      "Transform": {
+        "posX": 232.6962,
+        "posY": 25.77513,
+        "posZ": 30.26902,
+        "rotX": 0.0134410523,
+        "rotY": 175.615158,
+        "rotZ": -0.002065967,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "New",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.117997624,
+        "g": 0.53,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 0,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/852720752183911384/4CA6B3300F98EEA123CC135F8BE72A02F303AED9/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/852720752183912963/A41B857951944D7613A4D75817523E1FFFB57117/",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 6,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "97b74b"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

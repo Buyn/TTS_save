@@ -1,0 +1,67 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -58.343483,
+        "posY": -4.373871,
+        "posZ": -24.1126041,
+        "rotX": 20.1012611,
+        "rotY": 90.47587,
+        "rotZ": -0.0005791306,
+        "scaleX": 6.90000629,
+        "scaleY": 6.90000629,
+        "scaleZ": 6.90000629
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Tiny Epic Defenders>TinyEpicDefenders_Sword.obj",
+        "DiffuseURL": "<Tiny Epic Defenders>TinyEpicDefenders_swordtex.png",
+        "NormalURL": "",
+        "ColliderURL": "<Tiny Epic Defenders>TinyEpicDefenders_Sword.obj",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.8745098,
+            "g": 0.8117647,
+            "b": 0.745098054
+          },
+          "SpecularIntensity": 0.3,
+          "SpecularSharpness": 5.366666,
+          "FresnelStrength": 0.1
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "53a18e"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

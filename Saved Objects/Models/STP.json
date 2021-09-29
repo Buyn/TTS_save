@@ -1,0 +1,1139 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 4.419177,
+        "posY": 2.49361563,
+        "posZ": 2.57485437,
+        "rotX": 359.907318,
+        "rotY": 240.362213,
+        "rotZ": 0.04929426,
+        "scaleX": 1.0,
+        "scaleY": 0.8250001,
+        "scaleZ": 0.83
+      },
+      "Nickname": "Shield",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.1861737,
+        "b": 0.5627178
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "53fbe8",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -0.739064038,
+          "y": 1.18706191,
+          "z": -0.426257163
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "cffb24",
+      "States": {
+        "2": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 4.76242,
+            "posY": 2.389486,
+            "posZ": 2.73616147,
+            "rotX": 359.921631,
+            "rotY": 240.059372,
+            "rotZ": 0.00549352774,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Damaged Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "da3c6f"
+        },
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 4.77394962,
+            "posY": 2.38948345,
+            "posZ": 2.679529,
+            "rotX": 359.907043,
+            "rotY": 240.027557,
+            "rotZ": 0.0237628948,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Destroyed Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2ec6e2"
+        }
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -4.777816,
+        "posY": -0.9707875,
+        "posZ": -2.63343072,
+        "rotX": 359.993835,
+        "rotY": 269.90625,
+        "rotZ": 0.008077126,
+        "scaleX": 5.47500944,
+        "scaleY": 5.47500944,
+        "scaleZ": 5.47500944
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/102852399390795943/7496560025A0AC3176F2B3FBCACEC47D16079902/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/266095116611340915/4B697FDB225694C1CBB0486944584F431A5A3D7A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/270596815979410422/6DBFC15BF81343705BE1FA4A440D36A9BEF2C3C8/",
+        "Convex": false,
+        "MaterialIndex": 4,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "88feaf",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.644476056,
+          "y": -2.42819262,
+          "z": -0.0143582178
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "c4c114"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -4.767167,
+        "posY": -1.18652046,
+        "posZ": -2.71094,
+        "rotX": 0.00356446626,
+        "rotY": 180.346008,
+        "rotZ": 0.005246824,
+        "scaleX": 6.42772532,
+        "scaleY": 1.0,
+        "scaleZ": 6.42772532
+      },
+      "Nickname": "Facing Board",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.24999845,
+        "g": 0.24999845,
+        "b": 0.24999845
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/7askecx.jpg",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "88feaf",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.6364924,
+          "y": -2.64402485,
+          "z": 0.0410165749
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "53fbe8"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -4.7344346,
+        "posY": 0.0002951622,
+        "posZ": 2.813808,
+        "rotX": 0.156499624,
+        "rotY": 0.3718903,
+        "rotZ": 359.9842,
+        "scaleX": 1.0,
+        "scaleY": 0.8250001,
+        "scaleZ": 0.83
+      },
+      "Nickname": "Shield",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.1861737,
+        "b": 0.5627178
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "53fbe8",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.000122556739,
+          "y": 1.18643713,
+          "z": -0.859551549
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "71e838",
+      "States": {
+        "2": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.0132255163,
+            "posY": 2.388515,
+            "posZ": 5.524818,
+            "rotX": 0.162111044,
+            "rotY": 0.07050753,
+            "rotZ": 0.0114721386,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Damaged Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "da3c6f"
+        },
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.013229195,
+            "posY": 2.38851428,
+            "posZ": 5.52482367,
+            "rotX": 0.163219467,
+            "rotY": 0.07027372,
+            "rotZ": 0.012088499,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Destroyed Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2ec6e2"
+        }
+      }
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -3.87542,
+        "posY": 1.45726776,
+        "posZ": -2.65858912,
+        "rotX": -0.00135474873,
+        "rotY": 180.323364,
+        "rotZ": 0.00712268753,
+        "scaleX": 1.4,
+        "scaleY": 1.0,
+        "scaleZ": 1.4
+      },
+      "Nickname": "USS Enterprise NCC-1701",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/83721958669874459/A1D64900F68F78A35E662EAB6BDE63CDCA4425B2/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "88feaf"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.03202343,
+        "posY": -0.0009393692,
+        "posZ": -5.471744,
+        "rotX": 0.131416172,
+        "rotY": 120.348183,
+        "rotZ": 359.968079,
+        "scaleX": 1.0,
+        "scaleY": 0.8250001,
+        "scaleZ": 0.83
+      },
+      "Nickname": "Shield",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.1861737,
+        "b": 0.5627178
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "53fbe8",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -0.7392326,
+          "y": 1.18678439,
+          "z": 0.425008178
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "3f96c4",
+      "States": {
+        "2": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 4.77393055,
+            "posY": 2.38921666,
+            "posZ": -2.79217339,
+            "rotX": 0.111098655,
+            "rotY": 120.013489,
+            "rotZ": 359.968048,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Damaged Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "da3c6f"
+        },
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 4.774003,
+            "posY": 2.388926,
+            "posZ": -2.79221058,
+            "rotX": 0.117724568,
+            "rotY": 120.012665,
+            "rotZ": 359.96875,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Destroyed Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a882da"
+        }
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -9.500839,
+        "posY": 0.000262022018,
+        "posZ": 0.104529381,
+        "rotX": 359.8654,
+        "rotY": 120.356483,
+        "rotZ": 359.992737,
+        "scaleX": 1.0,
+        "scaleY": 0.8250001,
+        "scaleZ": 0.83
+      },
+      "Nickname": "Shield",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.1861737,
+        "b": 0.5627178
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "53fbe8",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.739095867,
+          "y": 1.186075,
+          "z": -0.433582157
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "388817",
+      "States": {
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -4.73960543,
+            "posY": 2.38799381,
+            "posZ": 2.78912783,
+            "rotX": 359.793457,
+            "rotY": 120.048134,
+            "rotZ": -0.00314483535,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Destroyed Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2ec6e2"
+        },
+        "2": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -4.727987,
+            "posY": 2.38843513,
+            "posZ": 2.727227,
+            "rotX": 359.8222,
+            "rotY": 120.011887,
+            "rotZ": -0.0009790428,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Damaged Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "79ea71"
+        }
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -9.536007,
+        "posY": -0.0005893707,
+        "posZ": -5.48194551,
+        "rotX": 359.8143,
+        "rotY": 60.38118,
+        "rotZ": 359.974335,
+        "scaleX": 1.0,
+        "scaleY": 0.8250001,
+        "scaleZ": 0.83
+      },
+      "Nickname": "Shield",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.1861737,
+        "b": 0.5627178
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "53fbe8",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.739316463,
+          "y": 1.186113,
+          "z": 0.435539335
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "73783d",
+      "States": {
+        "2": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -4.74436665,
+            "posY": 2.38781142,
+            "posZ": -2.796107,
+            "rotX": 359.829834,
+            "rotY": 60.0798531,
+            "rotZ": 0.000985846,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Damaged Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "da3c6f"
+        },
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -4.74436045,
+            "posY": 2.387811,
+            "posZ": -2.79613447,
+            "rotX": 359.829468,
+            "rotY": 60.07941,
+            "rotZ": 0.0007674792,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Destroyed Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2ec6e2"
+        }
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -4.803681,
+        "posY": -0.001285553,
+        "posZ": -8.249456,
+        "rotX": 359.731659,
+        "rotY": 0.3508602,
+        "rotZ": 0.0026703435,
+        "scaleX": 1.0,
+        "scaleY": 0.8250001,
+        "scaleZ": 0.83
+      },
+      "Nickname": "Shield",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.1861737,
+        "b": 0.5627178
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "53fbe8",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.000490942562,
+          "y": 1.18626416,
+          "z": 0.861635268
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "0937d9",
+      "States": {
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.0186230354,
+            "posY": 2.38815761,
+            "posZ": -5.597727,
+            "rotX": 359.770233,
+            "rotY": 0.0168279484,
+            "rotZ": 0.0144520067,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Destroyed Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2ec6e2"
+        },
+        "2": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.0187170561,
+            "posY": 2.38830447,
+            "posZ": -5.597792,
+            "rotX": 359.75946,
+            "rotY": 0.015503522,
+            "rotZ": 0.0107670585,
+            "scaleX": 1.0,
+            "scaleY": 0.8250001,
+            "scaleZ": 0.83
+          },
+          "Nickname": "Damaged Shield",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "da3c6f"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

@@ -1,0 +1,67 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -44.1166534,
+        "posY": 0.0140957041,
+        "posZ": -25.68632,
+        "rotX": -5.58846432E-06,
+        "rotY": 270.0,
+        "rotZ": 180.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Built Marketplace[d06209]",
+      "Description": "[-]Flip to Unbuild",
+      "ColorDiffuse": {
+        "r": 0.101558782,
+        "g": 0.2578085,
+        "b": 0.2734335
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Three Kingdoms Redux>tkrtokenmarket",
+        "AssetbundleSecondaryURL": "<Three Kingdoms Redux>tkrmaterials3",
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 1
+      },
+      "LuaScript": "function onCollisionExit()\r\n    checkFaceStatus()\r\nend\r\n\r\nfunction onCollisionEnter()\r\n    checkFaceStatus()\r\nend\r\n\r\nfunction checkFaceStatus()\r\n    local rot = self.getRotation()\r\n    if rot.z > 170 and rot.z < 190 then\r\n        if self.AssetBundle.getLoopingEffectIndex() ~= 1 then\r\n            self.AssetBundle.playLoopingEffect(1)\r\n            self.AssetBundle.playTriggerEffect(0)\r\n            self.setName(\"Built Marketplace[d06209]\")\r\n            self.setDescription(\"[-]Flip to Unbuild\")\r\n        end\r\n    else\r\n        if self.AssetBundle.getLoopingEffectIndex() == 1 then\r\n            self.AssetBundle.playLoopingEffect(2)\r\n            self.AssetBundle.playTriggerEffect(0)\r\n            self.setName(\"Unbuilt Marketplace[d06209]\")\r\n            self.setDescription(\"[-]Flip to Build\")\r\n        end\r\n    end\r\nend\r\n",
+      "LuaScriptState": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 0.6,
+        "DynamicFriction": 0.6,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 10.0,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+      },
+      "GUID": "2188ab"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

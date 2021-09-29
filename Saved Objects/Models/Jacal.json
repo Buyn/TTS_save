@@ -1,0 +1,240 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -22.5021286,
+        "posY": 1.98301435,
+        "posZ": 0.787527561,
+        "rotX": -7.306894E-05,
+        "rotY": 180.000015,
+        "rotZ": -1.81259238E-05,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "��� ����",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://gist.githubusercontent.com/cryptosha/4ad1291548dd7fa438879d3584a0b403/raw/c8359e0e4a1d596949eaf041eb47be01517c6845/gistfile1.txt",
+        "DiffuseURL": "http://i.imgur.com/eyr0KC0.jpg",
+        "NormalURL": "",
+        "ColliderURL": "https://gist.githubusercontent.com/cryptosha/bf233c25d2bce8c69fb30e8ea4e117b6/raw/8fa0a53a443c2d98bcc1292f767ad651970e9824/gistfile1.txt",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": false
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 0.6,
+        "DynamicFriction": 0.6,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 0.9,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+      },
+      "GUID": "d41315"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.00213241577,
+        "posY": -0.162755132,
+        "posZ": -3.11535335,
+        "rotX": -2.57218767E-06,
+        "rotY": -2.22524341E-05,
+        "rotZ": 6.83544567E-06,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "���������",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://paste.ee/r/FkoYR",
+        "DiffuseURL": "http://i.imgur.com/acUFIud.png",
+        "NormalURL": "",
+        "ColliderURL": "https://paste.ee/r/ZSnLq",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "72ad35",
+      "States": {
+        "2": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -22.5,
+            "posY": 1.94315267,
+            "posZ": -2.327824,
+            "rotX": 3.39343169E-05,
+            "rotY": 30.0085278,
+            "rotZ": 4.59913354E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://paste.ee/r/juxzv",
+            "DiffuseURL": "http://i.imgur.com/acUFIud.png",
+            "NormalURL": "",
+            "ColliderURL": "https://paste.ee/r/ZSnLq",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4d3380"
+        },
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -22.5,
+            "posY": 1.94315362,
+            "posZ": -2.327825,
+            "rotX": -2.80768145E-05,
+            "rotY": 30.0085316,
+            "rotZ": 1.9789828E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://paste.ee/r/j0TIB",
+            "DiffuseURL": "http://i.imgur.com/acUFIud.png",
+            "NormalURL": "",
+            "ColliderURL": "https://paste.ee/r/ZSnLq",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4d9f3e"
+        }
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.002067566,
+        "posY": 0.08711314,
+        "posZ": -5.97432137,
+        "rotX": -5.39312055E-07,
+        "rotY": 180.0,
+        "rotZ": 1.76178344E-06,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "�������",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://gist.githubusercontent.com/cryptosha/d8a914ae8cf4953fa227174d564895e2/raw/a9f74d0562fe45747ef44d7911ffbfed633215aa/gistfile1.txt",
+        "DiffuseURL": "https://i.imgur.com/64JWAjh.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4e895c"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

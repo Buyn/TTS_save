@@ -1,0 +1,54 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -44.10836,
+        "posY": 0.01530689,
+        "posZ": 0.770105839,
+        "rotX": 5.3529282E-05,
+        "rotY": 90.005806,
+        "rotZ": -0.000130906483,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Spears",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Three Kingdoms Redux>tkrtokenspears",
+        "AssetbundleSecondaryURL": "<Three Kingdoms Redux>tkrmaterials3",
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "0a0b5c"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

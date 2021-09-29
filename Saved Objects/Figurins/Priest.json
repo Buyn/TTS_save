@@ -1,0 +1,57 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -60.25,
+        "posY": 2.11939573,
+        "posZ": 12.750001,
+        "rotX": 3.57686474E-07,
+        "rotY": 0.009235351,
+        "rotZ": 1.472272E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Priest",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921718,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Darkest Night>DNCharStandee.obj",
+        "DiffuseURL": "<Darkest Night>DNCSPriest.png",
+        "NormalURL": "",
+        "ColliderURL": "<Darkest Night>DNCharStandee.obj",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "2e125c"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

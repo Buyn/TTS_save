@@ -1,0 +1,95 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -26.1752338,
+        "posY": 1.02491784,
+        "posZ": -31.03707,
+        "rotX": 1.25440216,
+        "rotY": 90.00572,
+        "rotZ": 359.965942,
+        "scaleX": 1.10000014,
+        "scaleY": 1.10000014,
+        "scaleZ": 1.10000014
+      },
+      "Nickname": "[00FFD8]Slasher",
+      "Description": " [0077FF]The Slasher is named for its specialized arms, which sport sharp blade-like protrusions of bone. These arms are sometimes created by altering the host's original arms, while in others the slashing arms are entirely new appendages sprouting from the shoulder blades. These blades are the Slashers' main weapon, but they are also used as means of stabilizing the creature.",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921616,
+        "b": 0.9999998
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://sites.google.com/site/tabletopsimulator/figures_compilation_zombies_2/slasher.obj",
+        "DiffuseURL": "https://sites.google.com/site/tabletopsimulator/figures_compilation_zombies_2/slasher.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 7.0,
+          "FresnelStrength": 0.4
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "1e20e1",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -0.0216351077,
+          "y": 0.257281065,
+          "z": 0.146547839
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "26ae2a"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

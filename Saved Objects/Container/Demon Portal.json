@@ -1,0 +1,393 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 9.497156,
+        "posY": 1.85103345,
+        "posZ": 27.6257858,
+        "rotX": -7.520963E-07,
+        "rotY": 179.999741,
+        "rotZ": 8.688446E-07,
+        "scaleX": 1.29999971,
+        "scaleY": 1.29999971,
+        "scaleZ": 1.29999971
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Wizard's Academy>WizardsAcademyMysticPortalBase",
+        "DiffuseURL": "<Wizard's Academy>WizardsAcademyMysticPortalBase.png",
+        "NormalURL": "",
+        "ColliderURL": "<Wizard's Academy>WizardsAcademyMysticPortalBaseCollider",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 4,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 0.6,
+        "DynamicFriction": 0.6,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 50.0,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+      },
+      "GUID": "94e4a4"
+    },
+    {
+      "Name": "Custom_Model_Infinite_Bag",
+      "Transform": {
+        "posX": 1.90734863E-06,
+        "posY": 0.06625986,
+        "posZ": 1.90734863E-06,
+        "rotX": 2.55259074E-05,
+        "rotY": 16.1427746,
+        "rotZ": -1.04460889E-06,
+        "scaleX": 1.29999971,
+        "scaleY": 1.29999971,
+        "scaleZ": 1.29999971
+      },
+      "Nickname": "[cc0909]Demon Portal",
+      "Description": "-----------------------\n[cc0909]Draw forth a Demon from the Nether realm.",
+      "ColorDiffuse": {
+        "r": 0.7842721,
+        "g": 0.09219634,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "<Wizard's Academy>WizardsAcademyMysticPortalCrystal",
+        "DiffuseURL": "<Wizard's Academy>WizardsAcademyMysticPortalCrystal.png",
+        "NormalURL": "",
+        "ColliderURL": "<Wizard's Academy>WizardsAcademyMysticPortalBaseCrystalCollider",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 7,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 9.43965149,
+            "posY": 6.609784,
+            "posZ": 27.1053772,
+            "rotX": 0.0143067222,
+            "rotY": 341.541565,
+            "rotZ": 0.05246097,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "[cc0909]Demon",
+          "ColorDiffuse": {
+            "r": 0.9490196,
+            "g": 0.0156862754,
+            "b": 0.149019077
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Wizard's Academy>WizardsAcademyDemon",
+            "DiffuseURL": "<Wizard's Academy>WizardsAcademyDemon.png",
+            "NormalURL": "<Wizard's Academy>WizardsAcademyDemonNormal.png",
+            "ColliderURL": "<Wizard's Academy>WizardsAcademyCharacterColliderMediumA",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.8745098,
+                "g": 0.8117647,
+                "b": 0.745098054
+              },
+              "SpecularIntensity": 0.02,
+              "SpecularSharpness": 3.0,
+              "FresnelStrength": 0.1
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "PhysicsMaterial": {
+            "StaticFriction": 0.6,
+            "DynamicFriction": 0.6,
+            "Bounciness": 0.0,
+            "FrictionCombine": 0,
+            "BounceCombine": 0
+          },
+          "Rigidbody": {
+            "Mass": 20.0,
+            "Drag": 0.1,
+            "AngularDrag": 0.1,
+            "UseGravity": true
+          },
+          "GUID": "dbd624"
+        }
+      ],
+      "JointHinge": {
+        "UseLimits": false,
+        "Limits": {
+          "minBounce": 0.0,
+          "maxBounce": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "bounciness": 0.0,
+          "bounceMinVelocity": 0.2,
+          "contactDistance": 0.0
+        },
+        "UseMotor": true,
+        "Motor": {
+          "targetVelocity": 25.0,
+          "force": 500.0,
+          "freeSpin": true
+        },
+        "UseSpring": false,
+        "Spring": {
+          "spring": 0.0,
+          "damper": 0.0,
+          "targetPosition": 0.0
+        },
+        "ConnectedBodyGUID": "94e4a4",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -1.33425863E-06,
+          "y": 0.05096923,
+          "z": 6.079695E-07
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "f30c6c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.0,
+        "posY": -5.32865524E-05,
+        "posZ": 0.0,
+        "rotX": -1.73005265E-05,
+        "rotY": 105.800919,
+        "rotZ": 4.66137863E-05,
+        "scaleX": 1.29999971,
+        "scaleY": 1.29999971,
+        "scaleZ": 1.29999971
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 0.334996343,
+        "b": 0.187996358
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Wizard's Academy>WizardsAcademyMysticPortalBaseSpell1D",
+        "DiffuseURL": "<Wizard's Academy>WizardsAcademyMysticPortalCrystal.png",
+        "NormalURL": "",
+        "ColliderURL": "<Wizard's Academy>WizardsAcademyMysticPortalBaseSpell1Collider",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointHinge": {
+        "UseLimits": false,
+        "Limits": {
+          "minBounce": 0.0,
+          "maxBounce": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "bounciness": 0.0,
+          "bounceMinVelocity": 0.2,
+          "contactDistance": 0.0
+        },
+        "UseMotor": true,
+        "Motor": {
+          "targetVelocity": 10.0,
+          "force": 500.0,
+          "freeSpin": true
+        },
+        "UseSpring": false,
+        "Spring": {
+          "spring": 0.0,
+          "damper": 0.0,
+          "targetPosition": 0.0
+        },
+        "ConnectedBodyGUID": "94e4a4",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 2.95464458E-10,
+          "y": -4.10079956E-05,
+          "z": 1.41717665E-10
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "9b2009"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.0,
+        "posY": 0.06677592,
+        "posZ": -1.90734863E-06,
+        "rotX": 0.000268735661,
+        "rotY": 117.074783,
+        "rotZ": -0.0001811806,
+        "scaleX": 1.29999971,
+        "scaleY": 1.29999971,
+        "scaleZ": 1.29999971
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 0.334996343,
+        "b": 0.187996358
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Wizard's Academy>WizardsAcademyMysticPortalBaseSpell2D",
+        "DiffuseURL": "<Wizard's Academy>WizardsAcademyMysticPortalCrystal.png",
+        "NormalURL": "",
+        "ColliderURL": "<Wizard's Academy>WizardsAcademyMysticPortalBaseSpell2Collider",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointHinge": {
+        "UseLimits": false,
+        "Limits": {
+          "minBounce": 0.0,
+          "maxBounce": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "bounciness": 0.0,
+          "bounceMinVelocity": 0.2,
+          "contactDistance": 0.0
+        },
+        "UseMotor": true,
+        "Motor": {
+          "targetVelocity": -10.0,
+          "force": 500.0,
+          "freeSpin": true
+        },
+        "UseSpring": false,
+        "Spring": {
+          "spring": 0.0,
+          "damper": 0.0,
+          "targetPosition": 0.0
+        },
+        "ConnectedBodyGUID": "94e4a4",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -1.10179137E-07,
+          "y": 0.05136609,
+          "z": 7.400584E-07
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "d084d6"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

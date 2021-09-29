@@ -1,0 +1,54 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 54.8120537,
+        "posY": 5.241868,
+        "posZ": 16.3347511,
+        "rotX": 15.0001574,
+        "rotY": 0.003750455,
+        "rotZ": 1.30268882E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "RULEBOOK[d06209]",
+      "Description": "[-]This Rulebook contains scripted controls. Click on  the [b]NEXT, PREV, INDEX [/b]and[b] CLOSE[/b] Labels along the bottom of each page to progress through it. Alternatively  click on a heading in the main index on page 2, to jump directly to that page.\n[d06209]----------[-] \n Click on the Right hand Side of the cover to open the book.",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Three Kingdoms Redux>tkrrulebook",
+        "AssetbundleSecondaryURL": "<Three Kingdoms Redux>tkrmaterials2",
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "function onLoad()\r\n    infoRefresh()\r\n    buttonRefresh()\r\nend\r\n\r\nfunction onObjectLoopingEffect(obj)\r\n    if obj == self then\r\n        infoRefresh()\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction infoRefresh()\r\n    loopID = self.AssetBundle.getLoopingEffectIndex()\r\n    loopCount = #self.AssetBundle.getLoopingEffects()\r\n    indexPage = 1\r\n    self.setName(ref_pageInfo[loopID+1].name)\r\n    self.setDescription(ref_pageInfo[loopID+1].desc)\r\nend\r\n\r\n--Click functions\r\n\r\nfunction click_next()\r\n    infoRefresh()\r\n    if loopID < loopCount then\r\n        self.AssetBundle.playLoopingEffect(loopID + 1)\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction click_prev()\r\n    infoRefresh()\r\n    if loopID > 0 then\r\n        self.AssetBundle.playLoopingEffect(loopID - 1)\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction click_index()\r\n    infoRefresh()\r\n    if indexPage ~= loopID then\r\n        self.AssetBundle.playLoopingEffect(indexPage)\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction click_close()\r\n    infoRefresh()\r\n    self.AssetBundle.playLoopingEffect(0)\r\n    buttonRefresh()\r\nend\r\n\r\nfunction click_indexTable(page)\r\n    infoRefresh()\r\n    if page ~= loopID then\r\n        self.AssetBundle.playLoopingEffect(page)\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\n--Button creation\r\n\r\nfunction buttonRefresh()\r\n    self.clearButtons()\r\n    infoRefresh()\r\n    if loopID == 0 then\r\n        createOpenButton()\r\n    elseif loopID == indexPage then\r\n        createIndexTableButtons()\r\n        createNextButton()\r\n        createCloseButton()\r\n    elseif loopID == loopCount -1 then\r\n        createPrevButton()\r\n        createIndexButton()\r\n        createCloseButton()\r\n    elseif loopID < loopCount then\r\n        createNextButton()\r\n        createPrevButton()\r\n        createIndexButton()\r\n        createCloseButton()\r\n\r\n    end\r\nend\r\n\r\n\r\nfunction createOpenButton()\r\n    self.createButton({\r\n        click_function=\"click_next\", function_owner=self,\r\n        position={5.3,1,0}, height=5000, width=700, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createNextButton()\r\n    self.createButton({\r\n        click_function=\"click_next\", function_owner=self,\r\n        position={9.61,0.3,4.723}, height=190, width=350, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createPrevButton()\r\n    self.createButton({\r\n        click_function=\"click_prev\", function_owner=self,\r\n        position={-7.8,0.3,4.723}, height=190, width=350, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createIndexButton()\r\n    self.createButton({\r\n        click_function=\"click_index\", function_owner=self,\r\n        position={8.81,0.3,4.723}, height=190, width=350, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createCloseButton()\r\n    self.createButton({\r\n        click_function=\"click_close\", function_owner=self,\r\n        position={-8.6,0.3,4.723}, height=190, width=350, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createIndexTableButtons()\r\n    for i, pageIndex in ipairs(indexTable) do\r\n        local funcName = \"indexFor\"..i\r\n        local func = function() click_indexTable(pageIndex-1) end\r\n        self.setVar(funcName, func)\r\n        self.createButton({\r\n            click_function=funcName, function_owner=self, scale={0.5,0.5,0.5},\r\n            position={-8,0.56,-4.086+i*0.184}, height=180, width=2300, color={0,0,0,0}\r\n        })\r\n    end\r\nend\r\n\r\nindexTable = {\r\n    3, 4, 4, 4, 4, 4, 4, 4, 6, 6, 6, 6, 9, 9, 9, 9, 9, 9, 10, 10, 10,\r\n    10, 12, 13, 14, 14, 14, 15,\r\n}\r\n\r\nref_pageInfo = {\r\n    {\r\n        name = \"RULEBOOK[d06209]\",\r\n        desc = \"[-]This Rulebook contains scripted controls. Click on  the [b]NEXT, PREV, INDEX [/b]and[b] CLOSE[/b] Labels along the bottom of each page to progress through it. Alternatively  click on a heading in the main index on page 2, to jump directly to that page.\\n[d06209]----------[-] \\n Click on the Right hand Side of the cover to open the book.\",\r\n    },\r\n    {\r\n        name = \"Page 2-3[d06209]\",\r\n        desc = \"[-]Jump to the page of your choice by clicking on it over in the index  \"\r\n    },\r\n    {\r\n        name = \"Page 4-5\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 6-7\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 8-9\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 10-11\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 12-13\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 14-15\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 16-17\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 18-19\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 20-21\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 22-23\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 24-25\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 26-27\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 28\",\r\n        desc = \"\"\r\n    },\r\n}\r\n",
+      "LuaScriptState": "",
+      "GUID": "4ccc44"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

@@ -1,0 +1,106 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 9.032742,
+        "posY": 2.174389,
+        "posZ": -15.5810833,
+        "rotX": 359.881744,
+        "rotY": 89.31826,
+        "rotZ": 359.990021,
+        "scaleX": 0.987796962,
+        "scaleY": 1.70350218,
+        "scaleZ": 0.451650828
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/90478827545266242/3988C77DB45F6496C4A094D89C1E001D44EF3D2A/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 0,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "014807",
+      "States": {
+        "1": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 9.032742,
+            "posY": 2.174389,
+            "posZ": -15.5810833,
+            "rotX": 359.881744,
+            "rotY": 89.31826,
+            "rotZ": 359.990021,
+            "scaleX": 0.987796962,
+            "scaleY": 1.70350218,
+            "scaleZ": 0.451650828
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/90478827545265126/EE978EA72D5C3919A1FB336E3116A76ABBF34034/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "484427"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

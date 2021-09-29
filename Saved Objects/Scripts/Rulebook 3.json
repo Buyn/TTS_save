@@ -1,0 +1,839 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 22.02027,
+        "posY": 0.959999859,
+        "posZ": 11.9965773,
+        "rotX": -2.29794779E-07,
+        "rotY": 180.022018,
+        "rotZ": -1.22077745E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+        "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-2.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "b3b80c",
+      "States": {
+        "6": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -14.02022,
+            "posY": 3.71666932,
+            "posZ": -19.8090267,
+            "rotX": -0.00319253164,
+            "rotY": 179.986969,
+            "rotZ": 2.32577538,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-6.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "865b05"
+        },
+        "7": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.36864,
+            "posY": 3.71664166,
+            "posZ": -19.1372261,
+            "rotX": -0.00549616,
+            "rotY": 179.980957,
+            "rotZ": 2.32523727,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-7.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "22b93e"
+        },
+        "8": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -8.511508,
+            "posY": 3.71248651,
+            "posZ": -19.5517216,
+            "rotX": 359.993927,
+            "rotY": 179.992783,
+            "rotZ": 2.22223949,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-8.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "062576"
+        },
+        "9": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -6.49133348,
+            "posY": 3.742842,
+            "posZ": -19.4295139,
+            "rotX": 359.994141,
+            "rotY": 179.986176,
+            "rotZ": 2.49611473,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-9.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d3a000"
+        },
+        "12": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.6425991,
+            "posY": 3.74112,
+            "posZ": -19.896431,
+            "rotX": 359.99353,
+            "rotY": 180.0099,
+            "rotZ": 2.92233443,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-12.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "aa6dec"
+        },
+        "13": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 3.823211,
+            "posY": 3.71388221,
+            "posZ": -20.4432411,
+            "rotX": -0.00312115485,
+            "rotY": 180.006836,
+            "rotZ": 2.25677156,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-13.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "698c98"
+        },
+        "14": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 7.55226135,
+            "posY": 3.69430375,
+            "posZ": -20.811657,
+            "rotX": -0.00315637141,
+            "rotY": 180.0076,
+            "rotZ": 1.77710509,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-14.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "62c95f"
+        },
+        "15": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 9.966687,
+            "posY": 3.72599363,
+            "posZ": -20.3276062,
+            "rotX": -0.00383056933,
+            "rotY": 180.00618,
+            "rotZ": 2.55281448,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-15.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e0ff03"
+        },
+        "16": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 12.051074,
+            "posY": 3.74037933,
+            "posZ": -19.9201717,
+            "rotX": -0.00312289083,
+            "rotY": 179.9987,
+            "rotZ": 2.56463337,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-16.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "264a03"
+        },
+        "17": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 14.947217,
+            "posY": 3.722438,
+            "posZ": -20.2245312,
+            "rotX": -0.00221074652,
+            "rotY": 180.007782,
+            "rotZ": 2.46725559,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-17.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3e26b2"
+        },
+        "18": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.8073978,
+            "posY": 3.714683,
+            "posZ": -19.7222614,
+            "rotX": -0.00120242918,
+            "rotY": 180.008926,
+            "rotZ": 2.27847052,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-18.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "8c62a0"
+        },
+        "19": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 20.8121948,
+            "posY": 3.70881772,
+            "posZ": -19.8221436,
+            "rotX": -0.00095732935,
+            "rotY": 180.009628,
+            "rotZ": 2.135019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-19.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c26f5b"
+        },
+        "10": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 29.47087,
+            "posY": 3.62151623,
+            "posZ": -18.6087513,
+            "rotX": -1.75618788E-06,
+            "rotY": 180.009842,
+            "rotZ": -5.1370364E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-10.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ee7152"
+        },
+        "11": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 29.47087,
+            "posY": 3.62151527,
+            "posZ": -18.6087513,
+            "rotX": 1.98989164E-06,
+            "rotY": 180.009857,
+            "rotZ": -3.506496E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-11.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c4f651"
+        },
+        "20": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 29.47087,
+            "posY": 3.62151575,
+            "posZ": -18.6087513,
+            "rotX": -2.29898342E-06,
+            "rotY": 180.009872,
+            "rotZ": -8.79071649E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-20.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "12e9ea"
+        },
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 22.02027,
+            "posY": 0.96,
+            "posZ": 11.9965773,
+            "rotX": 4.730009E-07,
+            "rotY": 180.021973,
+            "rotZ": -3.442385E-08,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-3.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "090e0f"
+        },
+        "4": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 22.02027,
+            "posY": 0.959999859,
+            "posZ": 11.9965773,
+            "rotX": -6.92911271E-07,
+            "rotY": 180.021988,
+            "rotZ": 1.31462727E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-4.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "fcb4a5"
+        },
+        "5": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 22.02027,
+            "posY": 0.9599999,
+            "posZ": 11.9965773,
+            "rotX": -5.14357E-07,
+            "rotY": 180.022,
+            "rotZ": 3.482255E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-5.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c9cd93"
+        },
+        "1": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 22.02027,
+            "posY": 0.9599999,
+            "posZ": 11.9965773,
+            "rotX": 1.65675743E-07,
+            "rotY": 180.022018,
+            "rotZ": 2.54945661E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Rule Book",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "<Tiny Epic Western>TEWrulebook.obj",
+            "DiffuseURL": "<Tiny Epic Western>TEW-Rulebook-1.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "527234"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

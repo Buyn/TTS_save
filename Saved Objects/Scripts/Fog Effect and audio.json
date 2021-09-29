@@ -1,0 +1,235 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 26.0,
+        "posY": 1.56324768,
+        "posZ": 10.0,
+        "rotX": 1.709248E-05,
+        "rotY": -6.74204875E-06,
+        "rotZ": 5.14879446E-07,
+        "scaleX": 1.1,
+        "scaleY": 1.1,
+        "scaleZ": 1.1
+      },
+      "Nickname": "The Audial Orb",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/833580291836390570/6F62E64A366D681607D588BB8DC8D50DD1497A93/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 15
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "89af60"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -61.94585,
+        "posY": 1.171751,
+        "posZ": -22.0577316,
+        "rotX": -6.473068E-08,
+        "rotY": 89.9999,
+        "rotZ": 180.0,
+        "scaleX": 3.54999733,
+        "scaleY": 3.54999733,
+        "scaleZ": 3.54999733
+      },
+      "Nickname": "Fully Loaded Sound Cube (Loops & One-Shots)",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://infinitebucket.com/tts/scenesystem/env-sounds-all.unity3d",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "e6d16b"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 5.0,
+        "posY": -0.311016679,
+        "posZ": -13.0,
+        "rotX": 2.40947484E-05,
+        "rotY": 180.010132,
+        "rotZ": -1.75909349E-08,
+        "scaleX": 0.925000131,
+        "scaleY": 0.925000131,
+        "scaleZ": 0.925000131
+      },
+      "Nickname": "Fog Effect",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/255967091018272289/08ED0E0B839DA7A6F3F0203AE65B0B474402E1A6/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 1
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "d84f01",
+      "States": {
+        "3": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -32.0,
+            "posY": 1.19694424,
+            "posZ": -15.9999876,
+            "rotX": 8.63809146E-06,
+            "rotY": 269.990936,
+            "rotZ": 3.41128339E-06,
+            "scaleX": 0.925000131,
+            "scaleY": 0.925000131,
+            "scaleZ": 0.925000131
+          },
+          "Nickname": "Rain Effect",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/255967091018283200/3F1BEF954AC177631E8CB0BA5409E453779EBC6D/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a14da0"
+        },
+        "2": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 35.02266,
+            "posY": 1.25223112,
+            "posZ": 8.983191,
+            "rotX": 1.85477838E-05,
+            "rotY": 180.010132,
+            "rotZ": 7.58623571E-07,
+            "scaleX": 0.925000131,
+            "scaleY": 0.925000131,
+            "scaleZ": 0.925000131
+          },
+          "Nickname": "Snow Effect",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/255967091018288596/D2A0855C45DE266F29EAE9443CFBE836B643E297/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c98a8f"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

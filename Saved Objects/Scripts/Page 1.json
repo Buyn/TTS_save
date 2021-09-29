@@ -1,0 +1,838 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -22.5098438,
+        "posY": -0.108263656,
+        "posZ": 65.70731,
+        "rotX": 2.24369168,
+        "rotY": 180.014862,
+        "rotZ": 0.6976257,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "[f96105]Page 1",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage1",
+        "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+        "MaterialIndex": 2,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "e20c2e",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "847637",
+      "States": {
+        "4": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353458673,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 3",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage3",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "82e369"
+        },
+        "5": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.03534586,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 4",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage4",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "13c937"
+        },
+        "6": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353458524,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 5",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage5",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f5f35b"
+        },
+        "7": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353458449,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 6",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage6",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6351bc"
+        },
+        "8": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353458375,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 7",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage7",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "913db3"
+        },
+        "9": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353458337,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 8",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage8",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e25acd"
+        },
+        "10": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353458263,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 9",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage9",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "78175c"
+        },
+        "11": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.03534582,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 10",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage10",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "77f0fd"
+        },
+        "12": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.03534581,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 11",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage11",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9a6cad"
+        },
+        "13": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353458077,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 12",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage12",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "865133"
+        },
+        "14": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353458039,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 13",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage13",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5d2036"
+        },
+        "15": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353457965,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 14",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage14",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "810f3c"
+        },
+        "16": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.03534577,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 15",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage15",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6c95a9"
+        },
+        "17": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.035345763,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 16",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage16",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "371353"
+        },
+        "18": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353457555,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 17",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage17",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "76785f"
+        },
+        "19": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353457481,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 18",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage18",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "847637"
+        },
+        "20": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.03534574,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 19",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage19",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "82e369"
+        },
+        "21": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.6059265,
+            "posY": -0.131824553,
+            "posZ": 64.71649,
+            "rotX": 357.875977,
+            "rotY": 0.0353457332,
+            "rotZ": 359.319946,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 20",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage20",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "76785f"
+        },
+        "3": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -0.110720873,
+            "posY": 1.61744332,
+            "posZ": -30.12712,
+            "rotX": 359.986481,
+            "rotY": 180.003754,
+            "rotZ": 359.9874,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]Page 2",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage2",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "acc2a3"
+        },
+        "1": {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -22.5098438,
+            "posY": -0.108263358,
+            "posZ": 65.70731,
+            "rotX": 2.24369454,
+            "rotY": 180.014862,
+            "rotZ": 0.6976266,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "[f96105]SHIPS LOG[-]",
+          "Description": "[f96105]Xia Legends of a Drift System.",
+          "ColorDiffuse": {
+            "r": 0.3048436,
+            "g": 0.572723567,
+            "b": 0.295103371
+          },
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Xia - Legends of a Drift System>Xiatabletpage0",
+            "AssetbundleSecondaryURL": "<Xia - Legends of a Drift System>xiamaterials7",
+            "MaterialIndex": 2,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "310d8d"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

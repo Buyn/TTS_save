@@ -1,0 +1,52 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 6.502696,
+        "posY": 1.71623981,
+        "posZ": 5.365288,
+        "rotX": 5.38076938E-06,
+        "rotY": 45.0597343,
+        "rotZ": -3.10571153E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.870592237,
+        "g": 0.8313775,
+        "b": 0.0392156877
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://chattypics.com/files/alienpieces2red_65hlmyrfrm.jpg",
+        "ImageSecondaryURL": "",
+        "WidthScale": 0.0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "c4ff49"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

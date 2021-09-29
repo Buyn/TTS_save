@@ -1,0 +1,233 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Chinese_Checkers_Piece",
+      "Transform": {
+        "posX": -27.22334,
+        "posY": 1.27013826,
+        "posZ": -6.64150143,
+        "rotX": 28.1735439,
+        "rotY": 27.77443,
+        "rotZ": 73.14273,
+        "scaleX": 0.75,
+        "scaleY": 0.75,
+        "scaleZ": 0.75
+      },
+      "Nickname": "����",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "MaterialIndex": 6,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 0.6,
+        "DynamicFriction": 0.6,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 0.6875,
+        "Drag": 15.0,
+        "AngularDrag": 0.2,
+        "UseGravity": true
+      },
+      "GUID": "856346"
+    },
+    {
+      "Name": "Chinese_Checkers_Piece",
+      "Transform": {
+        "posX": 0.611391068,
+        "posY": 3.57627869E-07,
+        "posZ": -0.259974,
+        "rotX": 327.5835,
+        "rotY": 305.487762,
+        "rotZ": 2.53984,
+        "scaleX": 0.75,
+        "scaleY": 0.75,
+        "scaleZ": 0.75
+      },
+      "Nickname": "����",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "MaterialIndex": 6,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 0.6,
+        "DynamicFriction": 0.6,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 0.6875,
+        "Drag": 15.0,
+        "AngularDrag": 0.2,
+        "UseGravity": true
+      },
+      "GUID": "e3da3f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 1.3733387,
+        "posY": -0.303885579,
+        "posZ": 4.409621,
+        "rotX": -1.00251976E-08,
+        "rotY": 59.98738,
+        "rotZ": -2.790486E-07,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "������",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://paste.ee/r/CBxbN",
+        "DiffuseURL": "http://i.imgur.com/x2ZWDp3.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.8745098,
+            "g": 0.8117647,
+            "b": 0.745098054
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "576d1d"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 1.3733387,
+        "posY": -0.216389537,
+        "posZ": 1.47601652,
+        "rotX": 2.05174979E-06,
+        "rotY": 150.0,
+        "rotZ": 180.0,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "�����",
+      "Description": "(���� ����� - ����������)",
+      "ColorDiffuse": {
+        "r": 0.4944089,
+        "g": 0.237761587,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=sELFCKxu",
+        "DiffuseURL": "https://www.dropbox.com/s/iqiitkj287vrfx9/Madera%20Barca.jpg?dl=1",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "88738f"
+    },
+    {
+      "Name": "Tileset_Chest",
+      "Transform": {
+        "posX": 1.3733387,
+        "posY": 0.0311118364,
+        "posZ": 7.087814,
+        "rotX": -3.5258708E-07,
+        "rotY": 315.016449,
+        "rotZ": 3.90403528E-07,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "���������",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.8970588,
+        "g": 0.8970588,
+        "b": 0.8970588
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "a08e2f"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

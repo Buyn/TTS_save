@@ -1,0 +1,267 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 3.57625,
+        "posY": 2.73953843,
+        "posZ": -6.130771,
+        "rotX": 90.0,
+        "rotY": 148.32016,
+        "rotZ": 0.0,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921647,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "DiffuseURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "NormalURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "ColliderURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "cd4eba"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.859314442,
+        "posY": 0.000186681747,
+        "posZ": 0.492658615,
+        "rotX": 90.0,
+        "rotY": 33.55962,
+        "rotZ": 0.0,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921647,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "DiffuseURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "NormalURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "ColliderURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "aabb06"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.04357338,
+        "posY": 4.0769577E-05,
+        "posZ": 0.5736122,
+        "rotX": 359.988953,
+        "rotY": 60.04304,
+        "rotZ": 0.002518516,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921647,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "DiffuseURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "NormalURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "ColliderURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "56b3d4"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.6202254,
+        "posY": 0.00018286705,
+        "posZ": 1.204679,
+        "rotX": 90.0,
+        "rotY": 299.343079,
+        "rotZ": 0.0,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921647,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "DiffuseURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "NormalURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "ColliderURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "3c0a8c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.1488297,
+        "posY": 0.000101327896,
+        "posZ": 1.296566,
+        "rotX": 90.0,
+        "rotY": 207.2728,
+        "rotZ": 0.0,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921647,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "DiffuseURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "NormalURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "ColliderURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "1694ca"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.300445557,
+        "posY": 0.000157594681,
+        "posZ": 1.801877,
+        "rotX": 333.092529,
+        "rotY": 70.06755,
+        "rotZ": 61.90896,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921647,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "DiffuseURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "NormalURL": "http://i.imgur.com/wmPuRqr.jpg",
+        "ColliderURL": "http://pastebin.com/raw.php?i=grKSs5VY",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "ee13f7"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

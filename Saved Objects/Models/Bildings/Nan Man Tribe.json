@@ -1,0 +1,67 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 10.0676851,
+        "posY": 3.73240685,
+        "posZ": -24.205471,
+        "rotX": -1.3568726E-05,
+        "rotY": 180.008743,
+        "rotZ": -6.2277526E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "[37B82A]Nan Man Tribe[d06209]",
+      "Description": "[-]Relations Marker",
+      "ColorDiffuse": {
+        "r": 0.160119027,
+        "g": 0.5435538,
+        "b": 0.154331744
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Three Kingdoms Redux>tkrtokentribal",
+        "AssetbundleSecondaryURL": "<Three Kingdoms Redux>tkrmaterials3",
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 0.6,
+        "DynamicFriction": 0.6,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 5.0,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+      },
+      "GUID": "b45454"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

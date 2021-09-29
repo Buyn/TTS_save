@@ -1,0 +1,2262 @@
+{
+  "SaveName": "mirometer",
+  "GameMode": "mirometer",
+  "Gravity": 0.5,
+  "PlayArea": 1.0,
+  "Date": "5/6/2021 7:07:16 PM",
+  "Table": "Table_Custom",
+  "TableURL": "https://otvet.imgsmail.ru/download/195842601_67ea3cab6ca2a188211671459d787801_800.jpg",
+  "Sky": "Sky_Downtown",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
+  "LuaScript": "--[[ Lua code. See documentation: https://api.tabletopsimulator.com/ --]]\n\n--[[ The onLoad event is called after the game save finishes loading. --]]\nfunction onLoad()\n    --[[ print('onLoad!') --]]\nend\n\n--[[ The onUpdate event is called once per frame. --]]\nfunction onUpdate()\n    --[[ print('onUpdate loop!') --]]\nend",
+  "LuaScriptState": "",
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "Opacity": 0.75,
+    "ThickLines": false,
+    "Snapping": false,
+    "Offset": false,
+    "BothSnapping": false,
+    "xSize": 2.0,
+    "ySize": 2.0,
+    "PosOffset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    }
+  },
+  "Lighting": {
+    "LightIntensity": 0.54,
+    "LightColor": {
+      "r": 1.0,
+      "g": 0.9804,
+      "b": 0.8902
+    },
+    "AmbientIntensity": 1.3,
+    "AmbientType": 0,
+    "AmbientSkyColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientEquatorColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientGroundColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "ReflectionIntensity": 1.0,
+    "LutIndex": 0,
+    "LutContribution": 1.0
+  },
+  "Hands": {
+    "Enable": true,
+    "DisableUnused": false,
+    "Hiding": 0,
+    "HandTransforms": [
+      {
+        "Color": "Blue",
+        "Transform": {
+          "posX": 23.6700039,
+          "posY": 3.23855448,
+          "posZ": 34.4527626,
+          "rotX": 0.0,
+          "rotY": 179.8,
+          "rotZ": 0.0,
+          "scaleX": 15.3529053,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.362672
+        }
+      },
+      {
+        "Color": "Brown",
+        "Transform": {
+          "posX": 0.0,
+          "posY": 3.23855448,
+          "posZ": -34.42515,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0,
+          "scaleX": 15.3268919,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.35014534
+        }
+      },
+      {
+        "Color": "Green",
+        "Transform": {
+          "posX": -23.6700039,
+          "posY": 3.23855448,
+          "posZ": 34.43159,
+          "rotX": 0.0,
+          "rotY": 180.0,
+          "rotZ": 0.0,
+          "scaleX": 15.3268747,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.35014534
+        }
+      },
+      {
+        "Color": "Orange",
+        "Transform": {
+          "posX": -51.6596222,
+          "posY": 3.23855448,
+          "posZ": -11.7324,
+          "rotX": 0.0,
+          "rotY": 90.0,
+          "rotZ": 0.0,
+          "scaleX": 15.2173042,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.418192
+        }
+      },
+      {
+        "Color": "Pink",
+        "Transform": {
+          "posX": 51.64263,
+          "posY": 3.23855448,
+          "posZ": -11.7324,
+          "rotX": 0.0,
+          "rotY": 270.0,
+          "rotZ": 0.0,
+          "scaleX": 15.217289,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.418192
+        }
+      },
+      {
+        "Color": "Purple",
+        "Transform": {
+          "posX": 51.5785675,
+          "posY": 3.23855448,
+          "posZ": 11.7324,
+          "rotX": 0.0,
+          "rotY": 270.0,
+          "rotZ": 0.0,
+          "scaleX": 15.21729,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.418192
+        }
+      },
+      {
+        "Color": "Red",
+        "Transform": {
+          "posX": -23.6700039,
+          "posY": 3.23855448,
+          "posZ": -34.42515,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0,
+          "scaleX": 15.3268948,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.35014534
+        }
+      },
+      {
+        "Color": "Teal",
+        "Transform": {
+          "posX": 0.0,
+          "posY": 3.23855448,
+          "posZ": 34.4527626,
+          "rotX": 0.0,
+          "rotY": 179.800049,
+          "rotZ": 0.0,
+          "scaleX": 15.3529072,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.362332
+        }
+      },
+      {
+        "Color": "White",
+        "Transform": {
+          "posX": 23.6700039,
+          "posY": 3.23855448,
+          "posZ": -34.2558136,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0,
+          "scaleX": 15.3268747,
+          "scaleY": 11.8970547,
+          "scaleZ": 6.705048
+        }
+      },
+      {
+        "Color": "Yellow",
+        "Transform": {
+          "posX": -51.6596222,
+          "posY": 3.23855448,
+          "posZ": 11.7324,
+          "rotX": 0.0,
+          "rotY": 90.0,
+          "rotZ": 0.0,
+          "scaleX": 15.2173023,
+          "scaleY": 11.8970528,
+          "scaleZ": 6.418192
+        }
+      }
+    ]
+  },
+  "Turns": {
+    "Enable": false,
+    "Type": 0,
+    "TurnOrder": [],
+    "Reverse": false,
+    "SkipEmpty": false,
+    "DisableInteractions": false,
+    "PassTurns": true
+  },
+  "ObjectStates": [
+    {
+      "Name": "3DText",
+      "Transform": {
+        "posX": 13.6018047,
+        "posY": 0.9611351,
+        "posZ": 6.49424839,
+        "rotX": 90.0,
+        "rotY": 273.8678,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "Text": {
+        "Text": "1 milimetr",
+        "colorstate": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "fontSize": 120
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "63af1e"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -39.9029465,
+        "posY": 0.9600001,
+        "posZ": 6.64051676,
+        "rotX": 1.53868689E-06,
+        "rotY": 90.10669,
+        "rotZ": 5.674669E-09,
+        "scaleX": 1.578887,
+        "scaleY": 1.0,
+        "scaleZ": 1.578887
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/How_big_is_1_micrometer%3F_%2810690468113%29.jpg/440px-How_big_is_1_micrometer%3F_%2810690468113%29.jpg",
+        "ImageSecondaryURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/How_big_is_1_micrometer%3F_%2810690468113%29.jpg/440px-How_big_is_1_micrometer%3F_%2810690468113%29.jpg",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "1d6eb1"
+    },
+    {
+      "Name": "3DText",
+      "Transform": {
+        "posX": 21.2447262,
+        "posY": 0.9611351,
+        "posZ": -0.3281425,
+        "rotX": 90.0,
+        "rotY": 0.333194584,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "Text": {
+        "Text": "1000 Micrometre",
+        "colorstate": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "fontSize": 150
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "b42e66"
+    },
+    {
+      "Name": "3DText",
+      "Transform": {
+        "posX": -32.0726,
+        "posY": 0.9611351,
+        "posZ": -1.17342412,
+        "rotX": 90.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "Text": {
+        "Text": "100 Micrometre",
+        "colorstate": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "fontSize": 108
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "8e7e90"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": -2.88076544,
+        "posY": 2.4362278,
+        "posZ": 87.51351,
+        "rotX": -1.18217595E-05,
+        "rotY": 90.00322,
+        "rotZ": -5.395626E-06,
+        "scaleX": 4.34999752,
+        "scaleY": 4.34999752,
+        "scaleZ": 4.34999752
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.7867647,
+        "g": 0.7867647,
+        "b": 0.7867647
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/How_big_is_1_micrometer%3F_%2810690468113%29.jpg/440px-How_big_is_1_micrometer%3F_%2810690468113%29.jpg",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.8
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "1c6ca5"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 15.60151,
+        "posY": 6.65823269,
+        "posZ": 58.75641,
+        "rotX": 5.958148E-06,
+        "rotY": 90.0040054,
+        "rotZ": 180.0,
+        "scaleX": 2.56587029,
+        "scaleY": 1.0,
+        "scaleZ": 2.56587029
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "85b17a"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 43.03391,
+        "posY": 1.0600003,
+        "posZ": 5.16492176,
+        "rotX": -0.000129497872,
+        "rotY": 179.96669,
+        "rotZ": 180.0,
+        "scaleX": 0.0478094555,
+        "scaleY": 1.0,
+        "scaleZ": 0.0478094555
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5d62c7"
+    },
+    {
+      "Name": "Infinite_Bag",
+      "Transform": {
+        "posX": 41.8703041,
+        "posY": 0.9442171,
+        "posZ": 28.6958961,
+        "rotX": -2.8137336E-07,
+        "rotY": 0.00264136912,
+        "rotZ": 5.43451E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.3058885,
+        "g": 0.372555166,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Infinite_Bag",
+          "Transform": {
+            "posX": 41.223423,
+            "posY": 3.03085518,
+            "posZ": 27.7325649,
+            "rotX": 359.808533,
+            "rotY": -0.002879614,
+            "rotZ": 0.135823712,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.3058885,
+            "g": 0.372555166,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Number": 99,
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "fb418a"
+        }
+      ],
+      "GUID": "b67a02"
+    },
+    {
+      "Name": "Infinite_Bag",
+      "Transform": {
+        "posX": 40.5884972,
+        "posY": 6.542337,
+        "posZ": 41.0452766,
+        "rotX": 1.06387079E-05,
+        "rotY": 179.998734,
+        "rotZ": -6.07810853E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.3058885,
+        "g": 0.372555166,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 37.0331078,
+            "posY": 8.746199,
+            "posZ": 52.83211,
+            "rotX": 359.9109,
+            "rotY": 90.00404,
+            "rotZ": 180.011108,
+            "scaleX": 2.56587029,
+            "scaleY": 1.0,
+            "scaleZ": 2.56587029
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5c9e93"
+        }
+      ],
+      "GUID": "fb418a"
+    },
+    {
+      "Name": "Infinite_Bag",
+      "Transform": {
+        "posX": -19.0338326,
+        "posY": 4.30768061,
+        "posZ": -41.2903481,
+        "rotX": 0.004634742,
+        "rotY": -0.0001673721,
+        "rotZ": 2.11220254E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.3058885,
+        "g": 0.372555166,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -17.74009,
+            "posY": 6.51437235,
+            "posZ": -43.3309021,
+            "rotX": 0.0523182377,
+            "rotY": 180.010162,
+            "rotZ": 180.000778,
+            "scaleX": 5.417408,
+            "scaleY": 1.0,
+            "scaleZ": 5.417408
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "373fb2"
+        }
+      ],
+      "GUID": "5613fd"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -18.599575,
+        "posY": 6.658234,
+        "posZ": 66.4139252,
+        "rotX": 2.42240731E-05,
+        "rotY": 179.984,
+        "rotZ": 180.0,
+        "scaleX": 2.56587029,
+        "scaleY": 1.0,
+        "scaleZ": 2.56587029
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5c9e93"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 19.0390854,
+        "posY": 6.65823841,
+        "posZ": 100.282379,
+        "rotX": 5.47113632E-06,
+        "rotY": 90.00509,
+        "rotZ": 180.0,
+        "scaleX": 2.56587029,
+        "scaleY": 1.0,
+        "scaleZ": 2.56587029
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "a3496b"
+    },
+    {
+      "Name": "Infinite_Bag",
+      "Transform": {
+        "posX": 42.69609,
+        "posY": 0.9430001,
+        "posZ": -22.7488232,
+        "rotX": 7.715655E-08,
+        "rotY": 0.0188308228,
+        "rotZ": 9.494824E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.3058885,
+        "g": 0.372555166,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 43.27214,
+            "posY": 2.81632137,
+            "posZ": -22.7793732,
+            "rotX": 4.926012E-06,
+            "rotY": 90.107,
+            "rotZ": -1.16549609E-06,
+            "scaleX": 1.578887,
+            "scaleY": 1.0,
+            "scaleZ": 1.578887
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/How_big_is_1_micrometer%3F_%2810690468113%29.jpg/440px-How_big_is_1_micrometer%3F_%2810690468113%29.jpg",
+            "ImageSecondaryURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/How_big_is_1_micrometer%3F_%2810690468113%29.jpg/440px-How_big_is_1_micrometer%3F_%2810690468113%29.jpg",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1d6eb1"
+        }
+      ],
+      "GUID": "d9310d"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 250.7491,
+        "posY": -23.9962826,
+        "posZ": 222.5958,
+        "rotX": 4.9387636E-06,
+        "rotY": 89.99776,
+        "rotZ": 180.0,
+        "scaleX": 2.56587029,
+        "scaleY": 1.0,
+        "scaleZ": 2.56587029
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "99e598"
+    },
+    {
+      "Name": "Infinite_Bag",
+      "Transform": {
+        "posX": 49.6732,
+        "posY": 0.944217443,
+        "posZ": 0.5617098,
+        "rotX": -1.56573435E-07,
+        "rotY": 315.7834,
+        "rotZ": -1.39159511E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.3058885,
+        "g": 0.372555166,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Board",
+          "Transform": {
+            "posX": 40.7891464,
+            "posY": 3.114492,
+            "posZ": 4.766219,
+            "rotX": 0.003962168,
+            "rotY": 179.9999,
+            "rotZ": 359.9666,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.7867647,
+            "g": 0.7867647,
+            "b": 0.7867647
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cfaser_haarrp.jpg/600px-Cfaser_haarrp.jpg",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 1.75953078
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5c2ad7"
+        }
+      ],
+      "GUID": "b9ea97"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": 171.6446,
+        "posY": -32.62455,
+        "posZ": 32.272644,
+        "rotX": -6.48597461E-06,
+        "rotY": 90.0032043,
+        "rotZ": -2.14628926E-06,
+        "scaleX": 9.0,
+        "scaleY": 9.0,
+        "scaleZ": 9.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.7867647,
+        "g": 0.7867647,
+        "b": 0.7867647
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cfaser_haarrp.jpg/600px-Cfaser_haarrp.jpg",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 1.75953078
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5c2ad7"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": -13.9519539,
+        "posY": 2.29114127,
+        "posZ": -87.78452,
+        "rotX": -0.00465782965,
+        "rotY": 179.993027,
+        "rotZ": -1.4346997E-06,
+        "scaleX": 3.0,
+        "scaleY": 1.0,
+        "scaleZ": 3.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.7867647,
+        "g": 0.7867647,
+        "b": 0.7867647
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://c7.alamy.com/comp/T952J5/illustration-showing-the-relative-sizes-of-a-red-blood-cell-left-bacteria-purple-bottom-and-various-viruses-T952J5.jpg",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.988593161
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "d410c0"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": -110.324318,
+        "posY": 2.387259,
+        "posZ": -71.32003,
+        "rotX": -3.04589548E-06,
+        "rotY": 89.99667,
+        "rotZ": 2.8714553E-09,
+        "scaleX": 3.54999638,
+        "scaleY": 3.54999638,
+        "scaleZ": 3.54999638
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.7867647,
+        "g": 0.7867647,
+        "b": 0.7867647
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://thumbs.dreamstime.com/z/giant-viruses-d-illustration-comparison-size-to-other-common-bacteria-100455316.jpg",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 1.22065723
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "8589db"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -22.8395767,
+        "posY": 0.9600003,
+        "posZ": -17.77604,
+        "rotX": 2.13518021E-07,
+        "rotY": 90.0013046,
+        "rotZ": -1.02508437E-07,
+        "scaleX": 7.60956955,
+        "scaleY": 1.0,
+        "scaleZ": 7.60956955
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Paramecium-ru.jpg/450px-Paramecium-ru.jpg",
+        "ImageSecondaryURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Paramecium-ru.jpg/450px-Paramecium-ru.jpg",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "ff44e4"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -10.3041077,
+        "posY": 3.341583,
+        "posZ": -122.918434,
+        "rotX": -0.004645767,
+        "rotY": 180.004929,
+        "rotZ": 180.0,
+        "scaleX": 5.417408,
+        "scaleY": 1.0,
+        "scaleZ": 5.417408
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "373fb2"
+    },
+    {
+      "Name": "Infinite_Bag",
+      "Transform": {
+        "posX": -68.1027,
+        "posY": 5.736625,
+        "posZ": -126.063354,
+        "rotX": -5.36835869E-05,
+        "rotY": 0.000283608155,
+        "rotZ": -2.28645131E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.3058885,
+        "g": 0.372555166,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -74.78834,
+            "posY": 7.94346237,
+            "posZ": -125.794861,
+            "rotX": 359.979736,
+            "rotY": 180.009659,
+            "rotZ": 179.987762,
+            "scaleX": 3.33331275,
+            "scaleY": 1.0,
+            "scaleZ": 3.33331275
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4ef775"
+        }
+      ],
+      "GUID": "c3656a"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -120.564194,
+        "posY": 5.851204,
+        "posZ": -123.1234,
+        "rotX": -2.70093619E-06,
+        "rotY": 180.0086,
+        "rotZ": 180.0,
+        "scaleX": 3.33331275,
+        "scaleY": 1.0,
+        "scaleZ": 3.33331275
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4ef775"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -22.6668148,
+        "posY": 0.961217165,
+        "posZ": -29.0391464,
+        "rotX": -1.1768406E-07,
+        "rotY": 180.005432,
+        "rotZ": -5.37632268E-08,
+        "scaleX": 5.0386734,
+        "scaleY": 1.0,
+        "scaleZ": 5.0386734
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.microscopy-uk.org.uk/mag/imgdec00/novpara.jpg",
+        "ImageSecondaryURL": "http://www.microscopy-uk.org.uk/mag/imgdec00/novpara.jpg",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "b88bf7"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 4.784153,
+        "posY": 0.961459458,
+        "posZ": 27.8831367,
+        "rotX": 0.009151886,
+        "rotY": 180.007858,
+        "rotZ": -0.000239708737,
+        "scaleX": 8.103015,
+        "scaleY": 1.0,
+        "scaleZ": 8.103015
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://lh3.googleusercontent.com/proxy/G5ynBhXeCTFXjJGfjild40q1bVxp3MEM3BaItDQCd4z2MnoQUrj6wAk7a2z_6ZiuQn64jgliDLFi002eRIXKgEg3w_wsmoKbWuNQikgp8Pn8s9onalb0DMGFHg",
+        "ImageSecondaryURL": "https://lh3.googleusercontent.com/proxy/G5ynBhXeCTFXjJGfjild40q1bVxp3MEM3BaItDQCd4z2MnoQUrj6wAk7a2z_6ZiuQn64jgliDLFi002eRIXKgEg3w_wsmoKbWuNQikgp8Pn8s9onalb0DMGFHg",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "77f447"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -19.5757751,
+        "posY": 0.9612173,
+        "posZ": 28.1183777,
+        "rotX": 3.35711E-08,
+        "rotY": 179.99556,
+        "rotZ": 2.79382334E-07,
+        "scaleX": 7.328047,
+        "scaleY": 1.0,
+        "scaleZ": 7.328047
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://rsscience.com/wp-content/uploads/2020/04/Amoeba-Structure_1-1024x774.jpg",
+        "ImageSecondaryURL": "https://rsscience.com/wp-content/uploads/2020/04/Amoeba-Structure_1-1024x774.jpg",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "8e5a1f"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -11.2635126,
+        "posY": 0.961094856,
+        "posZ": -25.4511757,
+        "rotX": 0.0140625509,
+        "rotY": -0.00126168109,
+        "rotZ": 5.6982768E-05,
+        "scaleX": 4.29279757,
+        "scaleY": 1.0,
+        "scaleZ": 4.29279757
+      },
+      "Nickname": "",
+      "Description": "Spirostomum Sp",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Spirostomum_sp_-_160x_%2812541441423%29.jpg/500px-Spirostomum_sp_-_160x_%2812541441423%29.jpg",
+        "ImageSecondaryURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Spirostomum_sp_-_160x_%2812541441423%29.jpg/500px-Spirostomum_sp_-_160x_%2812541441423%29.jpg",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "dbe4a7"
+    },
+    {
+      "Name": "Infinite_Bag",
+      "Transform": {
+        "posX": -53.0165176,
+        "posY": 0.948223531,
+        "posZ": 33.5420036,
+        "rotX": -8.840841E-07,
+        "rotY": 359.981873,
+        "rotZ": 8.568626E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.3058885,
+        "g": 0.372555166,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -52.7446175,
+            "posY": 3.14690852,
+            "posZ": 33.61555,
+            "rotX": 356.14798,
+            "rotY": 179.965866,
+            "rotZ": 181.079544,
+            "scaleX": 0.0478094555,
+            "scaleY": 1.0,
+            "scaleZ": 0.0478094555
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "17463c"
+        }
+      ],
+      "GUID": "e4577f"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -44.5954437,
+        "posY": 1.06522322,
+        "posZ": 3.76414824,
+        "rotX": 0.00079624285,
+        "rotY": 179.999863,
+        "rotZ": 180.000031,
+        "scaleX": 0.0478094555,
+        "scaleY": 1.0,
+        "scaleZ": 0.0478094555
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "17463c"
+    },
+    {
+      "Name": "Infinite_Bag",
+      "Transform": {
+        "posX": 27.9216461,
+        "posY": 0.9442174,
+        "posZ": 34.6554451,
+        "rotX": -2.67810378E-07,
+        "rotY": -1.34609709E-05,
+        "rotZ": 2.95710038E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.3058885,
+        "g": 0.372555166,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 27.4529381,
+            "posY": 3.15200186,
+            "posZ": 34.6131,
+            "rotX": 0.1933485,
+            "rotY": 179.966675,
+            "rotZ": 179.946259,
+            "scaleX": 0.458399981,
+            "scaleY": 1.0,
+            "scaleZ": 0.458399981
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a32ba7"
+        }
+      ],
+      "GUID": "3efdc3"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 14.6326847,
+        "posY": 1.16052985,
+        "posZ": 19.8954239,
+        "rotX": 359.983856,
+        "rotY": 179.997284,
+        "rotZ": 179.999435,
+        "scaleX": 0.458399981,
+        "scaleY": 1.0,
+        "scaleZ": 0.458399981
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "a32ba7"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 38.3979454,
+        "posY": 1.06000042,
+        "posZ": 2.70117426,
+        "rotX": -2.16236174E-07,
+        "rotY": 179.997284,
+        "rotZ": 180.0,
+        "scaleX": 0.458399981,
+        "scaleY": 1.0,
+        "scaleZ": 0.458399981
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "20ae70"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 25.47706,
+        "posY": 1.06121719,
+        "posZ": 28.46895,
+        "rotX": -4.626403E-06,
+        "rotY": 179.997269,
+        "rotZ": 180.0,
+        "scaleX": 0.458399981,
+        "scaleY": 1.0,
+        "scaleZ": 0.458399981
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "02cef4"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -53.0739174,
+        "posY": 1.06522286,
+        "posZ": 29.6741562,
+        "rotX": 1.2090637E-05,
+        "rotY": 179.9998,
+        "rotZ": 180.0,
+        "scaleX": 0.0478094555,
+        "scaleY": 1.0,
+        "scaleZ": 0.0478094555
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "d4a8d9"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -49.17052,
+        "posY": 1.06522357,
+        "posZ": -5.99429369,
+        "rotX": 1.6110713E-06,
+        "rotY": 179.997269,
+        "rotZ": 180.0,
+        "scaleX": 0.458399981,
+        "scaleY": 1.0,
+        "scaleZ": 0.458399981
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageSecondaryURL": "http://www.pngall.com/wp-content/uploads/2016/06/Ruler-PNG-Clipart.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "40a2f2"
+    }
+  ],
+  "DecalPallet": [],
+  "TabStates": {
+    "0": {
+      "title": "Rules",
+      "body": "",
+      "color": "Grey",
+      "visibleColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "id": 0
+    },
+    "1": {
+      "title": "White",
+      "body": "",
+      "color": "White",
+      "visibleColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "id": 1
+    },
+    "2": {
+      "title": "Brown",
+      "body": "",
+      "color": "Brown",
+      "visibleColor": {
+        "r": 0.443,
+        "g": 0.231,
+        "b": 0.09
+      },
+      "id": 2
+    },
+    "3": {
+      "title": "Red",
+      "body": "",
+      "color": "Red",
+      "visibleColor": {
+        "r": 0.856,
+        "g": 0.1,
+        "b": 0.094
+      },
+      "id": 3
+    },
+    "4": {
+      "title": "Orange",
+      "body": "",
+      "color": "Orange",
+      "visibleColor": {
+        "r": 0.956,
+        "g": 0.392,
+        "b": 0.113
+      },
+      "id": 4
+    },
+    "5": {
+      "title": "Yellow",
+      "body": "",
+      "color": "Yellow",
+      "visibleColor": {
+        "r": 0.905,
+        "g": 0.898,
+        "b": 0.172
+      },
+      "id": 5
+    },
+    "6": {
+      "title": "Green",
+      "body": "",
+      "color": "Green",
+      "visibleColor": {
+        "r": 0.192,
+        "g": 0.701,
+        "b": 0.168
+      },
+      "id": 6
+    },
+    "7": {
+      "title": "Blue",
+      "body": "",
+      "color": "Blue",
+      "visibleColor": {
+        "r": 0.118,
+        "g": 0.53,
+        "b": 1.0
+      },
+      "id": 7
+    },
+    "8": {
+      "title": "Teal",
+      "body": "",
+      "color": "Teal",
+      "visibleColor": {
+        "r": 0.129,
+        "g": 0.694,
+        "b": 0.607
+      },
+      "id": 8
+    },
+    "9": {
+      "title": "Purple",
+      "body": "",
+      "color": "Purple",
+      "visibleColor": {
+        "r": 0.627,
+        "g": 0.125,
+        "b": 0.941
+      },
+      "id": 9
+    },
+    "10": {
+      "title": "Pink",
+      "body": "",
+      "color": "Pink",
+      "visibleColor": {
+        "r": 0.96,
+        "g": 0.439,
+        "b": 0.807
+      },
+      "id": 10
+    },
+    "11": {
+      "title": "Black",
+      "body": "",
+      "color": "Black",
+      "visibleColor": {
+        "r": 0.25,
+        "g": 0.25,
+        "b": 0.25
+      },
+      "id": 11
+    }
+  },
+  "VersionNumber": "v12.2"
+}

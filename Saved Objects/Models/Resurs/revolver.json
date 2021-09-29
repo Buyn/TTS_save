@@ -1,0 +1,54 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 55.53779,
+        "posY": 9.345253,
+        "posZ": 8.972705,
+        "rotX": -0.0001553868,
+        "rotY": 224.966553,
+        "rotZ": 89.9967346,
+        "scaleX": 1.34999979,
+        "scaleY": 1.34999979,
+        "scaleZ": 1.34999979
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Tiny Epic Western>TEWpistol.unity3d",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "dee7fc"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

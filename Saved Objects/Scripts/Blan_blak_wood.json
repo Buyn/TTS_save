@@ -1,0 +1,80 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -12.2857084,
+        "posY": 15.9781923,
+        "posZ": -1.1808964,
+        "rotX": 7.576879E-06,
+        "rotY": 179.991623,
+        "rotZ": 0.0,
+        "scaleX": 3.45,
+        "scaleY": 1.0,
+        "scaleZ": 3.45
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/939466072510027753/F6AABCD6028C411777B72C8C825C4CDB7C7069AE/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "60c2b4",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": -0.003750956,
+            "y": 0.1999998,
+            "z": -0.02533496
+          },
+          "Rotation": {
+            "x": 2.74576541E-06,
+            "y": 270.0084,
+            "z": 7.577282E-06
+          }
+        }
+      ]
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

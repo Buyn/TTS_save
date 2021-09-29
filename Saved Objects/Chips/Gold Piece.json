@@ -1,0 +1,206 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": -52.2025146,
+        "posY": 1.04272318,
+        "posZ": -13.4261084,
+        "rotX": 3.67816455E-07,
+        "rotY": 90.00007,
+        "rotZ": 180.0,
+        "scaleX": 0.4231516,
+        "scaleY": 1.0,
+        "scaleZ": 0.4231516
+      },
+      "Nickname": "Silver Piece",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://www.dropbox.com/s/am9zcztyn1i1xnp/storm_mount_doubloon_base_zerg.png?dl=1",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.154999554,
+          "MergeDistancePixels": 15.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "22f59e"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": -0.165725708,
+        "posY": 0.0,
+        "posZ": -2.06278133,
+        "rotX": -2.087675E-06,
+        "rotY": 90.00007,
+        "rotZ": 180.0,
+        "scaleX": 0.4231516,
+        "scaleY": 1.0,
+        "scaleZ": 0.4231516
+      },
+      "Nickname": "Gold Piece",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://www.dropbox.com/s/21jpxd69q6ps95u/storm_mount_doubloon_base.png?dl=1",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.154999554,
+          "MergeDistancePixels": 15.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5923cd"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 0.3765602,
+        "posY": -0.0049996376,
+        "posZ": 1.93508148,
+        "rotX": 2.09961945E-06,
+        "rotY": 90.0085144,
+        "rotZ": 180.0,
+        "scaleX": 0.4231516,
+        "scaleY": 1.0,
+        "scaleZ": 0.4231516
+      },
+      "Nickname": "Copper Piece",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://www.dropbox.com/s/ctpl7hrlr6k4xk6/storm_mount_doubloon_base_diablo.png?dl=1",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.145000309,
+          "MergeDistancePixels": 15.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "ad32fe"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": -0.123996735,
+        "posY": -0.00250005722,
+        "posZ": -3.99401379,
+        "rotX": -8.73304452E-06,
+        "rotY": 89.99993,
+        "rotZ": 180.0,
+        "scaleX": 0.494187951,
+        "scaleY": 1.0,
+        "scaleZ": 0.494187951
+      },
+      "Nickname": "Platinum Piece",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://www.dropbox.com/s/cqzbuzm8k2ua9su/storm_golddoubloon.png?dl=1",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1499993,
+          "MergeDistancePixels": 15.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "128abb"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

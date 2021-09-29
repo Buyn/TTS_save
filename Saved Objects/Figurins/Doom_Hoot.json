@@ -1,0 +1,413 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 32.3146477,
+        "posY": 1.12826252,
+        "posZ": 29.66062,
+        "rotX": 3.62771175E-07,
+        "rotY": 179.8214,
+        "rotZ": 2.124992E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://vignette2.wikia.nocookie.net/residentevil/images/4/48/Chris_redfield_revelations_pro_render_by_allan_valentine-d59eemt.png/revision/latest?cb=20141019163103",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "37e6cd"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -0.09394455,
+        "posY": -1.1920929E-07,
+        "posZ": 2.27222443,
+        "rotX": 2.470155E-07,
+        "rotY": 359.818665,
+        "rotZ": -1.0776732E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://quakechampions.gamepedia.com/media/quakechampions.gamepedia.com/5/5a/DOOM_Slayer.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "feff91"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -2.49715424,
+        "posY": -2.38418579E-07,
+        "posZ": 0.0533695221,
+        "rotX": 1.08639668E-07,
+        "rotY": 179.821426,
+        "rotZ": -1.06891143E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://vignette2.wikia.nocookie.net/doom/images/b/b1/Doomguy.png/revision/latest?cb=20160711041847",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "ec7d14"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -2.27828026,
+        "posY": 0.0,
+        "posZ": 2.53729439,
+        "rotX": -1.294416E-07,
+        "rotY": 179.821411,
+        "rotZ": 2.01734726E-10,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://vgboxart.com/resources/render/1557_resident_evil_operation_raccoon_city-prev.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "60a1dc"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -4.68448067,
+        "posY": -2.38418579E-07,
+        "posZ": 2.538519,
+        "rotX": 4.24264641E-07,
+        "rotY": 179.821457,
+        "rotZ": 1.06029077E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://pre05.deviantart.net/2b51/th/pre/i/2012/212/6/4/four_eyes___professional_render_by_allan_valentine-d59b9jv.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "e0fb72"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -0.125106812,
+        "posY": -2.38418579E-07,
+        "posZ": 4.593092,
+        "rotX": 2.31064419E-07,
+        "rotY": 359.8186,
+        "rotZ": 4.18030375E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://img12.deviantart.net/39c1/i/2012/212/9/4/lupo___professional_render_by_allan_valentine-d59bhe3.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "28898a"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -4.40924644,
+        "posY": 0.0,
+        "posZ": 4.65360069,
+        "rotX": 6.263842E-08,
+        "rotY": 180.000015,
+        "rotZ": 1.01968969E-14,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "[E6E42B]Rick as Rhino ",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.249999732,
+        "g": 0.249999732,
+        "b": 0.249999732
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://vignette2.wikia.nocookie.net/rickandmorty/images/a/a5/Guard_Rick.png/revision/latest?cb=20160925081258",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "93ae19"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -6.61268044,
+        "posY": -1.1920929E-07,
+        "posZ": 2.65071678,
+        "rotX": 5.330023E-07,
+        "rotY": 179.821518,
+        "rotZ": 2.12581824E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/200801959123357216/E6E731CD1AA34CC2CD56E78B4591CDC325B32A0E/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "e55ce7"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -8.284168,
+        "posY": -0.177174032,
+        "posZ": 2.738783,
+        "rotX": -6.095975E-07,
+        "rotY": 330.023315,
+        "rotZ": -2.66331369E-07,
+        "scaleX": 0.5750007,
+        "scaleY": 0.5750007,
+        "scaleZ": 0.5750007
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://paste.ee/r/qnZb5",
+        "DiffuseURL": "http://i.imgur.com/lysRaOf.png",
+        "NormalURL": "",
+        "ColliderURL": "https://paste.ee/r/SgsKW",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 0.6,
+        "DynamicFriction": 0.6,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0625,
+        "Drag": 5.0,
+        "AngularDrag": 5.0,
+        "UseGravity": true
+      },
+      "GUID": "7fa548"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

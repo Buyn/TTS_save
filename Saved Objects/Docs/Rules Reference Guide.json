@@ -1,0 +1,146 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_PDF",
+      "Transform": {
+        "posX": -16.72,
+        "posY": 3.48151374,
+        "posZ": -88.88,
+        "rotX": -1.56668611E-05,
+        "rotY": 180.0,
+        "rotZ": -4.11701967E-06,
+        "scaleX": 3.38,
+        "scaleY": 1.0,
+        "scaleZ": 3.38
+      },
+      "Nickname": "Rules Reference Guide",
+      "Description": "Core Game",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomPDF": {
+        "PDFUrl": "http://cloud-3.steamusercontent.com/ugc/1022821770975793362/4F427F2D70ECBC67D554D88BA4FD7244F5182100/",
+        "PDFPassword": "",
+        "PDFPage": 1,
+        "PDFPageOffset": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "0393fb",
+      "States": {
+        "2": {
+          "Name": "Custom_PDF",
+          "Transform": {
+            "posX": 29.039999,
+            "posY": 5.38465071,
+            "posZ": -16.72,
+            "rotX": 9.99318E-05,
+            "rotY": 179.9999,
+            "rotZ": -9.199839E-06,
+            "scaleX": 3.38,
+            "scaleY": 1.0,
+            "scaleZ": 3.38
+          },
+          "Nickname": "Learn to Play",
+          "Description": "Core Game",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomPDF": {
+            "PDFUrl": "http://cloud-3.steamusercontent.com/ugc/1022821770975803385/F6D4590AB5B0862AEC389A410A2979B0969EA91C/",
+            "PDFPassword": "",
+            "PDFPage": 0,
+            "PDFPageOffset": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3e28aa"
+        },
+        "3": {
+          "Name": "Custom_PDF",
+          "Transform": {
+            "posX": 53.68,
+            "posY": 5.38465452,
+            "posZ": -16.72,
+            "rotX": 0.0001057362,
+            "rotY": 179.9996,
+            "rotZ": -9.37578E-06,
+            "scaleX": 3.38,
+            "scaleY": 1.0,
+            "scaleZ": 3.38
+          },
+          "Nickname": "Legends of the Alliance",
+          "Description": "Core Game",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomPDF": {
+            "PDFUrl": "http://cloud-3.steamusercontent.com/ugc/1022821770975784079/3DA14C866ACD7B2CB6105606415E85A6726C1EB2/",
+            "PDFPassword": "",
+            "PDFPage": 0,
+            "PDFPageOffset": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "145036"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

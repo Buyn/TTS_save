@@ -1,0 +1,2420 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 0.50577724,
+        "posY": 2.219958,
+        "posZ": 0.836439252,
+        "rotX": 1.83638668,
+        "rotY": 270.012634,
+        "rotZ": -1.47351629E-05,
+        "scaleX": 21.06189,
+        "scaleY": 1.0,
+        "scaleZ": 21.06189
+      },
+      "Nickname": "Kuat Space Station",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489029353/61BB7517B0AB1BD6C24B3C5C5D66718C8D694980/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "92d298",
+      "States": {
+        "6": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Imperial Labour Camp",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489022911/346F2E496BECEFAC6127059E56086C707483500B/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "148cd8"
+        },
+        "7": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Geonosis Foundry",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489024698/EF8AB4CEB7FA54E35FE3A8894410F8302F895A89/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6aec32"
+        },
+        "8": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Endor Wilderness",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489026589/F318CA93CE08A7DCCE66A013EAE046A742111CC7/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "dc4a29"
+        },
+        "9": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Imperial Research Lab",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489027918/EFE0ED5CCB3AB56F143F9A18114C903A9168DBF2/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5a540d"
+        },
+        "11": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Ord Mantell Junkyard",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489038426/032658B1608D932B0C7CD4C78C9E113F2EE53E45/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "64ff68"
+        },
+        "12": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Mos Eisley Cantina",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489039643/46DF487109AA513D4706B98710EA859552483FD4/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "59292b"
+        },
+        "13": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Wasteland Outpost",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489040776/1611EB4DF6B34C19EF525FE6FBD079921D8C237E/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9e63bc"
+        },
+        "15": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Imperial Space Station",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489043406/B70068B74C0BD11E2A7BD0F040681C406758AA8C/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4b101e"
+        },
+        "16": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Training Ground",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489044286/171AB86FA3B6347C93D27982325213B9DE1DE04D/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9ba243"
+        },
+        "17": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Development Facility",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489045642/589CD64DD72763F1717965B8DFF51DFC40CFB88B/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a21b19"
+        },
+        "18": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Sewers of Nar Shaddaa",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489046479/8840FD662ADE298A035F5F052C16F276E5E76269/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "599406"
+        },
+        "19": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Echo Base",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489047837/914D5F836CDA72E4A89A99CDFC3F1D97A1364BEC/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e3fdcb"
+        },
+        "20": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Nelvaanian Warzone",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489049364/FFE32154113A201D6F3AC97B44D22E7FE18C7FF1/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c92ab1"
+        },
+        "21": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Hoth Weather Shelter",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489050167/98B3C048C48BA383743975462AC0884B501304E8/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "cf05d8"
+        },
+        "22": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Climate Research Camp",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489051726/904A7C3B86333420B8192C9F62E67DF42A1B68FD/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f4fcf9"
+        },
+        "23": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Hoth Battle Station",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489054158/C8177F7D4608016D724F9C4D015AB31F2B041E78/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7bb40a"
+        },
+        "24": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Imperial Command Hub",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489055633/5E1F309AA21364E558C8169E62897AD045992B4A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "095acc"
+        },
+        "25": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Coruscant Landfill",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489056827/CA7E8F26A281788F9A4B1192FA2A463E222BAB1F/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "24eb68"
+        },
+        "26": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Bespin Tibanna Facility",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489059999/27E5477C41C7077AB616B2E033D0B314CCE7DC53/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2fa455"
+        },
+        "27": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Lothal Safehouse",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489060722/457B5D7F74499019552A4EFB1B58D719D9858A36/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "55b631"
+        },
+        "28": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "ISB Headquarters",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489061737/ED13C79E65106242FF37FE642FC0601A0048BE5A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e4d2c5"
+        },
+        "29": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "ISB Training Grounds",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489063996/E931F6C8B5238A674D743B8D493CCDA9B5AECDDE/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d1b02c"
+        },
+        "30": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Wasskah Hunting Ground",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489064936/B0ADBDD6909B8FA278398D828B1B9021F53772E4/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "86cdc2"
+        },
+        "31": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Anchorhead Bar",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489066839/A4A467637F72D7365ADF7E2C6255E646052D9B83/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7e5186"
+        },
+        "32": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Kashyyyk Station",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489068182/55962213B2765EC0463939AECEF10AD00538B2F3/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b11315"
+        },
+        "33": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Hangar Bay",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489068976/92A525CBFADAA1B0B5FC87DFD81FAA247DE700A1/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f9117f"
+        },
+        "34": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "The Pit of Carkoon",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489071305/DC08BBE02C6559E81D350816877515237F3D63FF/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "32df02"
+        },
+        "35": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "The Dune Sea",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489072125/5FD65EFEAD2451D440E6CAED2B8228296E03545E/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "85826c"
+        },
+        "36": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Nal Hutta Swamps",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489074343/CE7A908353CE63AECABDF7050E83154DA439510B/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "46768c"
+        },
+        "37": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Endor Defense Station",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489076021/FC07958CFAE88E4DAFDC3D3AE4DE1E02466B1BDA/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b08609"
+        },
+        "38": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Jabba's Palace",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489077428/4F9A4857D3529897C32E4593061744943B9155FD/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "42b182"
+        },
+        "40": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Mos Eisley Back Alleys",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489079798/498D6DF2412046AF0AB83A652072B84D39C48E32/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4e7b51"
+        },
+        "41": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Chopper Base, Atollion",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489085414/08697653C6DCAF4D155FB46660E166242B315712/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "80ab00"
+        },
+        "43": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Uscru Entertainment District",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489088866/6C743BEBD9D9C34F2304386EE8038898B6E795BE/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a728ee"
+        },
+        "42": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "30th Floor Plazza",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489088084/680B63298FE1C8DC888232CDA1B0B471C5D476C4/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "85d64a"
+        },
+        "44": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Coruscant Back Alleys",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489090106/A39668CA9AD872728CB40A8BF508855E568640D5/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "696f73"
+        },
+        "45": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Coruscant Senate Office",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489091418/CE4FA71992249FB4DB3E451F604DF2E3E056F83F/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "233657"
+        },
+        "46": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Lothal Wastes",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489092698/C6C893DA631F1ED15B88F3489E68928D8A5CAAF4/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "aa3402"
+        },
+        "47": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Lothal Battlefront",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489093920/691EA238B3615AD33D7E45DB48C0F96AAA47A0A0/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2b7a52"
+        },
+        "48": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Devaron Garrison",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489095477/D7DF384B2F8B79B86183A9BB6FB62ADFAF51477B/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "98e821"
+        },
+        "49": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Lothal Spaceport",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489096039/B1F55FF0C4BC6B3CF47CA30F9152234EDCF01C3C/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "bbdbf5"
+        },
+        "50": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.037198,
+            "posY": 0.960000157,
+            "posZ": -0.338470757,
+            "rotX": 1.08255316E-08,
+            "rotY": 270.000122,
+            "rotZ": 5.841907E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Imperial Tower",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489096940/A1F54BADFEA97BFE3B87F4ACDD413328ED857EC6/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c663b1"
+        },
+        "14": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -6.03720045,
+            "posY": 0.960000157,
+            "posZ": -0.338464439,
+            "rotX": -1.2665212E-08,
+            "rotY": 270.000122,
+            "rotZ": -1.98208649E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Tython Meditation Field",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489042142/06B7AF19D1E129D2C290681D77CBE2FDF5886B68/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "fd8985"
+        },
+        "3": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 1.47,
+            "posZ": 0.0,
+            "rotX": -6.34162456E-09,
+            "rotY": 270.02,
+            "rotZ": 2.507432E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Moisture Farm",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464488999278/35F84B71ACFAA0BC549E583B5CC057288873155A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4fbee3"
+        },
+        "5": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 1.47,
+            "posZ": 0.0,
+            "rotX": -6.34162456E-09,
+            "rotY": 270.02,
+            "rotZ": 2.507432E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Corellian Underground",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489021558/F5998F3440F5DA2CA2870D46D5456AA99B86ADA2/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5ad128"
+        },
+        "39": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 1.47,
+            "posZ": 0.0,
+            "rotX": -6.34162456E-09,
+            "rotY": 270.02,
+            "rotZ": 2.507432E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Tarkin Initiative Labs",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489078685/5EA41A60CA3A404D35A0672E228545B5C8BBC265/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1d8f3a"
+        },
+        "4": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 1.47,
+            "posZ": 0.0,
+            "rotX": -6.34162456E-09,
+            "rotY": 270.02,
+            "rotZ": 2.507432E-08,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Massassi Ruins",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489020301/29A643B54A5EF98FC10E80FF6FB82586CEF74668/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "35e91c"
+        },
+        "1": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 0.50577724,
+            "posY": 2.219958,
+            "posZ": 0.836439252,
+            "rotX": 1.83638668,
+            "rotY": 270.012665,
+            "rotZ": -1.48419385E-05,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Press R for random maps",
+          "Description": "Right Click and search by \"State\" for manual searching.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464489004994/94732DD61AF0137BD8017FE354006DA813F4485E/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "dfaa63"
+        },
+        "2": {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 0.50577724,
+            "posY": 2.219958,
+            "posZ": 0.836439252,
+            "rotX": 1.83638668,
+            "rotY": 270.012634,
+            "rotZ": -1.47351629E-05,
+            "scaleX": 21.06189,
+            "scaleY": 1.0,
+            "scaleZ": 21.06189
+          },
+          "Nickname": "Mos Eisley Outskirts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/788604464488992658/31BDB4F70F48B53AFB487EA53D1DEB87A19B705D/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "fd147c"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

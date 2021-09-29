@@ -1,0 +1,57 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 39.835907,
+        "posY": 1.00237322,
+        "posZ": -19.0992,
+        "rotX": -3.24915782E-05,
+        "rotY": 356.051178,
+        "rotZ": 3.633249E-05,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921711,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://paste.ee/r/MioXo",
+        "DiffuseURL": "http://i.imgur.com/2078C16.png",
+        "NormalURL": "",
+        "ColliderURL": "https://paste.ee/r/NRsuU",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "f2fbaf"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

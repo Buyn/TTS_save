@@ -1,0 +1,54 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -45.35998,
+        "posY": 0.0153075457,
+        "posZ": 1.80651379,
+        "rotX": -0.000102067854,
+        "rotY": 269.9853,
+        "rotZ": -2.45099836E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Cavalry",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 0.79456,
+        "b": 0.572
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Three Kingdoms Redux>tkrtokenhorse",
+        "AssetbundleSecondaryURL": "<Three Kingdoms Redux>tkrmaterials3",
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "9446e0"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

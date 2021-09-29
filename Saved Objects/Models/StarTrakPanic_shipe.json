@@ -1,0 +1,1170 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -28.43502,
+        "posY": 4.93388462,
+        "posZ": 2.28657365,
+        "rotX": 89.84934,
+        "rotY": 15.3351507,
+        "rotZ": 255.6661,
+        "scaleX": 0.67500025,
+        "scaleY": 0.67500025,
+        "scaleZ": 0.67500025
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "https://s-media-cache-ak0.pinimg.com/564x/72/49/0b/72490b6ebcc7c2506e34363a96f258fb.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 4,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 1.0,
+          "SpecularSharpness": 7.5,
+          "FresnelStrength": 0.2
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "5a9cdc",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.4072668,
+          "y": 0.461645544,
+          "z": 0.7377711
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "94aa14",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": 0.2068316,
+            "y": -0.07633964,
+            "z": -0.201316327
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 4.24043655,
+        "posY": -0.0168991089,
+        "posZ": 2.90076184,
+        "rotX": 89.81548,
+        "rotY": 231.206192,
+        "rotZ": 48.18331,
+        "scaleX": 0.67500025,
+        "scaleY": 0.67500025,
+        "scaleZ": 0.67500025
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "https://s-media-cache-ak0.pinimg.com/564x/72/49/0b/72490b6ebcc7c2506e34363a96f258fb.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 4,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 1.0,
+          "SpecularSharpness": 7.5,
+          "FresnelStrength": 0.2
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "5a9cdc",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.905332148,
+          "y": 0.45871076,
+          "z": 0.009851569
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "df70d7",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": 0.07998602,
+            "y": 0.02680052,
+            "z": -0.201315522
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 4.186617,
+        "posY": 0.169184208,
+        "posZ": 2.89407754,
+        "rotX": 359.966278,
+        "rotY": 149.987579,
+        "rotZ": 180.184387,
+        "scaleX": 0.351423174,
+        "scaleY": 1.0,
+        "scaleZ": 0.351423174
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/5ogU5zx.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "2098da"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 1.75409889,
+        "posY": -1.17007279,
+        "posZ": -0.6066917,
+        "rotX": 0.00205464661,
+        "rotY": 149.986282,
+        "rotZ": 179.987854,
+        "scaleX": 0.351423174,
+        "scaleY": 1.0,
+        "scaleZ": 0.351423174
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/5ogU5zx.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "c1bb69"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 3.000023,
+        "posY": -0.215154648,
+        "posZ": -1.69502115,
+        "rotX": 3.52043653,
+        "rotY": 269.783752,
+        "rotZ": 353.85553,
+        "scaleX": 0.2881239,
+        "scaleY": 1.0,
+        "scaleZ": 0.2881239
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/0VX9J4D.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "2e2e92"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 4.162222,
+        "posY": -1.10204649,
+        "posZ": -2.686762,
+        "rotX": 0.0239423756,
+        "rotY": 179.99144,
+        "rotZ": -0.00129876414,
+        "scaleX": 0.30000037,
+        "scaleY": 0.30000037,
+        "scaleZ": 0.30000037
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/A8s9mGCC",
+        "DiffuseURL": "http://i.imgur.com/Pbt9NGD.jpg",
+        "NormalURL": "",
+        "ColliderURL": "http://pastebin.com/raw/BNCRYsey",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "5a9cdc",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -0.0538939163,
+          "y": 0.272424728,
+          "z": 0.0231701732
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "c7e7bf"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 4.297617,
+        "posY": -2.68801713,
+        "posZ": -2.37304926,
+        "rotX": 0.008113116,
+        "rotY": 270.006683,
+        "rotZ": -0.00152973994,
+        "scaleX": 5.97500753,
+        "scaleY": 5.97500753,
+        "scaleZ": 5.97500753
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/102852399390579755/D3FD9FDFDF8AC654129645D3D4651FAC4ED5E0D4/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/266096784336573127/1D37C411ADDE753993DDC92BCBBF12DCE498A6E7/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/270596815979410422/6DBFC15BF81343705BE1FA4A440D36A9BEF2C3C8/",
+        "Convex": false,
+        "MaterialIndex": 4,
+        "TypeIndex": 4,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5a9cdc"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 5.12431335,
+        "posY": -0.0830993652,
+        "posZ": -2.280602,
+        "rotX": 359.989838,
+        "rotY": 269.995026,
+        "rotZ": 359.994019,
+        "scaleX": 0.1727097,
+        "scaleY": 1.0,
+        "scaleZ": 0.1727097
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/cV4Gn8u.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "640979"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 5.28335571,
+        "posY": -0.08274126,
+        "posZ": -3.02477241,
+        "rotX": -0.000187541533,
+        "rotY": 269.9556,
+        "rotZ": -0.0008466103,
+        "scaleX": 0.1727097,
+        "scaleY": 1.0,
+        "scaleZ": 0.1727097
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/cV4Gn8u.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "84d1d7"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 2.796049,
+        "posY": -0.222728252,
+        "posZ": -3.56486964,
+        "rotX": 4.73346663,
+        "rotY": 270.987671,
+        "rotZ": 1.31571329,
+        "scaleX": 0.1727097,
+        "scaleY": 1.0,
+        "scaleZ": 0.1727097
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/cV4Gn8u.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "d43e1d"
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 6.799656,
+        "posY": -1.16986918,
+        "posZ": -4.77971268,
+        "rotX": -0.00359678129,
+        "rotY": 29.9179268,
+        "rotZ": -0.0006312509,
+        "scaleX": 0.223516271,
+        "scaleY": 1.0,
+        "scaleZ": 0.223516271
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/xkl9nTV.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "bb1e77"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.0036315918,
+        "posY": -0.000208854675,
+        "posZ": -5.145758,
+        "rotX": 89.76261,
+        "rotY": 183.0401,
+        "rotZ": 123.682106,
+        "scaleX": 0.67500025,
+        "scaleY": 0.67500025,
+        "scaleZ": 0.67500025
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "https://s-media-cache-ak0.pinimg.com/564x/72/49/0b/72490b6ebcc7c2506e34363a96f258fb.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 4,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 1.0,
+          "SpecularSharpness": 7.5,
+          "FresnelStrength": 0.2
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "5a9cdc",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -0.4761293,
+          "y": 0.46159476,
+          "z": 0.737044156
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "a0eff5",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": 0.0109066935,
+            "y": -0.0261951033,
+            "z": -0.201318026
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 0.0106697083,
+        "posY": 0.185452461,
+        "posZ": -5.169087,
+        "rotX": 359.796051,
+        "rotY": 150.025925,
+        "rotZ": 180.139542,
+        "scaleX": 0.351423174,
+        "scaleY": 1.0,
+        "scaleZ": 0.351423174
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/5ogU5zx.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "84513f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 9.115587,
+        "posY": -0.0224342346,
+        "posZ": 0.07767892,
+        "rotX": 89.746666,
+        "rotY": 253.147858,
+        "rotZ": 15.26248,
+        "scaleX": 0.67500025,
+        "scaleY": 0.67500025,
+        "scaleZ": 0.67500025
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "https://s-media-cache-ak0.pinimg.com/564x/72/49/0b/72490b6ebcc7c2506e34363a96f258fb.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 4,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 1.0,
+          "SpecularSharpness": 7.5,
+          "FresnelStrength": 0.2
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "5a9cdc",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": 0.4207695,
+          "y": 0.457738072,
+          "z": -0.827104151
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "ac6524",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": -0.0650636554,
+            "y": 0.0431791432,
+            "z": -0.201316521
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 9.11352,
+        "posY": 0.163144112,
+        "posZ": 0.0192241669,
+        "rotX": 0.0573012866,
+        "rotY": 149.983078,
+        "rotZ": 180.239731,
+        "scaleX": 0.351423174,
+        "scaleY": 1.0,
+        "scaleZ": 0.351423174
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/5ogU5zx.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "3c34f5"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 4.2996254,
+        "posY": -0.0421381,
+        "posZ": -8.537531,
+        "rotX": 89.85873,
+        "rotY": 269.743958,
+        "rotZ": 274.953674,
+        "scaleX": 0.67500025,
+        "scaleY": 0.67500025,
+        "scaleZ": 0.67500025
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "https://s-media-cache-ak0.pinimg.com/564x/72/49/0b/72490b6ebcc7c2506e34363a96f258fb.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 4,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 1.0,
+          "SpecularSharpness": 7.5,
+          "FresnelStrength": 0.2
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "5a9cdc",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -1.05826449,
+          "y": 0.454434454,
+          "z": -0.0005296366
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "48ff6c",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": 0.134053886,
+            "y": -0.07767676,
+            "z": -0.20131579
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 9.23452,
+        "posY": -0.03998804,
+        "posZ": -5.411959,
+        "rotX": 89.6909943,
+        "rotY": 302.060272,
+        "rotZ": 4.468952,
+        "scaleX": 0.67500025,
+        "scaleY": 0.67500025,
+        "scaleZ": 0.67500025
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/HREQTd0Z",
+        "DiffuseURL": "https://s-media-cache-ak0.pinimg.com/564x/72/49/0b/72490b6ebcc7c2506e34363a96f258fb.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 4,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 1.0,
+          "SpecularSharpness": 7.5,
+          "FresnelStrength": 0.2
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "JointFixed": {
+        "ConnectedBodyGUID": "5a9cdc",
+        "EnableCollision": false,
+        "Axis": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Anchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "ConnectedAnchor": {
+          "x": -0.5216339,
+          "y": 0.45448938,
+          "z": -0.847650468
+        },
+        "BreakForce": "Infinity",
+        "BreakTorgue": "Infinity"
+      },
+      "GUID": "f10228",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": -0.09376285,
+            "y": 0.0262661222,
+            "z": -0.201316237
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Custom_Token_Stack",
+      "Transform": {
+        "posX": 4.39038658,
+        "posY": 0.243009567,
+        "posZ": -8.577367,
+        "rotX": 0.0771039948,
+        "rotY": 149.96196,
+        "rotZ": 180.136154,
+        "scaleX": 0.351423174,
+        "scaleY": 1.0,
+        "scaleZ": 0.351423174
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 2,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/5ogU5zx.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "729a95"
+    },
+    {
+      "Name": "Custom_Token_Stack",
+      "Transform": {
+        "posX": 9.185705,
+        "posY": 0.245799541,
+        "posZ": -5.459236,
+        "rotX": 0.2661886,
+        "rotY": 150.037857,
+        "rotZ": 180.14064,
+        "scaleX": 0.351423174,
+        "scaleY": 1.0,
+        "scaleZ": 0.351423174
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 2,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/5ogU5zx.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.1,
+          "MergeDistancePixels": 5.0,
+          "Stackable": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "cbeefc"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

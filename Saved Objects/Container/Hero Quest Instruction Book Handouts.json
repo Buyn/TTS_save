@@ -1,0 +1,4937 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model_Bag",
+      "Transform": {
+        "posX": 3.512,
+        "posY": 3.6902,
+        "posZ": 35.8083,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 9.299977,
+        "scaleY": 9.299977,
+        "scaleZ": 9.299977
+      },
+      "Nickname": "[12FF00]Hero Quest[-] Instruction Book Handouts",
+      "Description": "Contains both short, long and EU versions. Give these to players who want to look at the rules closely, otherwise refer to the big rule sheet.",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": true,
+      "Grid": false,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/865113719706120833/F52A3FFC7A0CFBA4B19A7C78BE57C098698DC50F/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/865113719706120927/B252D441BBC3A08142616339E5B9B0BF6E7B932D/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/865113719706120833/F52A3FFC7A0CFBA4B19A7C78BE57C098698DC50F/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 6,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": 4.74676132,
+            "posY": 6.441911,
+            "posZ": 39.01921,
+            "rotX": -0.000357415964,
+            "rotY": 359.96698,
+            "rotZ": -1.049521E-06,
+            "scaleX": 4.4419775,
+            "scaleY": 1.0,
+            "scaleZ": 4.4419775
+          },
+          "Nickname": "[12FF00]EU Hero Quest[-] Instruction Book.",
+          "Description": "These were the Original Hero Quest Rules from Europe/UK\n\nUse numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187083716/E529DEBF7FE173AEC94AC9349AA036A07FD9149A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a1c6c1",
+          "States": {
+            "2": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756958,
+                "posY": 2.55857587,
+                "posZ": -3.983926,
+                "rotX": 1.1146052E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.20001405E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084344/D6744A97205940949C02496985B1A2C372EC3B49/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "cf37db"
+            },
+            "3": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756863,
+                "posY": 2.55857587,
+                "posZ": -3.9839263,
+                "rotX": 1.16791148E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.28536649E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084983/097A481E1BC15EC9FF86E8F3FF8C2C7CD8D035A2/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "00c05a"
+            },
+            "8": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 0.5670741,
+                "posY": 3.56445932,
+                "posZ": 6.46998739,
+                "rotX": -0.0003573729,
+                "rotY": 359.96698,
+                "rotZ": -1.11596012E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187088307/AD4F65D0BDE024CB4E9B26104FBD6630F41E05FF/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "0998e5"
+            },
+            "7": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 0.567074358,
+                "posY": 3.56445932,
+                "posZ": 6.469988,
+                "rotX": -0.000357365236,
+                "rotY": 359.96698,
+                "rotZ": -1.0997594E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187087423/97947514B0B1541770B93C34246B0109D16CC79A/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "32c4b3"
+            },
+            "6": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 0.567074656,
+                "posY": 3.56445932,
+                "posZ": 6.469988,
+                "rotX": -0.000357361248,
+                "rotY": 359.96698,
+                "rotZ": -1.13574083E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086789/5035E83FE740CC79CC4C1BECB72DFB1C495EEEBE/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "e7b6e7"
+            },
+            "5": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 0.567074955,
+                "posY": 3.56445932,
+                "posZ": 6.469988,
+                "rotX": -0.00035736413,
+                "rotY": 359.96698,
+                "rotZ": -1.07369669E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086097/383CB5B5072AA0A5CF42635F3130110CF3DB481D/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "69155c"
+            },
+            "4": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 0.567075253,
+                "posY": 3.56445932,
+                "posZ": 6.46998835,
+                "rotX": -0.0003573414,
+                "rotY": 359.96698,
+                "rotZ": -1.04543915E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187085583/9511A2D47341CC2D76563A20104A3F20D866B3E7/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1ea0d2"
+            }
+          }
+        },
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -17.2646713,
+            "posY": 3.345872,
+            "posZ": -5.96769428,
+            "rotX": 0.3337225,
+            "rotY": 0.00137560756,
+            "rotZ": 0.471246034,
+            "scaleX": 4.4419775,
+            "scaleY": 1.0,
+            "scaleZ": 4.4419775
+          },
+          "Nickname": "[12FF00]EU Hero Quest[-] Instruction Book.",
+          "Description": "These were the Original Hero Quest Rules from Europe/UK\n\nUse numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187083716/E529DEBF7FE173AEC94AC9349AA036A07FD9149A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4ea84f",
+          "States": {
+            "4": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.20111929E-06,
+                "posY": 2.558576,
+                "posZ": -1.63074355E-06,
+                "rotX": -6.51923665E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.0547692E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187085583/9511A2D47341CC2D76563A20104A3F20D866B3E7/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1ea0d2"
+            },
+            "5": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.48347829E-06,
+                "posY": 2.558576,
+                "posZ": -1.36479628E-06,
+                "rotX": -7.635293E-06,
+                "rotY": 180.0001,
+                "rotZ": -4.67609561E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086097/383CB5B5072AA0A5CF42635F3130110CF3DB481D/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "69155c"
+            },
+            "6": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.745527E-06,
+                "posY": 2.558576,
+                "posZ": -1.57976092E-06,
+                "rotX": -8.014497E-06,
+                "rotY": 180.0001,
+                "rotZ": -2.58716818E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086789/5035E83FE740CC79CC4C1BECB72DFB1C495EEEBE/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "e7b6e7"
+            },
+            "7": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -2.007009E-06,
+                "posY": 2.558576,
+                "posZ": -1.79531378E-06,
+                "rotX": -7.569814E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.22698816E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187087423/97947514B0B1541770B93C34246B0109D16CC79A/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "32c4b3"
+            },
+            "2": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756958,
+                "posY": 2.55857587,
+                "posZ": -3.983926,
+                "rotX": 1.1146052E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.20001405E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084344/D6744A97205940949C02496985B1A2C372EC3B49/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "cf37db"
+            },
+            "3": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756863,
+                "posY": 2.55857587,
+                "posZ": -3.9839263,
+                "rotX": 1.16791148E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.28536649E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084983/097A481E1BC15EC9FF86E8F3FF8C2C7CD8D035A2/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "00c05a"
+            },
+            "8": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.227567,
+                "posY": 2.55857587,
+                "posZ": -3.98392653,
+                "rotX": 2.59862213E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.27434469E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187088307/AD4F65D0BDE024CB4E9B26104FBD6630F41E05FF/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "0998e5"
+            }
+          }
+        },
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -17.2896442,
+            "posY": 3.1894114,
+            "posZ": -5.956547,
+            "rotX": 359.7284,
+            "rotY": -0.00137385086,
+            "rotZ": 0.3070296,
+            "scaleX": 4.4419775,
+            "scaleY": 1.0,
+            "scaleZ": 4.4419775
+          },
+          "Nickname": "[12FF00]EU Hero Quest[-] Instruction Book.",
+          "Description": "These were the Original Hero Quest Rules from Europe/UK\n\nUse numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187083716/E529DEBF7FE173AEC94AC9349AA036A07FD9149A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "82d7ed",
+          "States": {
+            "4": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.20111929E-06,
+                "posY": 2.558576,
+                "posZ": -1.63074355E-06,
+                "rotX": -6.51923665E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.0547692E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187085583/9511A2D47341CC2D76563A20104A3F20D866B3E7/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1ea0d2"
+            },
+            "5": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.48347829E-06,
+                "posY": 2.558576,
+                "posZ": -1.36479628E-06,
+                "rotX": -7.635293E-06,
+                "rotY": 180.0001,
+                "rotZ": -4.67609561E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086097/383CB5B5072AA0A5CF42635F3130110CF3DB481D/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "69155c"
+            },
+            "6": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.745527E-06,
+                "posY": 2.558576,
+                "posZ": -1.57976092E-06,
+                "rotX": -8.014497E-06,
+                "rotY": 180.0001,
+                "rotZ": -2.58716818E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086789/5035E83FE740CC79CC4C1BECB72DFB1C495EEEBE/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "e7b6e7"
+            },
+            "7": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -2.007009E-06,
+                "posY": 2.558576,
+                "posZ": -1.79531378E-06,
+                "rotX": -7.569814E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.22698816E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187087423/97947514B0B1541770B93C34246B0109D16CC79A/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "32c4b3"
+            },
+            "2": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756958,
+                "posY": 2.55857587,
+                "posZ": -3.983926,
+                "rotX": 1.1146052E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.20001405E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084344/D6744A97205940949C02496985B1A2C372EC3B49/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "cf37db"
+            },
+            "3": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756863,
+                "posY": 2.55857587,
+                "posZ": -3.9839263,
+                "rotX": 1.16791148E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.28536649E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084983/097A481E1BC15EC9FF86E8F3FF8C2C7CD8D035A2/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "00c05a"
+            },
+            "8": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.227567,
+                "posY": 2.55857587,
+                "posZ": -3.98392653,
+                "rotX": 2.59862213E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.27434469E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187088307/AD4F65D0BDE024CB4E9B26104FBD6630F41E05FF/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "0998e5"
+            }
+          }
+        },
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -16.6959877,
+            "posY": 3.09042454,
+            "posZ": -5.70594549,
+            "rotX": 359.8897,
+            "rotY": 0.0007965256,
+            "rotZ": 0.05225758,
+            "scaleX": 4.4419775,
+            "scaleY": 1.0,
+            "scaleZ": 4.4419775
+          },
+          "Nickname": "[12FF00]EU Hero Quest[-] Instruction Book.",
+          "Description": "These were the Original Hero Quest Rules from Europe/UK\n\nUse numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187083716/E529DEBF7FE173AEC94AC9349AA036A07FD9149A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3d0c0c",
+          "States": {
+            "4": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.20111929E-06,
+                "posY": 2.558576,
+                "posZ": -1.63074355E-06,
+                "rotX": -6.51923665E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.0547692E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187085583/9511A2D47341CC2D76563A20104A3F20D866B3E7/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1ea0d2"
+            },
+            "5": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.48347829E-06,
+                "posY": 2.558576,
+                "posZ": -1.36479628E-06,
+                "rotX": -7.635293E-06,
+                "rotY": 180.0001,
+                "rotZ": -4.67609561E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086097/383CB5B5072AA0A5CF42635F3130110CF3DB481D/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "69155c"
+            },
+            "6": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.745527E-06,
+                "posY": 2.558576,
+                "posZ": -1.57976092E-06,
+                "rotX": -8.014497E-06,
+                "rotY": 180.0001,
+                "rotZ": -2.58716818E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086789/5035E83FE740CC79CC4C1BECB72DFB1C495EEEBE/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "e7b6e7"
+            },
+            "7": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -2.007009E-06,
+                "posY": 2.558576,
+                "posZ": -1.79531378E-06,
+                "rotX": -7.569814E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.22698816E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187087423/97947514B0B1541770B93C34246B0109D16CC79A/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "32c4b3"
+            },
+            "2": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756958,
+                "posY": 2.55857587,
+                "posZ": -3.983926,
+                "rotX": 1.1146052E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.20001405E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084344/D6744A97205940949C02496985B1A2C372EC3B49/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "cf37db"
+            },
+            "3": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756863,
+                "posY": 2.55857587,
+                "posZ": -3.9839263,
+                "rotX": 1.16791148E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.28536649E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084983/097A481E1BC15EC9FF86E8F3FF8C2C7CD8D035A2/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "00c05a"
+            },
+            "8": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.227567,
+                "posY": 2.55857587,
+                "posZ": -3.98392653,
+                "rotX": 2.59862213E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.27434469E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187088307/AD4F65D0BDE024CB4E9B26104FBD6630F41E05FF/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "0998e5"
+            }
+          }
+        },
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -17.3623981,
+            "posY": 2.98114276,
+            "posZ": -5.81619644,
+            "rotX": 359.893066,
+            "rotY": 0.0009812471,
+            "rotZ": 359.8392,
+            "scaleX": 4.4419775,
+            "scaleY": 1.0,
+            "scaleZ": 4.4419775
+          },
+          "Nickname": "[12FF00]EU Hero Quest[-] Instruction Book.",
+          "Description": "These were the Original Hero Quest Rules from Europe/UK\n\nUse numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187083716/E529DEBF7FE173AEC94AC9349AA036A07FD9149A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "734143",
+          "States": {
+            "4": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.20111929E-06,
+                "posY": 2.558576,
+                "posZ": -1.63074355E-06,
+                "rotX": -6.51923665E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.0547692E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187085583/9511A2D47341CC2D76563A20104A3F20D866B3E7/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1ea0d2"
+            },
+            "5": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.48347829E-06,
+                "posY": 2.558576,
+                "posZ": -1.36479628E-06,
+                "rotX": -7.635293E-06,
+                "rotY": 180.0001,
+                "rotZ": -4.67609561E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086097/383CB5B5072AA0A5CF42635F3130110CF3DB481D/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "69155c"
+            },
+            "6": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.745527E-06,
+                "posY": 2.558576,
+                "posZ": -1.57976092E-06,
+                "rotX": -8.014497E-06,
+                "rotY": 180.0001,
+                "rotZ": -2.58716818E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086789/5035E83FE740CC79CC4C1BECB72DFB1C495EEEBE/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "e7b6e7"
+            },
+            "7": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -2.007009E-06,
+                "posY": 2.558576,
+                "posZ": -1.79531378E-06,
+                "rotX": -7.569814E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.22698816E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187087423/97947514B0B1541770B93C34246B0109D16CC79A/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "32c4b3"
+            },
+            "2": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756958,
+                "posY": 2.55857587,
+                "posZ": -3.983926,
+                "rotX": 1.1146052E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.20001405E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084344/D6744A97205940949C02496985B1A2C372EC3B49/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "cf37db"
+            },
+            "3": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756863,
+                "posY": 2.55857587,
+                "posZ": -3.9839263,
+                "rotX": 1.16791148E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.28536649E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084983/097A481E1BC15EC9FF86E8F3FF8C2C7CD8D035A2/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "00c05a"
+            },
+            "8": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.227567,
+                "posY": 2.55857587,
+                "posZ": -3.98392653,
+                "rotX": 2.59862213E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.27434469E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187088307/AD4F65D0BDE024CB4E9B26104FBD6630F41E05FF/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "0998e5"
+            }
+          }
+        },
+        {
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -17.3582077,
+            "posY": 2.88136768,
+            "posZ": -5.824917,
+            "rotX": 359.894165,
+            "rotY": 0.0006818701,
+            "rotZ": 359.8356,
+            "scaleX": 4.4419775,
+            "scaleY": 1.0,
+            "scaleZ": 4.4419775
+          },
+          "Nickname": "[12FF00]EU Hero Quest[-] Instruction Book.",
+          "Description": "These were the Original Hero Quest Rules from Europe/UK\n\nUse numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187083716/E529DEBF7FE173AEC94AC9349AA036A07FD9149A/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 0,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "edd044",
+          "States": {
+            "4": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.20111929E-06,
+                "posY": 2.558576,
+                "posZ": -1.63074355E-06,
+                "rotX": -6.51923665E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.0547692E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187085583/9511A2D47341CC2D76563A20104A3F20D866B3E7/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1ea0d2"
+            },
+            "5": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.48347829E-06,
+                "posY": 2.558576,
+                "posZ": -1.36479628E-06,
+                "rotX": -7.635293E-06,
+                "rotY": 180.0001,
+                "rotZ": -4.67609561E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086097/383CB5B5072AA0A5CF42635F3130110CF3DB481D/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "69155c"
+            },
+            "6": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -1.745527E-06,
+                "posY": 2.558576,
+                "posZ": -1.57976092E-06,
+                "rotX": -8.014497E-06,
+                "rotY": 180.0001,
+                "rotZ": -2.58716818E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187086789/5035E83FE740CC79CC4C1BECB72DFB1C495EEEBE/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "e7b6e7"
+            },
+            "7": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": -2.007009E-06,
+                "posY": 2.558576,
+                "posZ": -1.79531378E-06,
+                "rotX": -7.569814E-06,
+                "rotY": 180.0001,
+                "rotZ": -1.22698816E-06,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187087423/97947514B0B1541770B93C34246B0109D16CC79A/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "32c4b3"
+            },
+            "2": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756958,
+                "posY": 2.55857587,
+                "posZ": -3.983926,
+                "rotX": 1.1146052E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.20001405E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084344/D6744A97205940949C02496985B1A2C372EC3B49/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "cf37db"
+            },
+            "3": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.22756863,
+                "posY": 2.55857587,
+                "posZ": -3.9839263,
+                "rotX": 1.16791148E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.28536649E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187084983/097A481E1BC15EC9FF86E8F3FF8C2C7CD8D035A2/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "00c05a"
+            },
+            "8": {
+              "Name": "Custom_Tile",
+              "Transform": {
+                "posX": 4.227567,
+                "posY": 2.55857587,
+                "posZ": -3.98392653,
+                "rotX": 2.59862213E-06,
+                "rotY": 270.085754,
+                "rotZ": -1.27434469E-05,
+                "scaleX": 4.4419775,
+                "scaleY": 1.0,
+                "scaleZ": 4.4419775
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "http://cloud-3.steamusercontent.com/ugc/859480253187088307/AD4F65D0BDE024CB4E9B26104FBD6630F41E05FF/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                  "Type": 0,
+                  "Thickness": 0.1,
+                  "Stackable": false,
+                  "Stretch": true
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "0998e5"
+            }
+          }
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -15.592968,
+            "posY": 2.85370731,
+            "posZ": -7.71850634,
+            "rotX": 1.48427025E-05,
+            "rotY": 0.024450399,
+            "rotZ": 3.56062128E-06,
+            "scaleX": 2.86308479,
+            "scaleY": 1.0,
+            "scaleZ": 2.86308479
+          },
+          "Nickname": "[12FF00]Hero Quest[-] Instruction Book",
+          "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": true,
+          "CardID": 28500,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "285": {
+              "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+              "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7e34e8",
+          "States": {
+            "6": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 3.15255928,
+                "posY": 1.03293109,
+                "posZ": 33.626667,
+                "rotX": 3.18531335E-07,
+                "rotY": 89.9986954,
+                "rotZ": 6.83005155E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 5",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 205,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f0da0d"
+            },
+            "7": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 13.9767714,
+                "posY": 1.03293109,
+                "posZ": 33.1053238,
+                "rotX": -2.4067397E-08,
+                "rotY": 89.99892,
+                "rotZ": 3.55840371E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 6",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 206,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "5a537d"
+            },
+            "8": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 25.0355244,
+                "posY": 1.03293121,
+                "posZ": 33.2696381,
+                "rotX": -1.48475321E-08,
+                "rotY": 89.9989,
+                "rotZ": -8.082981E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 7",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 207,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "c8b03a"
+            },
+            "9": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 35.9305954,
+                "posY": 1.03293121,
+                "posZ": 33.1427231,
+                "rotX": -6.81335663E-08,
+                "rotY": 89.9939957,
+                "rotZ": -6.79217E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 8",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 208,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f22c27"
+            },
+            "10": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 47.7939377,
+                "posY": 1.03293121,
+                "posZ": 33.07112,
+                "rotX": -3.62048951E-07,
+                "rotY": 89.994,
+                "rotZ": -2.361285E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 9",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 209,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "313ca6"
+            },
+            "5": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.23935733E-08,
+                "rotY": 180.0203,
+                "rotZ": 6.419981E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 4",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 204,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1d58c2"
+            },
+            "4": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.27164668E-09,
+                "rotY": 180.020325,
+                "rotZ": 5.996311E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 3",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 203,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "a53d5b"
+            },
+            "3": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": -1.52561808E-09,
+                "rotY": 180.02034,
+                "rotZ": -5.63429751E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 2",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 202,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "608b58"
+            },
+            "2": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 22.88712,
+                "posY": 1.03171349,
+                "posZ": -9.275998,
+                "rotX": -1.73405908E-07,
+                "rotY": 0.128123939,
+                "rotZ": -5.930143E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 1",
+              "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 28601,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "286": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "9e2742"
+            }
+          }
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -10.3153772,
+            "posY": 2.85370326,
+            "posZ": 12.000782,
+            "rotX": 1.490209E-05,
+            "rotY": 0.012624491,
+            "rotZ": 1.64693927E-06,
+            "scaleX": 2.86308479,
+            "scaleY": 1.0,
+            "scaleZ": 2.86308479
+          },
+          "Nickname": "[12FF00]Hero Quest[-] Instruction Book",
+          "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": true,
+          "CardID": 28500,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "285": {
+              "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+              "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e1da07",
+          "States": {
+            "7": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 13.9767714,
+                "posY": 1.03293109,
+                "posZ": 33.1053238,
+                "rotX": -2.4067397E-08,
+                "rotY": 89.99892,
+                "rotZ": 3.55840371E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 6",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 206,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "5a537d"
+            },
+            "8": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 25.0355244,
+                "posY": 1.03293121,
+                "posZ": 33.2696381,
+                "rotX": -1.48475321E-08,
+                "rotY": 89.9989,
+                "rotZ": -8.082981E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 7",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 207,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "c8b03a"
+            },
+            "9": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 35.9305954,
+                "posY": 1.03293121,
+                "posZ": 33.1427231,
+                "rotX": -6.81335663E-08,
+                "rotY": 89.9939957,
+                "rotZ": -6.79217E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 8",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 208,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f22c27"
+            },
+            "10": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 47.7939377,
+                "posY": 1.03293121,
+                "posZ": 33.07112,
+                "rotX": -3.62048951E-07,
+                "rotY": 89.994,
+                "rotZ": -2.361285E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 9",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 209,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "313ca6"
+            },
+            "5": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.23935733E-08,
+                "rotY": 180.0203,
+                "rotZ": 6.419981E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 4",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 204,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1d58c2"
+            },
+            "4": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.27164668E-09,
+                "rotY": 180.020325,
+                "rotZ": 5.996311E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 3",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 203,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "a53d5b"
+            },
+            "2": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -7.00042534,
+                "posY": 2.63028765,
+                "posZ": -0.246430516,
+                "rotX": 1.42137724E-05,
+                "rotY": 0.0126256719,
+                "rotZ": 2.814216E-06,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 1",
+              "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": true,
+              "CardID": 28601,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "286": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "9e2742"
+            },
+            "3": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -7.000425,
+                "posY": 2.630288,
+                "posZ": -0.246430531,
+                "rotX": 1.34549446E-05,
+                "rotY": 0.0126237143,
+                "rotZ": 2.61728758E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 2",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": true,
+              "CardID": 202,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "608b58"
+            },
+            "6": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -7.00042439,
+                "posY": 2.630288,
+                "posZ": -0.246430367,
+                "rotX": 1.35396376E-05,
+                "rotY": 0.0126235792,
+                "rotZ": 8.62356046E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 5",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "Hands": true,
+              "CardID": 205,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f0da0d"
+            }
+          }
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 0.828437567,
+            "posY": 4.02910948,
+            "posZ": -2.71212053,
+            "rotX": 5.99298668,
+            "rotY": 359.6266,
+            "rotZ": 352.5709,
+            "scaleX": 2.86308479,
+            "scaleY": 1.0,
+            "scaleZ": 2.86308479
+          },
+          "Nickname": "[12FF00]Hero Quest[-] Instruction Book",
+          "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": true,
+          "CardID": 28500,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "285": {
+              "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+              "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "31876b",
+          "States": {
+            "6": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 3.15255928,
+                "posY": 1.03293109,
+                "posZ": 33.626667,
+                "rotX": 3.18531335E-07,
+                "rotY": 89.9986954,
+                "rotZ": 6.83005155E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 5",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 205,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f0da0d"
+            },
+            "7": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 13.9767714,
+                "posY": 1.03293109,
+                "posZ": 33.1053238,
+                "rotX": -2.4067397E-08,
+                "rotY": 89.99892,
+                "rotZ": 3.55840371E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 6",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 206,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "5a537d"
+            },
+            "8": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 25.0355244,
+                "posY": 1.03293121,
+                "posZ": 33.2696381,
+                "rotX": -1.48475321E-08,
+                "rotY": 89.9989,
+                "rotZ": -8.082981E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 7",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 207,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "c8b03a"
+            },
+            "9": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 35.9305954,
+                "posY": 1.03293121,
+                "posZ": 33.1427231,
+                "rotX": -6.81335663E-08,
+                "rotY": 89.9939957,
+                "rotZ": -6.79217E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 8",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 208,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f22c27"
+            },
+            "10": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 47.7939377,
+                "posY": 1.03293121,
+                "posZ": 33.07112,
+                "rotX": -3.62048951E-07,
+                "rotY": 89.994,
+                "rotZ": -2.361285E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 9",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 209,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "313ca6"
+            },
+            "5": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.23935733E-08,
+                "rotY": 180.0203,
+                "rotZ": 6.419981E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 4",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 204,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1d58c2"
+            },
+            "4": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.27164668E-09,
+                "rotY": 180.020325,
+                "rotZ": 5.996311E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 3",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 203,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "a53d5b"
+            },
+            "3": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": -1.52561808E-09,
+                "rotY": 180.02034,
+                "rotZ": -5.63429751E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 2",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 202,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "608b58"
+            },
+            "2": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 22.1833382,
+                "posY": 1.03171349,
+                "posZ": -9.51591,
+                "rotX": -9.3945836E-08,
+                "rotY": 0.0275276974,
+                "rotZ": -9.12129337E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 1",
+              "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 28601,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "286": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "9e2742"
+            }
+          }
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 21.3717327,
+            "posY": 5.682501,
+            "posZ": 37.2976379,
+            "rotX": 1.41574859E-07,
+            "rotY": 270.014435,
+            "rotZ": -2.7786453E-07,
+            "scaleX": 2.86308479,
+            "scaleY": 1.0,
+            "scaleZ": 2.86308479
+          },
+          "Nickname": "[12FF00]Hero Quest[-] Instruction Book",
+          "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 31100,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "311": {
+              "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+              "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e51266",
+          "States": {
+            "6": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 3.15255928,
+                "posY": 1.03293109,
+                "posZ": 33.626667,
+                "rotX": 3.18531335E-07,
+                "rotY": 89.9986954,
+                "rotZ": 6.83005155E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 5",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 205,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f0da0d"
+            },
+            "7": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 13.9767714,
+                "posY": 1.03293109,
+                "posZ": 33.1053238,
+                "rotX": -2.4067397E-08,
+                "rotY": 89.99892,
+                "rotZ": 3.55840371E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 6",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 206,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "5a537d"
+            },
+            "8": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 25.0355244,
+                "posY": 1.03293121,
+                "posZ": 33.2696381,
+                "rotX": -1.48475321E-08,
+                "rotY": 89.9989,
+                "rotZ": -8.082981E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 7",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 207,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "c8b03a"
+            },
+            "5": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.23935733E-08,
+                "rotY": 180.0203,
+                "rotZ": 6.419981E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 4",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 204,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1d58c2"
+            },
+            "4": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.27164668E-09,
+                "rotY": 180.020325,
+                "rotZ": 5.996311E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 3",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 203,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "a53d5b"
+            },
+            "3": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": -1.52561808E-09,
+                "rotY": 180.02034,
+                "rotZ": -5.63429751E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 2",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 202,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "608b58"
+            },
+            "2": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 6.63101625,
+                "posY": 3.76768327,
+                "posZ": 19.7761917,
+                "rotX": 0.8087236,
+                "rotY": 270.0145,
+                "rotZ": 0.000324119464,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 1",
+              "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 28601,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "286": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "9e2742"
+            },
+            "9": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 22.2499161,
+                "posY": 3.754215,
+                "posZ": 27.0239239,
+                "rotX": -6.60780159E-08,
+                "rotY": 90.0,
+                "rotZ": 6.96556E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 8",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 208,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f22c27"
+            },
+            "10": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 22.2499123,
+                "posY": 3.75421524,
+                "posZ": 27.0239239,
+                "rotX": -4.0494254E-07,
+                "rotY": 0.228861019,
+                "rotZ": 5.622736E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 9",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 209,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "313ca6"
+            }
+          }
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -24.5520363,
+            "posY": 3.91665554,
+            "posZ": 0.183638841,
+            "rotX": 0.0,
+            "rotY": 30.0000019,
+            "rotZ": 0.0,
+            "scaleX": 2.86308479,
+            "scaleY": 1.0,
+            "scaleZ": 2.86308479
+          },
+          "Nickname": "[12FF00]Hero Quest[-] Instruction Book",
+          "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": true,
+          "CardID": 29200,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "292": {
+              "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+              "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f125c2",
+          "States": {
+            "6": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 3.15255928,
+                "posY": 1.03293109,
+                "posZ": 33.626667,
+                "rotX": 3.18531335E-07,
+                "rotY": 89.9986954,
+                "rotZ": 6.83005155E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 5",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 205,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f0da0d"
+            },
+            "7": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 13.9767714,
+                "posY": 1.03293109,
+                "posZ": 33.1053238,
+                "rotX": -2.4067397E-08,
+                "rotY": 89.99892,
+                "rotZ": 3.55840371E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 6",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 206,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "5a537d"
+            },
+            "8": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 25.0355244,
+                "posY": 1.03293121,
+                "posZ": 33.2696381,
+                "rotX": -1.48475321E-08,
+                "rotY": 89.9989,
+                "rotZ": -8.082981E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 7",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 207,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "c8b03a"
+            },
+            "9": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 35.9305954,
+                "posY": 1.03293121,
+                "posZ": 33.1427231,
+                "rotX": -6.81335663E-08,
+                "rotY": 89.9939957,
+                "rotZ": -6.79217E-08,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 8",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 208,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "f22c27"
+            },
+            "10": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 47.7939377,
+                "posY": 1.03293121,
+                "posZ": 33.07112,
+                "rotX": -3.62048951E-07,
+                "rotY": 89.994,
+                "rotZ": -2.361285E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 9",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 209,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "313ca6"
+            },
+            "5": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.23935733E-08,
+                "rotY": 180.0203,
+                "rotZ": 6.419981E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 4",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 204,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "1d58c2"
+            },
+            "4": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": 1.27164668E-09,
+                "rotY": 180.020325,
+                "rotZ": 5.996311E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 3",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 203,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "a53d5b"
+            },
+            "3": {
+              "Name": "Card",
+              "Transform": {
+                "posX": -50.17192,
+                "posY": 1.03693712,
+                "posZ": 31.816555,
+                "rotX": -1.52561808E-09,
+                "rotY": 180.02034,
+                "rotZ": -5.63429751E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 2",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 202,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "2": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "608b58"
+            },
+            "2": {
+              "Name": "Card",
+              "Transform": {
+                "posX": 22.88712,
+                "posY": 1.03171349,
+                "posZ": -9.275998,
+                "rotX": -1.73405908E-07,
+                "rotY": 0.128123939,
+                "rotZ": -5.930143E-07,
+                "scaleX": 3.38083172,
+                "scaleY": 1.0,
+                "scaleZ": 3.38083172
+              },
+              "Nickname": "[12FF00]Hero Quest[-] Instruction Book Page 1",
+              "Description": "Use numbers \"1\" through \"9\" to flip through the pages of the instruction book.",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CardID": 28601,
+              "SidewaysCard": true,
+              "CustomDeck": {
+                "286": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/167031304793338370/0FFE6B49D655CFD5C2FAC716EE2244DFB7C40549/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/167031304793323102/BCEA0DA040164CF6A346F2430D437F75F7851C74/",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": false
+                }
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "9e2742"
+            }
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 4.504609,
+            "posY": 5.302722,
+            "posZ": 36.28192,
+            "rotX": 359.674957,
+            "rotY": 269.990234,
+            "rotZ": 359.767059,
+            "scaleX": 3.0,
+            "scaleY": 3.0,
+            "scaleZ": 3.0
+          },
+          "Nickname": "Da Rules!",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/865113719706121164/828D783C7B153BE16A3C0BFB7FE7B9A5467F79B4/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/169290082331448263/9EE568093ECCE0B52880C92439B5FA3318DCE9BE/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1c7e82",
+          "States": {
+            "2": {
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 23.4000015,
+                "posY": 1.411236,
+                "posZ": -14.2000008,
+                "rotX": 1.63941593E-07,
+                "rotY": 180.004578,
+                "rotZ": -1.66756479E-07,
+                "scaleX": 3.0,
+                "scaleY": 3.0,
+                "scaleZ": 3.0
+              },
+              "Nickname": "Da Rules!",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.992160261,
+                "b": 0.9999998
+              },
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/865113719706121164/828D783C7B153BE16A3C0BFB7FE7B9A5467F79B4/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/169290082331448991/05E732FC62FB9AB0FFECC1ED815A229A76D57D4F/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CastShadows": true
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "9f615a"
+            },
+            "3": {
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 23.4000015,
+                "posY": 1.411236,
+                "posZ": -14.2000008,
+                "rotX": 1.63941593E-07,
+                "rotY": 180.0046,
+                "rotZ": -1.66756479E-07,
+                "scaleX": 3.0,
+                "scaleY": 3.0,
+                "scaleZ": 3.0
+              },
+              "Nickname": "Da Rules!",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.992160261,
+                "b": 0.9999998
+              },
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/865113719706121164/828D783C7B153BE16A3C0BFB7FE7B9A5467F79B4/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/169290082331449689/FD8F5C834B49A09561A40A7D29183974AF80BC77/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CastShadows": true
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "82f8e6"
+            }
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 4.36223555,
+            "posY": 5.302351,
+            "posZ": 36.5060234,
+            "rotX": 0.2638848,
+            "rotY": 359.991058,
+            "rotZ": 359.73172,
+            "scaleX": 3.0,
+            "scaleY": 3.0,
+            "scaleZ": 3.0
+          },
+          "Nickname": "Da Rules!",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/865113719706121164/828D783C7B153BE16A3C0BFB7FE7B9A5467F79B4/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/169290082331448263/9EE568093ECCE0B52880C92439B5FA3318DCE9BE/",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2d7787",
+          "States": {
+            "2": {
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 23.4000015,
+                "posY": 1.411236,
+                "posZ": -14.2000008,
+                "rotX": 1.63941593E-07,
+                "rotY": 180.004578,
+                "rotZ": -1.66756479E-07,
+                "scaleX": 3.0,
+                "scaleY": 3.0,
+                "scaleZ": 3.0
+              },
+              "Nickname": "Da Rules!",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.992160261,
+                "b": 0.9999998
+              },
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/865113719706121164/828D783C7B153BE16A3C0BFB7FE7B9A5467F79B4/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/169290082331448991/05E732FC62FB9AB0FFECC1ED815A229A76D57D4F/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CastShadows": true
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "9f615a"
+            },
+            "3": {
+              "Name": "Custom_Model",
+              "Transform": {
+                "posX": 23.4000015,
+                "posY": 1.411236,
+                "posZ": -14.2000008,
+                "rotX": 1.63941593E-07,
+                "rotY": 180.0046,
+                "rotZ": -1.66756479E-07,
+                "scaleX": 3.0,
+                "scaleY": 3.0,
+                "scaleZ": 3.0
+              },
+              "Nickname": "Da Rules!",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.9999998,
+                "g": 0.992160261,
+                "b": 0.9999998
+              },
+              "Locked": true,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "CustomMesh": {
+                "MeshURL": "http://cloud-3.steamusercontent.com/ugc/865113719706121164/828D783C7B153BE16A3C0BFB7FE7B9A5467F79B4/",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/169290082331449689/FD8F5C834B49A09561A40A7D29183974AF80BC77/",
+                "NormalURL": "",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 3,
+                "TypeIndex": 0,
+                "CastShadows": true
+              },
+              "XmlUI": "",
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "GUID": "82f8e6"
+            }
+          }
+        }
+      ],
+      "GUID": "2d991e"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

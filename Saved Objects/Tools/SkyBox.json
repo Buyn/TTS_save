@@ -1,0 +1,362 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 17.1583557,
+        "posY": 0.962879837,
+        "posZ": -5.29830647,
+        "rotX": 359.714142,
+        "rotY": 239.99231,
+        "rotZ": 359.925751,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "F:\\My Documents\\TTS_ponorams360\\ice_Planet_spaceship_port_05h.jpg",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "efd10f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.59228992,
+        "posY": 0.1052683,
+        "posZ": -0.689965248,
+        "rotX": 359.8144,
+        "rotY": 209.989288,
+        "rotZ": 0.0221998114,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "efd10f",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785255018856207780/2924C40C6065EBA38F71DBBB53D6FDBEDF4D468C/",
+        "DiffuseURL": "F:\\My Documents\\TTS_ponorams360\\ice_Planet_spaceship_port_05h.jpg",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785255018856208069/7B85AB17D788A12A07A55150D15FC8E7BD7EEC7D/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 4,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "print(\"last_GUID\", last_GUID)\n-- * System function  :\n-- ** onSave : \nfunction onSave()\n  saved_data = JSON.encode(last_GUID)\n  return saved_data\n\tend\n\n-- ** function onload :\n-- *** ----------------------------------------------\nfunction onload(saved_data)\n-- *** ----------------------------------------------\n-- *** Loads_data : \n    --Loads the tracking for if the game has started yet\n    if Loads_data ~= \"\" then\n        last_GUID = JSON.decode(saved_data)\n    else\n        last_GUID = 1\n    end\n\tlast_GUID = self.getDescription()\n\t-- test_fun(\"Hello test\")\n-- *** return : \n\n-- (setq company-require-match nil) \n-- (company-fuzzy-mode 1)\n-- (setq company-fuzzy-show-annotation t)\n\t-- return buttonsResult, inputsResult, inputIndex  \n\treturn 1 , 2\nend\n-- *** ----------------------------------------------\n-- ** function onCollisionEnter :\n-- *** ----------------------------------------------\nfunction onCollisionEnter(collision_info)\n-- *** comment\n  -- collision_info table:\n  --   collision_object    Object\n  --   contact_points      Table     {Vector, ...}\n  --   relative_velocity   Vector\n-- *** locals vars : \n\tlocal obj = collision_info.collision_object\n  -- if obj == nil then print(\"if 1\") end\n  -- -- if obj == self then print(\"if 2\") end\n  -- if obj.getGUID() == nil then print(\"if 3\") end\n  -- if obj.tag == \"Surface\" then print(\"if 4\") end\n  -- if objectLoaded then print(\"if 2\") end\n-- *** if nil cancel: \n  if obj == nil\n\t\t-- or obj == self\n\t\tor obj.getGUID() == nil\n\t\tor obj.getGUID() == last_GUID  \n\t\tor obj.tag == \"Surface\"\n\t\tor objectLoaded\n\t\t\tthen return end\n-- *** set_skybox : \n-- set_skybox_to_obj(obj.getGUID())\n\tset_skybox_to_obj(obj)\n-- (setq company-require-match nil) \n-- (company-fuzzy-mode 1)\n-- (setq company-fuzzy-show-annotation t)\n\t-- return buttonsResult, inputsResult, inputIndex  \n-- *** end : \nend\n-- *** ----------------------------------------------\n-- * test_fun(test) : \nfunction set_skybox_to_obj(taget_obj)\n\ty = taget_obj.getCustomObject()\n\ttest = y.image\n\tprint(last_GUID)\n\tlast_GUID = taget_obj.getGUID()\n\tprint(last_GUID)\n\tprint(taget_obj.getGUID())\n\tprint(test)\n\tif test == nil then return end\n\tparams = {\n\t\t\tdiffuse\t\t= test \n\t\t\t}\n\tself.setCustomObject(params)\n\tself.setDescription(last_GUID)\n\t-- self.locked = true\n\tself.reload()\n\tend",
+      "LuaScriptState": "\"efd10f\"",
+      "GUID": "cab5ba"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -2.79343033,
+        "posY": 0.005768299,
+        "posZ": -1.38798046,
+        "rotX": 0.134703234,
+        "rotY": 239.987991,
+        "rotZ": 359.8675,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "F:\\My Documents\\TTS_ponorams360\\CyberStreet_redcar_03.jpg",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "880a78"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -0.5324478,
+        "posY": 0.001980722,
+        "posZ": -7.27893257,
+        "rotX": 359.752838,
+        "rotY": 240.018127,
+        "rotZ": 359.948456,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "file:///D:/Tools.mod/TTS/Texturs/panorams/Batcave.png",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "96dfe2"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -4.111436,
+        "posY": 0.0054937005,
+        "posZ": 2.57165718,
+        "rotX": 0.27485925,
+        "rotY": 240.017,
+        "rotZ": 0.271839559,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "cbc027"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -2.61678028,
+        "posY": 0.00197058916,
+        "posZ": 3.547446,
+        "rotX": 359.9938,
+        "rotY": 60.00356,
+        "rotZ": 359.826324,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://images.alphacoders.com/123/123861.jpg",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "a50434"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -4.61381245,
+        "posY": 0.00538623333,
+        "posZ": -2.21015787,
+        "rotX": 359.944763,
+        "rotY": 240.0071,
+        "rotZ": 359.954742,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "D:\\Tools.mod\\TTS\\Texturs\\panorams\\Batcave01.jpg",
+        "ImageSecondaryURL": "https://images4.alphacoders.com/884/884373.png",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 1,
+          "Thickness": 0.2,
+          "Stackable": true,
+          "Stretch": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "a6e7c5"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

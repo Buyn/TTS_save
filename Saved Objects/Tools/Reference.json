@@ -1,0 +1,50 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Tablet",
+      "Transform": {
+        "posX": 46.9121857,
+        "posY": 7.71543169,
+        "posZ": 37.18529,
+        "rotX": 54.2719154,
+        "rotY": 181.453415,
+        "rotZ": -0.00134357193,
+        "scaleX": 2.0,
+        "scaleY": 2.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "Reference",
+      "Description": "Click top right in browser to make larger",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": false,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "Tablet": {
+        "PageURL": "https://www.google.com/"
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4ab67d"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

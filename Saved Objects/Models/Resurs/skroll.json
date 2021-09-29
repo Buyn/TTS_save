@@ -1,0 +1,57 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 40.83456,
+        "posY": 5.234514,
+        "posZ": 21.4022522,
+        "rotX": 353.9356,
+        "rotY": 29.7970047,
+        "rotZ": 193.000961,
+        "scaleX": 4.599999,
+        "scaleY": 4.599999,
+        "scaleZ": 4.599999
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Tiny Epic Defenders>TinyEpicDefenders_rolledscroll.obj",
+        "DiffuseURL": "<Tiny Epic Defenders>TinyEpicDefenders_OldPaper.png",
+        "NormalURL": "",
+        "ColliderURL": "<Tiny Epic Defenders>TinyEpicDefenders_rolledscroll.obj",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "25c5b0"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

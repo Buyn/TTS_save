@@ -1,0 +1,54 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -30.3032837,
+        "posY": 0.750622,
+        "posZ": -12.7486534,
+        "rotX": -9.96966446E-06,
+        "rotY": 179.987549,
+        "rotZ": -1.28928468E-06,
+        "scaleX": 1.0,
+        "scaleY": 0.499428153,
+        "scaleZ": 1.02095878
+      },
+      "Nickname": "Page 4-5",
+      "Description": "-Click on the [i]Left[/i] edge to go back.\n-Click on the [i]Right[/i] edge to go forward.\n-Click on the [i]Spine[/i] to close the book.",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<The Great Dinosaur Rush>dr_rulebook.unity3d",
+        "AssetbundleSecondaryURL": "<The Great Dinosaur Rush>dr_rulebookmats.unity3d",
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 2
+      },
+      "LuaScript": "function onLoad()\r\n    infoRefresh()\r\n    buttonRefresh()\r\nend\r\n\r\nfunction onObjectLoopingEffect(obj)\r\n    if obj == self then\r\n        infoRefresh()\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction infoRefresh()\r\n    loopID = self.AssetBundle.getLoopingEffectIndex()\r\n    loopCount = #self.AssetBundle.getLoopingEffects()\r\n    indexPage = 1\r\n    self.setName(ref_pageInfo[loopID+1].name)\r\n    self.setDescription(ref_pageInfo[loopID+1].desc)\r\nend\r\n\r\n--Click functions\r\n\r\nfunction click_next()\r\n    infoRefresh()\r\n    if loopID+1 < loopCount then\r\n        self.AssetBundle.playLoopingEffect(loopID + 1)\r\n        buttonRefresh()\r\n    else\r\n        self.AssetBundle.playLoopingEffect(0)\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction click_prev()\r\n    infoRefresh()\r\n    if loopID > 0 then\r\n        self.AssetBundle.playLoopingEffect(loopID - 1)\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction click_close()\r\n    infoRefresh()\r\n    self.AssetBundle.playLoopingEffect(0)\r\n    buttonRefresh()\r\nend\r\n\r\n--Button creation\r\n\r\nfunction buttonRefresh()\r\n    self.clearButtons()\r\n    infoRefresh()\r\n    if loopID == 0 then\r\n        createOpenButton()\r\n    else\r\n        createNextButton()\r\n        createPrevButton()\r\n        createCloseButton()\r\n    end\r\nend\r\n\r\n\r\nfunction createOpenButton()\r\n    self.createButton({\r\n        click_function=\"click_next\", function_owner=self,\r\n        position={5,1.1,4.63}, height=400, width=660, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createNextButton()\r\n    self.createButton({\r\n        click_function=\"click_next\", function_owner=self,\r\n        position={10.5,0.3,0}, height=5000, width=700, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createPrevButton()\r\n    self.createButton({\r\n        click_function=\"click_prev\", function_owner=self,\r\n        position={-10,0.3,0}, height=5000, width=700, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createCloseButton()\r\n    self.createButton({\r\n        click_function=\"click_close\", function_owner=self,\r\n        position={0.5,0.3,0}, height=5000, width=700, color={1,1,1,0}\r\n    })\r\nend\r\n\r\n\r\n\r\nref_pageInfo = {\r\n    {\r\n        name = \"Rulebook\",\r\n        desc = \"Flip over to see Variant Rules.\\n2-3: Components\\n4-5: Setup and Overview\\n6-7: Field Phase\\n8-9: Build Phase\\n10-11: Exhibit Phase, End of Round and Game.\",\r\n    },\r\n    {\r\n        name = \"Page 2-3\",\r\n        desc = \"-Click on the [i]Left[/i] edge to go back.\\n-Click on the [i]Right[/i] edge to go forward.\\n-Click on the [i]Spine[/i] to close the book.\"\r\n    },\r\n    {\r\n        name = \"Page 4-5\",\r\n        desc = \"-Click on the [i]Left[/i] edge to go back.\\n-Click on the [i]Right[/i] edge to go forward.\\n-Click on the [i]Spine[/i] to close the book.\"\r\n    },\r\n    {\r\n        name = \"Page 6-7\",\r\n        desc = \"-Click on the [i]Left[/i] edge to go back.\\n-Click on the [i]Right[/i] edge to go forward.\\n-Click on the [i]Spine[/i] to close the book.\"\r\n    },\r\n    {\r\n        name = \"Page 8-9\",\r\n        desc = \"-Click on the [i]Left[/i] edge to go back.\\n-Click on the [i]Right[/i] edge to go forward.\\n-Click on the [i]Spine[/i] to close the book.\"\r\n    },\r\n    {\r\n        name = \"Page 10-11\",\r\n        desc = \"-Click on the [i]Left[/i] edge to go back.\\n-Click on the [i]Right[/i] edge to go forward.\\n-Click on the [i]Spine[/i] to close the book.\"\r\n    },\r\n}",
+      "LuaScriptState": "",
+      "GUID": "756670"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

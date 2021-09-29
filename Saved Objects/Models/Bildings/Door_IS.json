@@ -1,0 +1,112 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.75999844,
+        "posY": 1.916728,
+        "posZ": 7.040002,
+        "rotX": 0.000167507009,
+        "rotY": 359.97113,
+        "rotZ": 1.709372E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 0.6
+      },
+      "Nickname": "Door",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992170155,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/973235725993266709/4451725E77ADE298538C028918371166C8FBEAAD/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/973235725993311872/CC7EE73E627D23F74EFE7BF63CBEA5A7E80BD075/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/973235725993266709/4451725E77ADE298538C028918371166C8FBEAAD/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5c6812",
+      "States": {
+        "2": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -1.760001,
+            "posY": 1.91510451,
+            "posZ": 7.04,
+            "rotX": 0.003919324,
+            "rotY": 359.9711,
+            "rotZ": -0.002868633,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 0.6
+          },
+          "Nickname": "Door",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992170155,
+            "b": 0.9999998
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1021696350890596760/472067E484F2E66385F3C8A895F65D838B3B74CD/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/973235725993311872/CC7EE73E627D23F74EFE7BF63CBEA5A7E80BD075/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1021696350890691336/2FB78CBED1CA16A2CCEE6A1208FB7EB1C7CFADCC/",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CastShadows": true
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "fba655"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

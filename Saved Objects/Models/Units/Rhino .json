@@ -1,0 +1,110 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 48.8010254,
+        "posY": 2.9880836,
+        "posZ": 48.30881,
+        "rotX": -0.005587478,
+        "rotY": 0.255698472,
+        "rotZ": 1.44993627,
+        "scaleX": 0.44996053,
+        "scaleY": 0.44996053,
+        "scaleZ": 0.44996053
+      },
+      "Nickname": "[0077FF]Wolf",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://friendpaste.com/57cEn1tba9fJBTeJWT4BCC/raw?rev=326635656562",
+        "DiffuseURL": "http://puu.sh/uWkX4/98ae873adc.png",
+        "NormalURL": "",
+        "ColliderURL": "https://friendpaste.com/57cEn1tba9fJBTeJWT4BCC/raw?rev=326635656562",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "582533"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.5075722,
+        "posY": -0.009909868,
+        "posZ": -1.10509109,
+        "rotX": 0.724173844,
+        "rotY": 330.018127,
+        "rotZ": 1.25461853,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "[E6E42B]Rhino ",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://friendpaste.com/57cEn1tba9fJBTeJWTEO9h/raw?rev=653234616239",
+        "DiffuseURL": "http://puu.sh/uVuk2/b5828cbb5e.png",
+        "NormalURL": "",
+        "ColliderURL": "https://friendpaste.com/57cEn1tba9fJBTeJWTEO9h/raw?rev=653234616239",
+        "Convex": false,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "71c4de"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

@@ -1,0 +1,5502 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 6.556077,
+        "posY": 1.12704515,
+        "posZ": 11.5072212,
+        "rotX": 1.35048549E-06,
+        "rotY": 329.999969,
+        "rotZ": 6.69021574E-06,
+        "scaleX": 0.5,
+        "scaleY": 1.0,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://img3.gelbooru.com/images/e8/87/e88752ce537e38bdc12fee273180a2e9.png",
+        "ImageSecondaryURL": "https://img3.gelbooru.com/images/e8/87/e88752ce537e38bdc12fee273180a2e9.png",
+        "ImageScalar": 5.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5c9d42"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 2.48505783,
+        "posY": -0.04557872,
+        "posZ": -0.322928429,
+        "rotX": 359.3615,
+        "rotY": 179.99881,
+        "rotZ": -1.22442507E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.7,
+        "scaleZ": 0.5750004
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://img3.gelbooru.com//images/9a/d8/9ad88f4c6b069b7bda624ea1a50d6f3c.png",
+        "ImageSecondaryURL": "https://img3.gelbooru.com//images/9a/d8/9ad88f4c6b069b7bda624ea1a50d6f3c.png",
+        "ImageScalar": 4.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "8833c1"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 5.29072,
+        "posY": 0.03011632,
+        "posZ": -1.75279808,
+        "rotX": -6.732529E-07,
+        "rotY": 329.9999,
+        "rotZ": -2.07844078E-05,
+        "scaleX": 0.5901443,
+        "scaleY": 1.18028855,
+        "scaleZ": 0.684567332
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://img3.gelbooru.com//images/00/d4/00d43e0ff7c50d3661d8077b0d78ed8c.png",
+        "ImageSecondaryURL": "https://img3.gelbooru.com//images/24/22/2422d1fdcf91863069ccfc065a658b6b.png",
+        "ImageScalar": 4.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "7cd791"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 7.708063,
+        "posY": -0.0586559772,
+        "posZ": -0.560176849,
+        "rotX": 0.6710181,
+        "rotY": 180.004791,
+        "rotZ": 359.2867,
+        "scaleX": 0.5,
+        "scaleY": 0.6,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://img3.gelbooru.com/images/6a/b0/6ab02def684a91d7de2351510176e6e4.png",
+        "ImageSecondaryURL": "https://img3.gelbooru.com/images/b2/6d/b26dcfd4c105bfe017f8b3d526d4176c.png",
+        "ImageScalar": 4.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "a716d3"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.925271,
+        "posY": -0.066156745,
+        "posZ": -4.230521,
+        "rotX": 0.161698624,
+        "rotY": 179.998962,
+        "rotZ": 359.798645,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        3300,
+        6400,
+        4700,
+        6700,
+        3000,
+        3800,
+        6300,
+        10800,
+        8100,
+        3600,
+        9800,
+        7500,
+        2900,
+        700,
+        7600,
+        2700,
+        7300
+      ],
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://img3.gelbooru.com//samples/0e/56/sample_0e568e0e73c428dbc58b9fdd9f3c5134.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "64": {
+          "FaceURL": "https://img3.gelbooru.com//images/21/68/216884a1e325d518f3317cc057193cf1.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "47": {
+          "FaceURL": "https://img3.gelbooru.com//samples/a6/8d/sample_a68d029a2f8830bf2b893dc78af9beb5.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "67": {
+          "FaceURL": "https://img3.gelbooru.com//samples/f0/df/sample_f0dfd4cc5169f36818ee50391a9300e3.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "30": {
+          "FaceURL": "https://img3.gelbooru.com//samples/82/03/sample_8203cd5e1e94cd8d45fac8bf94451723.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "38": {
+          "FaceURL": "https://img3.gelbooru.com//samples/ad/bf/sample_adbf2d66897d4b7c9dbb3d63e8df9adb.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "63": {
+          "FaceURL": "https://img3.gelbooru.com//images/49/e3/49e37218fc795eac77ba05c22f2a3be0.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "108": {
+          "FaceURL": "https://img3.gelbooru.com//images/9c/f9/9cf9d70b458d927275d920d919277986.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "81": {
+          "FaceURL": "https://img3.gelbooru.com//samples/0d/a2/sample_0da2f8e4a1e41db4f13932bebf976e45.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "36": {
+          "FaceURL": "https://img3.gelbooru.com//samples/d2/e7/sample_d2e72897feabb5bed736f3207349f5e4.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "98": {
+          "FaceURL": "https://img3.gelbooru.com//images/33/45/3345fad8fce74bc0400216ab502dc450.png",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "75": {
+          "FaceURL": "https://img3.gelbooru.com//samples/ce/7d/sample_ce7d4c112dd489b6da50b63eb21dbb6a.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "29": {
+          "FaceURL": "https://img3.gelbooru.com//samples/6d/bc/sample_6dbc44b90eb5af39aabd401ce4f5bb71.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "7": {
+          "FaceURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "BackURL": "https://i.pinimg.com/originals/af/3e/c8/af3ec8a4fdf3fe830b74d81ce5560d75.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "76": {
+          "FaceURL": "https://img3.gelbooru.com//samples/08/f2/sample_08f24fed1fb36d67280f21bd11cbb364.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "27": {
+          "FaceURL": "https://img3.gelbooru.com//images/a3/ac/a3acb0143e9fb5396ce5554d92bede2c.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "73": {
+          "FaceURL": "https://img3.gelbooru.com//samples/99/34/sample_99344b91a604c48d8c7dd12fe64f6527.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 10.1526775,
+            "posY": 1.04039013,
+            "posZ": 7.07039928,
+            "rotX": 0.0135209812,
+            "rotY": 180.055359,
+            "rotZ": -0.00153874315,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "33": {
+              "FaceURL": "https://img3.gelbooru.com//samples/0e/56/sample_0e568e0e73c428dbc58b9fdd9f3c5134.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4f5da4"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.25366879,
+            "posY": 1.039729,
+            "posZ": 7.10575151,
+            "rotX": 0.126313329,
+            "rotY": 179.988174,
+            "rotZ": 0.1836128,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "64": {
+              "FaceURL": "https://img3.gelbooru.com//images/21/68/216884a1e325d518f3317cc057193cf1.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b9ee81"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.84404516,
+            "posY": 1.03580379,
+            "posZ": 7.226763,
+            "rotX": 359.849884,
+            "rotY": 180.088669,
+            "rotZ": 2.83720219E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "47": {
+              "FaceURL": "https://img3.gelbooru.com//samples/a6/8d/sample_a68d029a2f8830bf2b893dc78af9beb5.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "960740"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -4.895788,
+            "posY": 1.03171337,
+            "posZ": 7.142056,
+            "rotX": 2.677874E-06,
+            "rotY": 179.988724,
+            "rotZ": -1.65854226E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "67": {
+              "FaceURL": "https://img3.gelbooru.com//samples/f0/df/sample_f0dfd4cc5169f36818ee50391a9300e3.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "999e19"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 15.1286726,
+            "posY": 1.03171277,
+            "posZ": 7.03838873,
+            "rotX": 1.25224115E-05,
+            "rotY": 179.993408,
+            "rotZ": 6.71799644E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "30": {
+              "FaceURL": "https://img3.gelbooru.com//samples/82/03/sample_8203cd5e1e94cd8d45fac8bf94451723.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "bc14e2"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 5.261275,
+            "posY": 1.038171,
+            "posZ": 6.762775,
+            "rotX": 359.7868,
+            "rotY": 180.085388,
+            "rotZ": 0.03445595,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "38": {
+              "FaceURL": "https://img3.gelbooru.com//samples/ad/bf/sample_adbf2d66897d4b7c9dbb3d63e8df9adb.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "34dae9"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 0.135849565,
+            "posY": 1.03171337,
+            "posZ": 7.24851131,
+            "rotX": 1.23042892E-05,
+            "rotY": 180.085892,
+            "rotZ": -4.30032E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "63": {
+              "FaceURL": "https://img3.gelbooru.com//images/49/e3/49e37218fc795eac77ba05c22f2a3be0.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "fd907b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 15.2442188,
+            "posY": 1.25872922,
+            "posZ": 7.19213152,
+            "rotX": 359.7609,
+            "rotY": 180.0059,
+            "rotZ": 0.0849687457,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "108": {
+              "FaceURL": "https://img3.gelbooru.com//images/9c/f9/9cf9d70b458d927275d920d919277986.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f7b0bb"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -14.38657,
+            "posY": 1.03168416,
+            "posZ": 6.95263147,
+            "rotX": 0.000255604216,
+            "rotY": 179.9198,
+            "rotZ": 0.00322371977,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "81": {
+              "FaceURL": "https://img3.gelbooru.com//samples/0d/a2/sample_0da2f8e4a1e41db4f13932bebf976e45.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "314e26"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 7.699838,
+            "posY": 1.03603482,
+            "posZ": 7.54574347,
+            "rotX": 359.847076,
+            "rotY": 180.068,
+            "rotZ": 0.00823780149,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "36": {
+              "FaceURL": "https://img3.gelbooru.com//samples/d2/e7/sample_d2e72897feabb5bed736f3207349f5e4.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6c8792"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -16.6263275,
+            "posY": 1.03171337,
+            "posZ": 6.886648,
+            "rotX": 1.599511E-05,
+            "rotY": 179.9436,
+            "rotZ": -1.35452365E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "98": {
+              "FaceURL": "https://img3.gelbooru.com//images/33/45/3345fad8fce74bc0400216ab502dc450.png",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e80278"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -9.890709,
+            "posY": 1.0317136,
+            "posZ": 6.85199165,
+            "rotX": 1.11934287E-05,
+            "rotY": 179.994781,
+            "rotZ": 3.16413882E-08,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "75": {
+              "FaceURL": "https://img3.gelbooru.com//samples/ce/7d/sample_ce7d4c112dd489b6da50b63eb21dbb6a.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3238ed"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 12.9594393,
+            "posY": 1.109027,
+            "posZ": 7.06748438,
+            "rotX": 0.000115106384,
+            "rotY": 179.994385,
+            "rotZ": 356.7639,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "29": {
+              "FaceURL": "https://img3.gelbooru.com//samples/6d/bc/sample_6dbc44b90eb5af39aabd401ce4f5bb71.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "63aa06"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 17.40585,
+            "posY": 1.03522706,
+            "posZ": 7.016178,
+            "rotX": 0.128999829,
+            "rotY": 180.000336,
+            "rotZ": -2.35113839E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "7": {
+              "FaceURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "BackURL": "https://i.pinimg.com/originals/af/3e/c8/af3ec8a4fdf3fe830b74d81ce5560d75.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "0843da"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.1152649,
+            "posY": 1.03501,
+            "posZ": 7.102108,
+            "rotX": -7.4129006E-05,
+            "rotY": 179.957779,
+            "rotZ": 359.8175,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "76": {
+              "FaceURL": "https://img3.gelbooru.com//samples/08/f2/sample_08f24fed1fb36d67280f21bd11cbb364.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7f7670"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 19.5540733,
+            "posY": 1.03171325,
+            "posZ": 6.965155,
+            "rotX": 1.04059845E-05,
+            "rotY": 180.024033,
+            "rotZ": 8.69757457E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "27": {
+              "FaceURL": "https://img3.gelbooru.com//images/a3/ac/a3acb0143e9fb5396ce5554d92bede2c.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2bc56a"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -7.28503466,
+            "posY": 1.03558409,
+            "posZ": 6.97036552,
+            "rotX": 0.119611531,
+            "rotY": 179.919022,
+            "rotZ": 359.969421,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "73": {
+              "FaceURL": "https://img3.gelbooru.com//samples/99/34/sample_99344b91a604c48d8c7dd12fe64f6527.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "760a1a"
+        }
+      ],
+      "GUID": "e4156c"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.942849,
+        "posY": -0.06583011,
+        "posZ": -7.648505,
+        "rotX": 359.8372,
+        "rotY": 179.9369,
+        "rotZ": 0.000125036866,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        8200,
+        7800,
+        6800,
+        6200,
+        6100,
+        4500,
+        3700,
+        3500,
+        1900,
+        4300,
+        2100,
+        2200,
+        3100,
+        10300,
+        9300,
+        10000,
+        9200,
+        8500
+      ],
+      "CustomDeck": {
+        "82": {
+          "FaceURL": "https://img3.gelbooru.com//images/73/62/7362d4c433195c20790add25c2b22d13.png",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "78": {
+          "FaceURL": "https://img3.gelbooru.com//samples/4b/3d/sample_4b3db9a89d01b94363db374607a340cd.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "68": {
+          "FaceURL": "https://img3.gelbooru.com//samples/6d/da/sample_6dda638ff1b1c955e62cb72fdecf698e.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "62": {
+          "FaceURL": "https://img3.gelbooru.com//samples/3c/1f/sample_3c1fdaf8a6b9bd4e247cac353d260d43.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "61": {
+          "FaceURL": "https://img3.gelbooru.com/images/21/36/213607671b91c19b68cba12efc5f97f6.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "45": {
+          "FaceURL": "https://img3.gelbooru.com//images/2c/be/2cbe347227e1108fcab2ccc62057b849.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "37": {
+          "FaceURL": "https://img3.gelbooru.com//images/00/5f/005f65714d3deccf088ea728b65a70e9.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "35": {
+          "FaceURL": "https://img3.gelbooru.com//samples/1f/30/sample_1f3063283eb34d309c5f040158411a7b.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "19": {
+          "FaceURL": "https://img3.gelbooru.com//samples/e3/68/sample_e368d680a0ca0bec37bb438915807d65.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "43": {
+          "FaceURL": "https://img3.gelbooru.com//images/f1/51/f151fed2b8b7fc9c8cd70d6e152d0799.png",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "21": {
+          "FaceURL": "https://img3.gelbooru.com//samples/23/7a/sample_237ab86e82dd9c8aac93ca36634f0e09.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "22": {
+          "FaceURL": "https://img3.gelbooru.com//samples/63/2f/sample_632fb5bbf66ca229d629484f7d983823.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "31": {
+          "FaceURL": "https://img3.gelbooru.com//samples/39/f6/sample_39f6236839a75081e41863ffb1e08738.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "103": {
+          "FaceURL": "https://img3.gelbooru.com//samples/08/7e/sample_087e47b4677893e7a0b4f89abb01c653.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "93": {
+          "FaceURL": "https://img3.gelbooru.com//images/c8/bf/c8bfc4ab34c2da04f386469603f92b34.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "100": {
+          "FaceURL": "https://img3.gelbooru.com//images/d4/80/d480bb4277970a5e931d8ea0fa352024.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "92": {
+          "FaceURL": "https://img3.gelbooru.com//samples/9c/5f/sample_9c5f13b94de13e5a988ea66c9f387d06.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "85": {
+          "FaceURL": "https://img3.gelbooru.com//images/32/61/3261bd20edff9f2a6423e70afcd653f2.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -6.80070353,
+            "posY": 1.03171337,
+            "posZ": 2.843663,
+            "rotX": 6.30267232E-06,
+            "rotY": 179.994034,
+            "rotZ": 6.88748059E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "82": {
+              "FaceURL": "https://img3.gelbooru.com//images/73/62/7362d4c433195c20790add25c2b22d13.png",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f6e4d5"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -4.2480793,
+            "posY": 1.03171325,
+            "posZ": 2.88529277,
+            "rotX": 9.772091E-06,
+            "rotY": 179.9824,
+            "rotZ": -6.00725059E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "78": {
+              "FaceURL": "https://img3.gelbooru.com//samples/4b/3d/sample_4b3db9a89d01b94363db374607a340cd.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "265343"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.980509,
+            "posY": 1.0357455,
+            "posZ": 2.99480653,
+            "rotX": 4.577966E-05,
+            "rotY": 180.0484,
+            "rotZ": 359.757874,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "68": {
+              "FaceURL": "https://img3.gelbooru.com//samples/6d/da/sample_6dda638ff1b1c955e62cb72fdecf698e.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "aed512"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 0.102627836,
+            "posY": 1.03171325,
+            "posZ": 2.97540283,
+            "rotX": 4.25989674E-06,
+            "rotY": 179.913559,
+            "rotZ": -4.04216138E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "62": {
+              "FaceURL": "https://img3.gelbooru.com//samples/3c/1f/sample_3c1fdaf8a6b9bd4e247cac353d260d43.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "98f495"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.77605557,
+            "posY": 1.03580391,
+            "posZ": 3.11396,
+            "rotX": 359.890137,
+            "rotY": 179.913467,
+            "rotZ": 0.061149437,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "61": {
+              "FaceURL": "https://img3.gelbooru.com/images/21/36/213607671b91c19b68cba12efc5f97f6.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d0d5a8"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 5.022935,
+            "posY": 1.03171325,
+            "posZ": 3.12589359,
+            "rotX": 8.064004E-06,
+            "rotY": 179.957687,
+            "rotZ": -2.40643112E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "45": {
+              "FaceURL": "https://img3.gelbooru.com//images/2c/be/2cbe347227e1108fcab2ccc62057b849.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "127c97"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 9.167191,
+            "posY": 1.03546357,
+            "posZ": 3.29444575,
+            "rotX": 2.6104658E-06,
+            "rotY": 179.981979,
+            "rotZ": 0.17506741,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "37": {
+              "FaceURL": "https://img3.gelbooru.com//images/00/5f/005f65714d3deccf088ea728b65a70e9.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "244f7d"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 11.449585,
+            "posY": 1.031716,
+            "posZ": 3.504273,
+            "rotX": -7.044233E-05,
+            "rotY": 179.902634,
+            "rotZ": 0.000328287366,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "35": {
+              "FaceURL": "https://img3.gelbooru.com//samples/1f/30/sample_1f3063283eb34d309c5f040158411a7b.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b749f0"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 13.9235878,
+            "posY": 1.03171337,
+            "posZ": 3.59508014,
+            "rotX": 7.046086E-06,
+            "rotY": 179.999466,
+            "rotZ": -9.29823329E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 1900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "19": {
+              "FaceURL": "https://img3.gelbooru.com//samples/e3/68/sample_e368d680a0ca0bec37bb438915807d65.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "99582f"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 6.7515955,
+            "posY": 1.03171313,
+            "posZ": 3.00621939,
+            "rotX": 1.43213229E-05,
+            "rotY": 179.958084,
+            "rotZ": 6.21543177E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "43": {
+              "FaceURL": "https://img3.gelbooru.com//images/f1/51/f151fed2b8b7fc9c8cd70d6e152d0799.png",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "53a758"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 16.323246,
+            "posY": 1.03171325,
+            "posZ": 3.61815143,
+            "rotX": 2.42305646E-06,
+            "rotY": 179.999939,
+            "rotZ": 1.20615448E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "21": {
+              "FaceURL": "https://img3.gelbooru.com//samples/23/7a/sample_237ab86e82dd9c8aac93ca36634f0e09.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c61385"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 18.6118374,
+            "posY": 1.03171325,
+            "posZ": 3.50837874,
+            "rotX": 4.35959146E-06,
+            "rotY": 180.000122,
+            "rotZ": -1.2119672E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "22": {
+              "FaceURL": "https://img3.gelbooru.com//samples/63/2f/sample_632fb5bbf66ca229d629484f7d983823.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1c91ea"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 20.9684582,
+            "posY": 1.03558946,
+            "posZ": 3.11719131,
+            "rotX": 0.142304838,
+            "rotY": 180.0002,
+            "rotZ": -2.06069126E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "31": {
+              "FaceURL": "https://img3.gelbooru.com//samples/39/f6/sample_39f6236839a75081e41863ffb1e08738.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "083851"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -19.1561127,
+            "posY": 1.111721,
+            "posZ": 2.4055357,
+            "rotX": -0.00142107543,
+            "rotY": 180.026443,
+            "rotZ": 356.215851,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "103": {
+              "FaceURL": "https://img3.gelbooru.com//samples/08/7e/sample_087e47b4677893e7a0b4f89abb01c653.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c67f73"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -14.4472094,
+            "posY": 1.0355854,
+            "posZ": 2.35078621,
+            "rotX": -0.003215839,
+            "rotY": 180.021774,
+            "rotZ": 359.799927,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "93": {
+              "FaceURL": "https://img3.gelbooru.com//images/c8/bf/c8bfc4ab34c2da04f386469603f92b34.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d9badb"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -17.0508423,
+            "posY": 1.031716,
+            "posZ": 2.197823,
+            "rotX": -2.85350779E-05,
+            "rotY": 180.018387,
+            "rotZ": 0.0004820025,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "100": {
+              "FaceURL": "https://img3.gelbooru.com//images/d4/80/d480bb4277970a5e931d8ea0fa352024.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "80a7c5"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -11.6293774,
+            "posY": 1.03570521,
+            "posZ": 2.50131845,
+            "rotX": 0.146556854,
+            "rotY": 179.9925,
+            "rotZ": -3.138376E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "92": {
+              "FaceURL": "https://img3.gelbooru.com//samples/9c/5f/sample_9c5f13b94de13e5a988ea66c9f387d06.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c723d7"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -9.092414,
+            "posY": 1.03578508,
+            "posZ": 2.61792946,
+            "rotX": 8.197839E-05,
+            "rotY": 179.992752,
+            "rotZ": 0.2120057,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "85": {
+              "FaceURL": "https://img3.gelbooru.com//images/32/61/3261bd20edff9f2a6423e70afcd653f2.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2d847f"
+        }
+      ],
+      "GUID": "221029"
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 9.858968,
+        "posY": -0.0640655756,
+        "posZ": -1.023531,
+        "rotX": 359.521973,
+        "rotY": 0.007554035,
+        "rotZ": 359.4553,
+        "scaleX": 0.5750004,
+        "scaleY": 0.5750004,
+        "scaleZ": 0.5750004
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://img3.gelbooru.com//images/2e/c6/2ec64820e839468d05821f5b3daabc4e.png",
+        "ImageSecondaryURL": "https://img3.gelbooru.com//images/ec/86/ec86d2b820d8ad5c87a0387c9c733c13.png",
+        "ImageScalar": 3.0,
+        "WidthScale": 0.0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "64f09b"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 9.388204,
+        "posY": -0.07892811,
+        "posZ": -11.2016668,
+        "rotX": 4.656756E-06,
+        "rotY": 180.0,
+        "rotZ": 4.70670578E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        2500,
+        10200,
+        9700,
+        8900,
+        8800,
+        8300,
+        7700,
+        7200,
+        7000,
+        6900,
+        6600,
+        4400,
+        6500,
+        4200,
+        2400,
+        10400
+      ],
+      "CustomDeck": {
+        "25": {
+          "FaceURL": "https://img3.gelbooru.com//samples/ff/1a/sample_ff1a7766766b22e5e18eeabfa3a1920e.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "102": {
+          "FaceURL": "https://img3.gelbooru.com//samples/d6/fc/sample_d6fc73e0ae2bbf5baa6b75007614e15a.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "97": {
+          "FaceURL": "https://img3.gelbooru.com//images/9c/bd/9cbd6b7137512c8ecd9770554a60087d.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "89": {
+          "FaceURL": "https://img3.gelbooru.com//samples/54/56/sample_54569df423da5c3105d4593ee1907769.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "88": {
+          "FaceURL": "https://img3.gelbooru.com//samples/45/b6/sample_45b6b21417401eb2d6fdae1ddeaa6417.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "83": {
+          "FaceURL": "https://img3.gelbooru.com//samples/d0/b1/sample_d0b126fba48bd96983a7641dbaa1b117.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "77": {
+          "FaceURL": "https://img3.gelbooru.com//samples/e4/2a/sample_e42a8607b2c2928374b95983fd17fb04.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "72": {
+          "FaceURL": "https://img3.gelbooru.com//images/15/26/152658604b5758f00f3c8ce776463fc4.png",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "70": {
+          "FaceURL": "https://img3.gelbooru.com//images/61/0f/610f5ae67041993a7556300bb4a3d41f.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "69": {
+          "FaceURL": "https://img3.gelbooru.com//samples/3e/35/sample_3e35306f6db13e5aad93d4546920b97b.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "66": {
+          "FaceURL": "https://img3.gelbooru.com//images/94/3c/943ca70e2aef0987c7a34dfa15b3a113.png",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "44": {
+          "FaceURL": "https://img3.gelbooru.com//samples/8d/1d/sample_8d1df548c2a39be7adfeced695b83a15.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "65": {
+          "FaceURL": "https://img3.gelbooru.com//samples/91/c5/sample_91c5427eac2ec74830da7348222ea1fe.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "42": {
+          "FaceURL": "https://img3.gelbooru.com/images/8d/06/8d062734f0540c5462e604486c5671b0.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "24": {
+          "FaceURL": "https://img3.gelbooru.com//samples/37/e7/sample_37e7eb70fc6d532af6b88c51c5a2733a.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "104": {
+          "FaceURL": "https://img3.gelbooru.com//samples/72/60/sample_7260a2a6e590029d587f2d105e33d9ec.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 21.3708115,
+            "posY": 1.038705,
+            "posZ": -0.62920773,
+            "rotX": 359.846924,
+            "rotY": 180.010834,
+            "rotZ": 0.149344519,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "25": {
+              "FaceURL": "https://img3.gelbooru.com//samples/ff/1a/sample_ff1a7766766b22e5e18eeabfa3a1920e.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5ac621"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -13.4410877,
+            "posY": 1.03577292,
+            "posZ": -0.901068747,
+            "rotX": 1.92329153E-05,
+            "rotY": 180.004288,
+            "rotZ": 359.787842,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "102": {
+              "FaceURL": "https://img3.gelbooru.com//samples/d6/fc/sample_d6fc73e0ae2bbf5baa6b75007614e15a.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "88aff5"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -11.0798779,
+            "posY": 1.03734994,
+            "posZ": -0.9038982,
+            "rotX": 359.851044,
+            "rotY": 180.005692,
+            "rotZ": 359.914551,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "97": {
+              "FaceURL": "https://img3.gelbooru.com//images/9c/bd/9cbd6b7137512c8ecd9770554a60087d.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "efafbd"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -8.75926,
+            "posY": 1.03171325,
+            "posZ": -0.8481721,
+            "rotX": 2.7308437E-05,
+            "rotY": 180.073608,
+            "rotZ": -6.250847E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "89": {
+              "FaceURL": "https://img3.gelbooru.com//samples/54/56/sample_54569df423da5c3105d4593ee1907769.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4f882c"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.674116,
+            "posY": 1.03171325,
+            "posZ": -0.7794916,
+            "rotX": 1.2992793E-05,
+            "rotY": 180.07872,
+            "rotZ": -1.5114573E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "88": {
+              "FaceURL": "https://img3.gelbooru.com//samples/45/b6/sample_45b6b21417401eb2d6fdae1ddeaa6417.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "981d1d"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.907275,
+            "posY": 1.03171277,
+            "posZ": -0.7445926,
+            "rotX": 1.40660286E-05,
+            "rotY": 180.0734,
+            "rotZ": -1.55155237E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "83": {
+              "FaceURL": "https://img3.gelbooru.com//samples/d0/b1/sample_d0b126fba48bd96983a7641dbaa1b117.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c5c561"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.2675823,
+            "posY": 1.03171277,
+            "posZ": -0.489935368,
+            "rotX": 2.19208123E-05,
+            "rotY": 180.073074,
+            "rotZ": -5.0853937E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "77": {
+              "FaceURL": "https://img3.gelbooru.com//samples/e4/2a/sample_e42a8607b2c2928374b95983fd17fb04.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "289cc3"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.30385041,
+            "posY": 1.03561175,
+            "posZ": -0.698393345,
+            "rotX": -4.672635E-05,
+            "rotY": 180.0265,
+            "rotZ": 0.206586033,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "72": {
+              "FaceURL": "https://img3.gelbooru.com//images/15/26/152658604b5758f00f3c8ce776463fc4.png",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "26fa88"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 4.3670125,
+            "posY": 1.03171325,
+            "posZ": -0.5984263,
+            "rotX": 1.64205085E-05,
+            "rotY": 179.940521,
+            "rotZ": -2.16475223E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "70": {
+              "FaceURL": "https://img3.gelbooru.com//images/61/0f/610f5ae67041993a7556300bb4a3d41f.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f475cc"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 6.19110727,
+            "posY": 1.03171265,
+            "posZ": -0.5173244,
+            "rotX": 7.697773E-06,
+            "rotY": 179.792114,
+            "rotZ": -1.89327761E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "69": {
+              "FaceURL": "https://img3.gelbooru.com//samples/3e/35/sample_3e35306f6db13e5aad93d4546920b97b.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "0710c7"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 8.588808,
+            "posY": 1.03171289,
+            "posZ": -0.55845803,
+            "rotX": 6.36783761E-06,
+            "rotY": 180.002,
+            "rotZ": -1.80907614E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "66": {
+              "FaceURL": "https://img3.gelbooru.com//images/94/3c/943ca70e2aef0987c7a34dfa15b3a113.png",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "0595dc"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 13.6460772,
+            "posY": 1.03171325,
+            "posZ": -0.611141443,
+            "rotX": 2.59353033E-06,
+            "rotY": 180.016937,
+            "rotZ": -8.66922448E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "44": {
+              "FaceURL": "https://img3.gelbooru.com//samples/8d/1d/sample_8d1df548c2a39be7adfeced695b83a15.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3fdf72"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 10.92611,
+            "posY": 1.035435,
+            "posZ": -0.4648753,
+            "rotX": 359.863281,
+            "rotY": 179.959961,
+            "rotZ": 0.000166830083,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "65": {
+              "FaceURL": "https://img3.gelbooru.com//samples/91/c5/sample_91c5427eac2ec74830da7348222ea1fe.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "cf0d21"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 16.2636852,
+            "posY": 1.03171325,
+            "posZ": -0.5266066,
+            "rotX": 7.640267E-06,
+            "rotY": 179.966019,
+            "rotZ": 4.606255E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "42": {
+              "FaceURL": "https://img3.gelbooru.com/images/8d/06/8d062734f0540c5462e604486c5671b0.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2a7a7f"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 19.1275158,
+            "posY": 1.03171277,
+            "posZ": -0.341952622,
+            "rotX": 3.92224138E-06,
+            "rotY": 180.004425,
+            "rotZ": -1.616183E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "24": {
+              "FaceURL": "https://img3.gelbooru.com//samples/37/e7/sample_37e7eb70fc6d532af6b88c51c5a2733a.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "30f536"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 20.4636326,
+            "posY": 1.23880982,
+            "posZ": -0.357319534,
+            "rotX": 359.917816,
+            "rotY": 90.0144348,
+            "rotZ": 0.000121616162,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "104": {
+              "FaceURL": "https://img3.gelbooru.com//samples/72/60/sample_7260a2a6e590029d587f2d105e33d9ec.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9999d4"
+        }
+      ],
+      "GUID": "ba8ed9"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 9.148455,
+        "posY": -0.09298158,
+        "posZ": -15.3824406,
+        "rotX": 359.722717,
+        "rotY": 180.025711,
+        "rotZ": 0.404197723,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        9400,
+        9500,
+        9600,
+        10500,
+        10700,
+        11600,
+        12100,
+        9000,
+        2300,
+        8400,
+        11100
+      ],
+      "CustomDeck": {
+        "94": {
+          "FaceURL": "https://img3.gelbooru.com//images/74/03/7403206fb0e27d50d45945cc1880ab3a.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "95": {
+          "FaceURL": "https://img3.gelbooru.com//images/26/53/2653c79aa9b605e089a6261fc14a3432.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "96": {
+          "FaceURL": "https://img3.gelbooru.com//images/fd/24/fd24b616bd6b00aa7a87c380a4413d5f.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "105": {
+          "FaceURL": "https://img3.gelbooru.com//samples/a1/e5/sample_a1e59148a4484f986e973d9af151e291.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "107": {
+          "FaceURL": "https://img3.gelbooru.com//samples/bb/11/sample_bb11f29da874ba31d37d8a561c41d1e4.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "116": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389587155621412277.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "121": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389671615562141321618.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "90": {
+          "FaceURL": "https://img3.gelbooru.com//samples/09/c6/sample_09c68f0e4af20247b4fc81ae5526c29e.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "23": {
+          "FaceURL": "https://ru-hentai.site/wp-content/uploads/2020/04/%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D1%83%D0%B1%D0%B0-%D1%85%D0%B5%D0%BD%D1%82%D0%B0%D0%B9-1.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "84": {
+          "FaceURL": "https://img3.gelbooru.com//images/47/c3/47c3e8cf7953fa1fc7f9c4b19b006159.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "111": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389598155621412388.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 8.299463,
+            "posY": 1.03612757,
+            "posZ": -4.238407,
+            "rotX": 3.39797625E-05,
+            "rotY": 180.063751,
+            "rotZ": 359.766357,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "94": {
+              "FaceURL": "https://img3.gelbooru.com//images/74/03/7403206fb0e27d50d45945cc1880ab3a.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "bfa75b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 5.68171644,
+            "posY": 1.03799832,
+            "posZ": -4.218752,
+            "rotX": 0.230299339,
+            "rotY": 180.06308,
+            "rotZ": 0.003259696,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "95": {
+              "FaceURL": "https://img3.gelbooru.com//images/26/53/2653c79aa9b605e089a6261fc14a3432.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3cfacb"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 3.23979974,
+            "posY": 1.03171313,
+            "posZ": -4.210558,
+            "rotX": 1.344239E-05,
+            "rotY": 180.064,
+            "rotZ": 7.038543E-08,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "96": {
+              "FaceURL": "https://img3.gelbooru.com//images/fd/24/fd24b616bd6b00aa7a87c380a4413d5f.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "86ce4c"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 1.00306988,
+            "posY": 1.03613114,
+            "posZ": -4.09265661,
+            "rotX": 0.15923208,
+            "rotY": 180.024277,
+            "rotZ": 0.0047683185,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "105": {
+              "FaceURL": "https://img3.gelbooru.com//samples/a1/e5/sample_a1e59148a4484f986e973d9af151e291.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7e2d94"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.29219377,
+            "posY": 1.03169549,
+            "posZ": -4.044749,
+            "rotX": 0.000182622491,
+            "rotY": 179.83519,
+            "rotZ": -0.000270624732,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "107": {
+              "FaceURL": "https://img3.gelbooru.com//samples/bb/11/sample_bb11f29da874ba31d37d8a561c41d1e4.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "343791"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -3.7189815,
+            "posY": 1.03171265,
+            "posZ": -4.030528,
+            "rotX": 9.507273E-06,
+            "rotY": 180.028519,
+            "rotZ": -9.383768E-08,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "116": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389587155621412277.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "32a70b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -6.07897854,
+            "posY": 1.04010713,
+            "posZ": -4.14569235,
+            "rotX": 0.02086218,
+            "rotY": 180.037552,
+            "rotZ": 359.98703,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 12100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "121": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389671615562141321618.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4277b2"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 11.3421354,
+            "posY": 1.03590417,
+            "posZ": -4.297359,
+            "rotX": 359.846039,
+            "rotY": 180.065689,
+            "rotZ": 0.000148982741,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "90": {
+              "FaceURL": "https://img3.gelbooru.com//samples/09/c6/sample_09c68f0e4af20247b4fc81ae5526c29e.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2f7743"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 11.8973637,
+            "posY": 1.03247893,
+            "posZ": -4.22216225,
+            "rotX": 0.0118598379,
+            "rotY": 179.999527,
+            "rotZ": 359.976257,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "23": {
+              "FaceURL": "https://ru-hentai.site/wp-content/uploads/2020/04/%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D1%83%D0%B1%D0%B0-%D1%85%D0%B5%D0%BD%D1%82%D0%B0%D0%B9-1.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5f8963"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 12.1297274,
+            "posY": 1.18201947,
+            "posZ": -4.37673855,
+            "rotX": 0.00404171646,
+            "rotY": 179.998489,
+            "rotZ": 0.008156602,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "84": {
+              "FaceURL": "https://img3.gelbooru.com//images/47/c3/47c3e8cf7953fa1fc7f9c4b19b006159.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a3080c"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 7.85389376,
+            "posY": 1.15059137,
+            "posZ": -4.337947,
+            "rotX": 358.852875,
+            "rotY": 179.982925,
+            "rotZ": 1.81712425,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "111": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389598155621412388.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "175bb4"
+        }
+      ],
+      "GUID": "83022d"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 9.116909,
+        "posY": -0.0660032,
+        "posZ": -18.8820934,
+        "rotX": 0.00661861943,
+        "rotY": 180.052078,
+        "rotZ": 0.230938971,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        11700,
+        12000,
+        11900,
+        7900,
+        8000,
+        10100,
+        7400,
+        5900,
+        6000,
+        2600,
+        5700,
+        5800,
+        5600,
+        5500,
+        5400,
+        11300,
+        11400,
+        11200
+      ],
+      "CustomDeck": {
+        "117": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389712015562141362024.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "120": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389681715562141331719.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "119": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389691815562141341820.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "79": {
+          "FaceURL": "https://img3.gelbooru.com//images/15/0c/150c9d3c6202b5f8471ea262b16a9062.png",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "80": {
+          "FaceURL": "https://img3.gelbooru.com//images/ab/3d/ab3d78660be39aa71bf66ef42907f184.png",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "101": {
+          "FaceURL": "https://img3.gelbooru.com//samples/9a/95/sample_9a953d18a71e206dbd68eb3f1c9f861d.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "74": {
+          "FaceURL": "https://img3.gelbooru.com//images/d4/e8/d4e8146028b61543bfd84c571ecf39d3.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "59": {
+          "FaceURL": "https://img3.gelbooru.com/images/32/82/3282efd56b711666051423b9b7e7673c.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "60": {
+          "FaceURL": "https://img3.gelbooru.com/images/76/8b/768b0f46cce6a9f6b72bbd411fb482ef.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "26": {
+          "FaceURL": "https://cdnio.luscious.net/Secchi/312830/megumin-kono-subarashii-sekai-ni-shukufuku-wo-lolico_01CEC65FPF0ZR95XJKDNRNETVX.1024x0.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "57": {
+          "FaceURL": "https://img3.gelbooru.com/images/08/3c/083cb5452ce07ad79ca6fa0966aa40cf.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "58": {
+          "FaceURL": "https://img3.gelbooru.com/images/bb/84/bb84dd1b443f8c8daa570d0262976c37.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "56": {
+          "FaceURL": "https://img3.gelbooru.com/images/57/1f/571ff96f87ae9950cefd5347e21a743e.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "55": {
+          "FaceURL": "https://img3.gelbooru.com/images/bb/84/bb84dd1b443f8c8daa570d0262976c37.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "54": {
+          "FaceURL": "https://img3.gelbooru.com/images/dd/a2/dda20b57c9d2af979e515ac8af1535b6.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "113": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389611015562141251010.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "114": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389609155621412499.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "112": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389621115562141261111.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 4.857573,
+            "posY": 1.03297436,
+            "posZ": -7.37475252,
+            "rotX": 0.00172099844,
+            "rotY": 179.9744,
+            "rotZ": 0.0750745,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "117": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389712015562141362024.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ebf0c7"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 4.425195,
+            "posY": 1.18228257,
+            "posZ": -7.168262,
+            "rotX": 0.09775141,
+            "rotY": 180.010361,
+            "rotZ": 0.1534207,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 12000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "120": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389681715562141331719.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c2fc61"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 5.259569,
+            "posY": 1.19973981,
+            "posZ": -7.44034052,
+            "rotX": 359.97406,
+            "rotY": 179.992691,
+            "rotZ": 359.957153,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "119": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389691815562141341820.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "bded05"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.47845,
+            "posY": 1.03170967,
+            "posZ": -7.66611052,
+            "rotX": 3.295913E-05,
+            "rotY": 179.989975,
+            "rotZ": 0.000159273375,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "79": {
+              "FaceURL": "https://img3.gelbooru.com//images/15/0c/150c9d3c6202b5f8471ea262b16a9062.png",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "cd3904"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.05568,
+            "posY": 1.1981678,
+            "posZ": -7.611283,
+            "rotX": 0.0297992621,
+            "rotY": 179.990173,
+            "rotZ": -0.000174065179,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "80": {
+              "FaceURL": "https://img3.gelbooru.com//images/ab/3d/ab3d78660be39aa71bf66ef42907f184.png",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "0c05fe"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -8.040085,
+            "posY": 1.03554082,
+            "posZ": -7.55270767,
+            "rotX": 5.04702666E-06,
+            "rotY": 179.989487,
+            "rotZ": 0.286542654,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "101": {
+              "FaceURL": "https://img3.gelbooru.com//samples/9a/95/sample_9a953d18a71e206dbd68eb3f1c9f861d.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f9ef4e"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -3.27505445,
+            "posY": 1.03171241,
+            "posZ": -7.78428173,
+            "rotX": 7.46827072E-06,
+            "rotY": 179.990112,
+            "rotZ": -1.66493055E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "74": {
+              "FaceURL": "https://img3.gelbooru.com//images/d4/e8/d4e8146028b61543bfd84c571ecf39d3.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5981c0"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 1.455704,
+            "posY": 1.03293037,
+            "posZ": -7.61468,
+            "rotX": 0.0384432338,
+            "rotY": 180.011734,
+            "rotZ": 0.0121841459,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 5900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "59": {
+              "FaceURL": "https://img3.gelbooru.com/images/32/82/3282efd56b711666051423b9b7e7673c.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "61dfca"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 1.91455448,
+            "posY": 1.161998,
+            "posZ": -7.741629,
+            "rotX": 1.491271,
+            "rotY": 180.021362,
+            "rotZ": 1.77358437,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "60": {
+              "FaceURL": "https://img3.gelbooru.com/images/76/8b/768b0f46cce6a9f6b72bbd411fb482ef.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b46ee0"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 16.3504581,
+            "posY": 1.03172576,
+            "posZ": -7.75725937,
+            "rotX": -0.000246690324,
+            "rotY": 180.0395,
+            "rotZ": 0.000160597367,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "26": {
+              "FaceURL": "https://cdnio.luscious.net/Secchi/312830/megumin-kono-subarashii-sekai-ni-shukufuku-wo-lolico_01CEC65FPF0ZR95XJKDNRNETVX.1024x0.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3243b4"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 6.12971449,
+            "posY": 1.03169751,
+            "posZ": -7.78222656,
+            "rotX": 0.000156815455,
+            "rotY": 179.899826,
+            "rotZ": 0.000986758,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 5700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "57": {
+              "FaceURL": "https://img3.gelbooru.com/images/08/3c/083cb5452ce07ad79ca6fa0966aa40cf.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "17f7ba"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 5.86815166,
+            "posY": 1.19725239,
+            "posZ": -7.72489,
+            "rotX": -0.000369201472,
+            "rotY": 180.005356,
+            "rotZ": -0.001174438,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 5800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "58": {
+              "FaceURL": "https://img3.gelbooru.com/images/bb/84/bb84dd1b443f8c8daa570d0262976c37.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "575ced"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 6.88963556,
+            "posY": 1.22516572,
+            "posZ": -7.65716171,
+            "rotX": 0.0203702245,
+            "rotY": 180.020859,
+            "rotZ": 359.9905,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 5600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "56": {
+              "FaceURL": "https://img3.gelbooru.com/images/57/1f/571ff96f87ae9950cefd5347e21a743e.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1289d1"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 6.26263046,
+            "posY": 1.20682251,
+            "posZ": -7.495423,
+            "rotX": 359.9864,
+            "rotY": 180.022629,
+            "rotZ": 359.850281,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 5500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "55": {
+              "FaceURL": "https://img3.gelbooru.com/images/bb/84/bb84dd1b443f8c8daa570d0262976c37.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "59561e"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 6.38786173,
+            "posY": 1.20876193,
+            "posZ": -7.67302275,
+            "rotX": 359.033356,
+            "rotY": 180.062378,
+            "rotZ": 359.97998,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 5400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "54": {
+              "FaceURL": "https://img3.gelbooru.com/images/dd/a2/dda20b57c9d2af979e515ac8af1535b6.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d16acc"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -17.0729351,
+            "posY": 1.03171217,
+            "posZ": -7.57760048,
+            "rotX": 2.138834E-05,
+            "rotY": 179.973343,
+            "rotZ": 4.91335122E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "113": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389611015562141251010.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "0aa335"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -19.1402054,
+            "posY": 1.10884023,
+            "posZ": -7.384499,
+            "rotX": 5.30904545E-05,
+            "rotY": 179.980515,
+            "rotZ": 355.9379,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "114": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389609155621412499.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "588a29"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -14.7751894,
+            "posY": 1.03618968,
+            "posZ": -7.85384035,
+            "rotX": 0.121926747,
+            "rotY": 179.967667,
+            "rotZ": 359.9393,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "112": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389621115562141261111.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b3db77"
+        }
+      ],
+      "GUID": "f4b0f8"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.995526,
+        "posY": -0.105912089,
+        "posZ": -22.1786785,
+        "rotX": 359.855865,
+        "rotY": 179.9762,
+        "rotZ": 0.186321273,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        12200,
+        9100,
+        8700,
+        8600,
+        7100,
+        4600,
+        3400,
+        3200
+      ],
+      "CustomDeck": {
+        "122": {
+          "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389742315562141402327.jpeg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "91": {
+          "FaceURL": "https://img3.gelbooru.com//samples/b3/b0/sample_b3b03094106ac21bf3972b55de22707a.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "87": {
+          "FaceURL": "https://img3.gelbooru.com//samples/10/4a/sample_104a740a9e7b499945a4fef240595191.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "86": {
+          "FaceURL": "https://img3.gelbooru.com//samples/9e/f1/sample_9ef17cddc4308333eda0338fd2508552.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "71": {
+          "FaceURL": "https://img3.gelbooru.com//samples/20/fd/sample_20fd6502d36936c89aa7b3b502cffc1c.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "46": {
+          "FaceURL": "https://img3.gelbooru.com//samples/08/0f/sample_080f175a33c57eb2600fc2bbce4dae3c.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "34": {
+          "FaceURL": "https://img3.gelbooru.com//samples/94/f9/sample_94f91930b602420d23c4f7a3c025101f.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        },
+        "32": {
+          "FaceURL": "https://img3.gelbooru.com//samples/dd/e1/sample_dde12985bfc316f4111ba7c01b125ddd.jpg",
+          "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.91924357,
+            "posY": 1.04048979,
+            "posZ": -11.3380032,
+            "rotX": 359.670868,
+            "rotY": 179.982162,
+            "rotZ": 0.484703779,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 12200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "122": {
+              "FaceURL": "http://raznoe-porno.ru/uploads/posts/2019-05/15578389742315562141402327.jpeg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "271885"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.4427961,
+            "posY": 1.03961229,
+            "posZ": -11.3322649,
+            "rotX": 359.8451,
+            "rotY": 179.978424,
+            "rotZ": 0.194761947,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "91": {
+              "FaceURL": "https://img3.gelbooru.com//samples/b3/b0/sample_b3b03094106ac21bf3972b55de22707a.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4295f7"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.60440516,
+            "posY": 1.036508,
+            "posZ": -11.3914576,
+            "rotX": 3.830791E-05,
+            "rotY": 179.983643,
+            "rotZ": 359.746246,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "87": {
+              "FaceURL": "https://img3.gelbooru.com//samples/10/4a/sample_104a740a9e7b499945a4fef240595191.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3b0a51"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 5.2669425,
+            "posY": 1.0358963,
+            "posZ": -11.4356089,
+            "rotX": 0.1536774,
+            "rotY": 179.984283,
+            "rotZ": 7.153408E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "86": {
+              "FaceURL": "https://img3.gelbooru.com//samples/9e/f1/sample_9ef17cddc4308333eda0338fd2508552.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f9ce3c"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 8.726599,
+            "posY": 1.0402211,
+            "posZ": -11.0142288,
+            "rotX": 0.1616618,
+            "rotY": 179.9852,
+            "rotZ": 359.8357,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "71": {
+              "FaceURL": "https://img3.gelbooru.com//samples/20/fd/sample_20fd6502d36936c89aa7b3b502cffc1c.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "35b9fe"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 11.3104687,
+            "posY": 1.03592587,
+            "posZ": -10.975502,
+            "rotX": 0.155905172,
+            "rotY": 179.978668,
+            "rotZ": 0.002185226,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "46": {
+              "FaceURL": "https://img3.gelbooru.com//samples/08/0f/sample_080f175a33c57eb2600fc2bbce4dae3c.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e1320a"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 13.6148357,
+            "posY": 1.03587186,
+            "posZ": -11.0055895,
+            "rotX": 359.8507,
+            "rotY": 180.033264,
+            "rotZ": 0.00503823673,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "34": {
+              "FaceURL": "https://img3.gelbooru.com//samples/94/f9/sample_94f91930b602420d23c4f7a3c025101f.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "8b720b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 16.2455349,
+            "posY": 1.03171241,
+            "posZ": -11.1495991,
+            "rotX": 7.936627E-06,
+            "rotY": 180.005692,
+            "rotZ": 5.95827942E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "32": {
+              "FaceURL": "https://img3.gelbooru.com//samples/dd/e1/sample_dde12985bfc316f4111ba7c01b125ddd.jpg",
+              "BackURL": "https://hentaiz.org/uploads/posts/2020-08/1596642058_kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "69adb8"
+        }
+      ],
+      "GUID": "0e5721"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

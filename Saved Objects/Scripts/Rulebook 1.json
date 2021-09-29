@@ -1,0 +1,429 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 31.9069328,
+        "posY": 4.638231,
+        "posZ": 0.000101429017,
+        "rotX": 1.07605672E-06,
+        "rotY": 270.0109,
+        "rotZ": 3.43848853E-07,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "Rulebook 1",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "<Simurgh>SimRulesOpenF.obj",
+        "DiffuseURL": "<Simurgh>SimRules01.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "c9115e",
+      "States": {
+        "7": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 32.0000153,
+            "posY": 4.553032,
+            "posZ": 8.405963E-05,
+            "rotX": 2.29261764E-06,
+            "rotY": 270.004547,
+            "rotZ": 1.03138E-07,
+            "scaleX": 1.24999976,
+            "scaleY": 1.24999976,
+            "scaleZ": 1.24999976
+          },
+          "Nickname": "Rulebook 10-11",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921603,
+            "b": 0.9999999
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesOpen02.obj",
+            "DiffuseURL": "<Simurgh>SimRules03.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "def53c"
+        },
+        "8": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 32.0,
+            "posY": 4.638231,
+            "posZ": 8.073194E-05,
+            "rotX": 8.313292E-07,
+            "rotY": 270.0045,
+            "rotZ": -1.29119215E-07,
+            "scaleX": 1.24999976,
+            "scaleY": 1.24999976,
+            "scaleZ": 1.24999976
+          },
+          "Nickname": "Rulebook 12-13",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921603,
+            "b": 0.9999999
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesOpen01.obj",
+            "DiffuseURL": "<Simurgh>SimRules04.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5a7f7b"
+        },
+        "9": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 31.9999981,
+            "posY": 4.553032,
+            "posZ": 8.0083475E-05,
+            "rotX": -7.51239639E-08,
+            "rotY": 270.0045,
+            "rotZ": 2.48450874E-07,
+            "scaleX": 1.24999976,
+            "scaleY": 1.24999976,
+            "scaleZ": 1.24999976
+          },
+          "Nickname": "Rulebook 14-15",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921603,
+            "b": 0.9999999
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesOpen02.obj",
+            "DiffuseURL": "<Simurgh>SimRules04.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c873a1"
+        },
+        "10": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 32.0000076,
+            "posY": 4.638231,
+            "posZ": 0.000108342851,
+            "rotX": -5.920763E-07,
+            "rotY": 270.004364,
+            "rotZ": 6.67943368E-07,
+            "scaleX": 1.24999976,
+            "scaleY": 1.24999976,
+            "scaleZ": 1.24999976
+          },
+          "Nickname": "Rulebook 16",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921603,
+            "b": 0.9999999
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesOpenL.obj",
+            "DiffuseURL": "<Simurgh>SimRules01.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ec5634"
+        },
+        "5": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 31.7499771,
+            "posY": 4.63823032,
+            "posZ": -0.250005752,
+            "rotX": 3.28939336E-07,
+            "rotY": 270.010956,
+            "rotZ": 7.52433436E-07,
+            "scaleX": 1.24999976,
+            "scaleY": 1.24999976,
+            "scaleZ": 1.24999976
+          },
+          "Nickname": "Rulebook 6-7",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921603,
+            "b": 0.9999999
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesOpen02.obj",
+            "DiffuseURL": "<Simurgh>SimRules02.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "cfc47a"
+        },
+        "6": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 31.8656311,
+            "posY": 4.63823128,
+            "posZ": 0.0131066358,
+            "rotX": -8.916231E-07,
+            "rotY": 270.183777,
+            "rotZ": 8.824843E-09,
+            "scaleX": 1.24999976,
+            "scaleY": 1.24999976,
+            "scaleZ": 1.24999976
+          },
+          "Nickname": "Rulebook 8-9",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921603,
+            "b": 0.9999999
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesOpen01.obj",
+            "DiffuseURL": "<Simurgh>SimRules03.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a2eb7d"
+        },
+        "3": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 31.8243523,
+            "posY": 4.638231,
+            "posZ": 0.02625765,
+            "rotX": 1.13571286E-06,
+            "rotY": 269.999969,
+            "rotZ": -2.11141526E-07,
+            "scaleX": 1.24999976,
+            "scaleY": 1.24999976,
+            "scaleZ": 1.24999976
+          },
+          "Nickname": "Rulebook 2-3",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921603,
+            "b": 0.9999999
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesOpen02.obj",
+            "DiffuseURL": "<Simurgh>SimRules01.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "174e33"
+        },
+        "4": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 31.82435,
+            "posY": 4.638231,
+            "posZ": 0.0262565725,
+            "rotX": 8.128389E-07,
+            "rotY": 269.999969,
+            "rotZ": -3.174548E-07,
+            "scaleX": 1.24999976,
+            "scaleY": 1.24999976,
+            "scaleZ": 1.24999976
+          },
+          "Nickname": "Rulebook 4-5",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921603,
+            "b": 0.9999999
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesOpen01.obj",
+            "DiffuseURL": "<Simurgh>SimRules02.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "af7100"
+        },
+        "1": {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 31.9069366,
+            "posY": 4.985351,
+            "posZ": 0.000102193881,
+            "rotX": -1.290485E-06,
+            "rotY": 270.0109,
+            "rotZ": 2.8657584E-07,
+            "scaleX": 1.19999981,
+            "scaleY": 1.19999981,
+            "scaleZ": 1.19999981
+          },
+          "Nickname": "Simurgh Rulebook",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999998,
+            "g": 0.992160261,
+            "b": 0.9999998
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "<Simurgh>SimRulesClosed.obj",
+            "DiffuseURL": "<Simurgh>SimRules01.png",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d42c86"
+        }
+      }
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

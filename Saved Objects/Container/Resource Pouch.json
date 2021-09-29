@@ -1,0 +1,3305 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle_Bag",
+      "Transform": {
+        "posX": 0.0004109852,
+        "posY": -0.07247615,
+        "posZ": -0.00106654316,
+        "rotX": 4.86963654E-06,
+        "rotY": 90.03874,
+        "rotZ": -6.60142132E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Resource Pouch",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternityloterpouch.unity3d",
+        "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+        "MaterialIndex": 1,
+        "TypeIndex": 6,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 298.529572,
+            "rotY": 261.239441,
+            "rotZ": 158.195465,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "77f1f2",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 310.602875,
+            "rotY": 278.15567,
+            "rotZ": 329.071167,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2b6121",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 294.263184,
+            "rotY": 250.557587,
+            "rotZ": 351.121368,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "40e51b",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 315.64917,
+            "rotY": 289.243866,
+            "rotZ": 320.989868,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c842ef",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 328.0117,
+            "rotY": 313.837982,
+            "rotZ": 299.446747,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "35f1cf",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 69.46986,
+            "rotY": 41.45346,
+            "rotZ": 162.390579,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5df856",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 308.697,
+            "rotY": 270.200134,
+            "rotZ": 333.269348,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Double Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgruntsx2.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4f8385",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 302.3262,
+            "rotY": 285.3772,
+            "rotZ": 320.777466,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4422b3",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 312.326538,
+            "rotY": 279.0145,
+            "rotZ": 328.3403,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "67cb9f",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 318.835052,
+            "rotY": 292.396667,
+            "rotZ": 316.747681,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Double Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoodsx2.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "339621",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 318.043884,
+            "rotY": 292.3473,
+            "rotZ": 317.839539,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6cbb07",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 299.1347,
+            "rotY": 304.8877,
+            "rotZ": 306.4987,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f16b9c",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 306.06485,
+            "rotY": 262.383728,
+            "rotZ": 347.837555,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Double Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoodsx2.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b4a39e",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 295.47757,
+            "rotY": 298.426453,
+            "rotZ": 312.2438,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f140e3",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 54.7514458,
+            "rotY": 67.3087845,
+            "rotZ": 181.37001,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3de757",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 48.3554459,
+            "rotY": 28.6583328,
+            "rotZ": 152.010483,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5929e7",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 336.826019,
+            "rotY": 313.9638,
+            "rotZ": 322.880432,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c1aa33",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 319.403137,
+            "rotY": 256.271271,
+            "rotZ": 354.361053,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9c92a0",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 311.586029,
+            "rotY": 293.9144,
+            "rotZ": 137.75856,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9b0727",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 23.5292931,
+            "rotY": 7.44191551,
+            "rotZ": 324.9216,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f54d02",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 42.4107056,
+            "rotY": 69.22945,
+            "rotZ": 191.675232,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3e3def",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 36.0256271,
+            "rotY": 44.0222359,
+            "rotZ": 175.536377,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "687557",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 310.4687,
+            "rotY": 182.640839,
+            "rotZ": 36.0834045,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2911f8",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 344.435547,
+            "rotY": 302.799469,
+            "rotZ": 304.9431,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2386a0",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 23.4778252,
+            "rotY": 319.832581,
+            "rotZ": 113.826729,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a24195",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 322.258484,
+            "rotY": 282.55127,
+            "rotZ": 314.580841,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "28a521",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 53.57149,
+            "rotY": 23.9711857,
+            "rotZ": 343.719849,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "bb87e6",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 351.191223,
+            "rotY": 132.757629,
+            "rotZ": 74.3682556,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7c6ff5",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 353.924316,
+            "rotY": 311.5141,
+            "rotZ": 105.124588,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Double Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoodsx2.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "426f83",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 51.4161873,
+            "rotY": 330.6731,
+            "rotZ": 295.944855,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1af495",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 347.521729,
+            "rotY": 307.6814,
+            "rotZ": 104.162445,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2958db",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 305.144,
+            "rotY": 153.836838,
+            "rotZ": 63.2380524,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9cc5a8",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 48.9139442,
+            "rotY": 328.1281,
+            "rotZ": 112.0127,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "10535d",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 338.414764,
+            "rotY": 306.362579,
+            "rotZ": 284.905762,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9a107a",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 349.58783,
+            "rotY": 309.465851,
+            "rotZ": 283.690247,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "22a46c",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 62.2125549,
+            "rotY": 70.45339,
+            "rotZ": 4.33919859,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2d1d55",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 331.1483,
+            "rotY": 322.5893,
+            "rotZ": 105.622993,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "905dbf",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 355.664917,
+            "rotY": 328.541779,
+            "rotZ": 283.203369,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "82a622",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 358.649048,
+            "rotY": 327.218872,
+            "rotZ": 231.771713,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "017d18",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 29.9904423,
+            "rotY": 303.062531,
+            "rotZ": 57.1991844,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "648019",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 15.8744354,
+            "rotY": 312.99527,
+            "rotZ": 63.28111,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Double Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoodsx2.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3af705",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 30.5553989,
+            "rotY": 304.987427,
+            "rotZ": 61.08988,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d4c0db",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 356.6503,
+            "rotY": 320.141479,
+            "rotZ": 68.06947,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c0d54e",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.438012451,
+            "posY": 2.45382333,
+            "posZ": -1.00558519,
+            "rotX": 342.569946,
+            "rotY": 289.119141,
+            "rotZ": 354.934021,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Double Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgruntsx2.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "171e1b",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.434020072,
+            "posY": 2.48163033,
+            "posZ": -1.00310838,
+            "rotX": 358.1812,
+            "rotY": 264.8713,
+            "rotZ": 359.84256,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9dc1c8",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 8.71887,
+            "rotY": 305.971466,
+            "rotZ": 8.469439,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Double Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgruntsx2.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e6da16",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 2.10000014,
+            "posY": 0.332731873,
+            "posZ": -2.10000157,
+            "rotX": 357.297058,
+            "rotY": 268.92337,
+            "rotZ": 10.9423218,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a58da7",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.602317333,
+            "posY": 2.406126,
+            "posZ": -1.37494516,
+            "rotX": 356.710632,
+            "rotY": 270.573181,
+            "rotZ": 26.2249756,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Double Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgruntsx2.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f7a98e",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.5848197,
+            "posY": 3.19919324,
+            "posZ": -1.79591084,
+            "rotX": 5.7850194,
+            "rotY": 265.555969,
+            "rotZ": 33.26524,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d8aa79",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.6247275,
+            "posY": 2.890391,
+            "posZ": -1.36401522,
+            "rotX": 352.0939,
+            "rotY": 271.6742,
+            "rotZ": 23.8315659,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "322c3a",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.7959046,
+            "posY": 3.152452,
+            "posZ": -1.5988,
+            "rotX": 1.51701629,
+            "rotY": 270.882446,
+            "rotZ": 29.9665051,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Gold",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgold.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "8a30ac",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.7346497,
+            "posY": 2.96490383,
+            "posZ": -1.584513,
+            "rotX": 5.083467,
+            "rotY": 255.356842,
+            "rotZ": 203.322388,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5d24ff",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.7799251,
+            "posY": 2.80678654,
+            "posZ": -1.21016979,
+            "rotX": 353.875122,
+            "rotY": 267.591034,
+            "rotZ": 24.3909283,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Grunts",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgrunts.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b3468b",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.474856,
+            "posY": 3.053461,
+            "posZ": -0.632414639,
+            "rotX": 359.450623,
+            "rotY": 270.014252,
+            "rotZ": 359.986633,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Goods",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesgoods.unity3d",
+            "AssetbundleSecondaryURL": "<Pillars of Eternity - Lords of the Eastern Reach>pillarsofeternitylotertilesshared.unity3d",
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c35061",
+          "RotationValues": [
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "",
+              "Rotation": {
+                "x": 360.0,
+                "y": 0.0,
+                "z": 180.0
+              }
+            }
+          ]
+        }
+      ],
+      "GUID": "119477"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

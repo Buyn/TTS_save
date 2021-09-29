@@ -1,0 +1,54 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -34.5,
+        "posY": 1.06751072,
+        "posZ": 16.5,
+        "rotX": 1.38759788E-07,
+        "rotY": 180.000015,
+        "rotZ": 3.4810185E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Page 2",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "<Battle For Greyport>greyport_rules.unity3d",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "LoopingEffectIndex": 1
+      },
+      "LuaScript": "function onLoad()\r\n    infoRefresh()\r\n    buttonRefresh()\r\nend\r\n\r\nfunction onObjectLoopingEffect(obj)\r\n    if obj == self then\r\n        infoRefresh()\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction infoRefresh()\r\n    loopID = self.AssetBundle.getLoopingEffectIndex()\r\n    loopCount = #self.AssetBundle.getLoopingEffects()\r\n    self.setName(ref_pageInfo[loopID+1].name)\r\n    self.setDescription(ref_pageInfo[loopID+1].desc)\r\nend\r\n\r\n--Click functions\r\n\r\nfunction click_next()\r\n    infoRefresh()\r\n    if loopID < loopCount then\r\n        self.AssetBundle.playLoopingEffect(loopID + 1)\r\n        self.AssetBundle.playTriggerEffect(0)\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\nfunction click_prev()\r\n    infoRefresh()\r\n    if loopID > 0 then\r\n        self.AssetBundle.playLoopingEffect(loopID - 1)\r\n        self.AssetBundle.playTriggerEffect(0)\r\n        buttonRefresh()\r\n    end\r\nend\r\n\r\n--Button creation\r\n\r\nfunction buttonRefresh()\r\n    self.clearButtons()\r\n    infoRefresh()\r\n    if loopID == 0 then\r\n        createNextButton()\r\n    elseif loopID == loopCount -1 then\r\n        createPrevButton()\r\n    elseif loopID < loopCount then\r\n        createNextButton()\r\n        createPrevButton()\r\n    end\r\nend\r\n\r\n\r\nfunction createNextButton()\r\n    self.createButton({\r\n        click_function=\"click_next\", function_owner=self,\r\n        position={0,1.2,5.25}, height=600, width=2000, color={1,1,1,0}\r\n    })\r\nend\r\n\r\nfunction createPrevButton()\r\n    self.createButton({\r\n        click_function=\"click_prev\", function_owner=self,\r\n        position={0,1.2,-5.25}, height=600, width=2000, color={1,1,1,0}\r\n    })\r\nend\r\n\r\n\r\nref_pageInfo = {\r\n    {\r\n        name = \"Page 1\",\r\n        desc = \"\",\r\n    },\r\n    {\r\n        name = \"Page 2\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 3\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 4\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 5\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 6\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 7\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 8\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 9\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 10\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 11\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 12\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 13\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 14\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 15\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 16\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 17\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 18\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 19\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 20\",\r\n        desc = \"\"\r\n    },\r\n    {\r\n        name = \"Page 21\",\r\n        desc = \"\"\r\n    },\r\n}",
+      "LuaScriptState": "",
+      "GUID": "6d9a83"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}
